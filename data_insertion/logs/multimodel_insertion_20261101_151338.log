@@ -1,0 +1,51 @@
+2026-11-01 15:13:38,712 [INFO] Início da inserção multimodelo
+2026-11-01 15:13:41,069 [INFO] Collections e índices criados
+2026-11-01 15:13:41,117 [INFO] 5 documento(s) em modalidade_licitacao a partir de modalidade_licitacao.csv
+2026-11-01 15:13:41,165 [INFO] 5 documento(s) em municipio a partir de municipio.csv
+2026-11-01 15:13:41,210 [INFO] 3 documento(s) em situacao_cadastral a partir de situacao_cadastral.csv
+2026-11-01 15:13:42,182 [INFO] 50000 documento(s) em pessoa a partir de pessoa.csv
+2026-11-01 15:13:43,295 [INFO] 43513 documento(s) em pessoa a partir de pessoa_cgu.csv
+2026-11-01 15:13:44,263 [INFO] 38465 documento(s) em pessoa a partir de pessoa_pncp.csv
+2026-11-01 15:13:45,314 [INFO] 40263 documento(s) em pessoa a partir de pessoa_tce.csv
+2026-11-01 15:13:46,072 [INFO] 27700 documento(s) em pessoa a partir de pessoa_tcu.csv
+2026-11-01 15:13:46,117 [INFO] 2 documento(s) em ente a partir de ente.csv
+2026-11-01 15:13:46,161 [INFO] 4 documento(s) em unidade_gestora a partir de unidade_gestora.csv
+2026-11-01 15:13:50,216 [INFO] 100000 documento(s) em processo_licitatorio a partir de processo_licitatorio.csv
+2026-11-01 15:13:51,464 [INFO] 28625 documento(s) em processo_licitatorio a partir de processo_licitatorio_cgu.csv
+2026-11-01 15:13:52,588 [INFO] 32621 documento(s) em processo_licitatorio a partir de processo_licitatorio_pncp.csv
+2026-11-01 15:13:54,393 [INFO] 40663 documento(s) em processo_licitatorio a partir de processo_licitatorio_tce.csv
+2026-11-01 15:13:57,890 [INFO] 65934 documento(s) em processo_licitatorio a partir de processo_licitatorio_tcu.csv
+2026-11-01 15:14:03,591 [INFO] 200035 documento(s) em documento a partir de documento.csv
+2026-11-01 15:14:09,869 [INFO] 250371 documento(s) em item_licitacao a partir de item_licitacao.csv
+2026-11-01 15:14:11,173 [INFO] 44724 documento(s) em item_licitacao a partir de item_licitacao_cgu.csv
+2026-11-01 15:14:11,843 [INFO] 20811 documento(s) em item_licitacao a partir de item_licitacao_pncp.csv
+2026-11-01 15:14:13,051 [INFO] 40990 documento(s) em item_licitacao a partir de item_licitacao_tce.csv
+2026-11-01 15:14:13,741 [INFO] 27287 documento(s) em item_licitacao a partir de item_licitacao_tcu.csv
+2026-11-01 15:14:16,083 [INFO] 80058 documento(s) em contrato a partir de contrato.csv
+2026-11-01 15:14:16,860 [INFO] 27267 documento(s) em contrato a partir de contrato_cgu.csv
+2026-11-01 15:14:18,933 [INFO] 52232 documento(s) em contrato a partir de contrato_pncp.csv
+2026-11-01 15:14:19,913 [INFO] 22213 documento(s) em contrato a partir de contrato_tce.csv
+2026-11-01 15:14:20,669 [INFO] 23208 documento(s) em contrato a partir de contrato_tcu.csv
+2026-11-01 15:14:42,665 [INFO] 876852 documento(s) em cotacao a partir de cotacao.csv
+2026-11-01 15:14:43,299 [INFO] 25066 documento(s) em pessoa_fisica a partir de pessoa_fisica.csv
+2026-11-01 15:14:45,357 [INFO] 24934 documento(s) em pessoa_juridica a partir de pessoa_juridica.csv
+2026-11-01 15:14:46,396 [INFO] 24934 documento(s) em estabelecimento a partir de estabelecimento.csv
+2026-11-01 15:14:46,424 [INFO] 2 aresta(s) em ENTE_MUNICIPIO
+2026-11-01 15:14:47,090 [INFO] 24934 aresta(s) em ESTABELECIMENTO_MUNICIPIO
+2026-11-01 15:14:47,139 [INFO] 4 aresta(s) em UNIDADE_GESTORA_ENTE
+2026-11-01 15:14:58,796 [INFO] 264937 aresta(s) em PROCESSO_LICITATORIO_MODALIDADE_LICITACAO
+2026-11-01 15:15:08,043 [INFO] 267843 aresta(s) em PROCESSO_LICITATORIO_UNIDADE_GESTORA
+2026-11-01 15:15:33,744 [INFO] 535984 aresta(s) em DOCUMENTO_PROCESSO_LICITATORIO
+2026-11-01 15:17:13,867 [INFO] 1029569 aresta(s) em ITEM_LICITACAO_PROCESSO_LICITATORIO
+2026-11-01 15:17:59,823 [INFO] 548073 aresta(s) em CONTRATO_PROCESSO_LICITATORIO
+2026-11-01 15:18:00,815 [INFO] 0 aresta(s) em CONTRATO_CONTRATO
+2026-11-01 15:23:39,035 [INFO] 3505378 aresta(s) em COTACAO_PESSOA
+2026-11-01 15:23:43,769 [INFO] 25066 aresta(s) em PESSOA_FISICA_SITUACAO_CADASTRAL
+2026-11-01 15:23:51,604 [INFO] 24934 aresta(s) em ESTABELECIMENTO_SITUACAO_CADASTRAL
+2026-11-01 15:23:54,460 [INFO] 24934 aresta(s) em ESTABELECIMENTO_PESSOA_JURIDICA
+2026-11-01 15:23:56,799 [INFO] 25066 aresta(s) em PESSOA_PESSOA_FISICA
+2026-11-01 15:23:58,795 [INFO] 24934 aresta(s) em PESSOA_PESSOA_JURIDICA
+2026-11-01 15:24:39,303 [INFO] 350111 aresta(s) em PESSOA_PROCESSO_LICITATORIO (via processo_licitatorio_pessoa)
+2026-11-01 15:25:40,321 [INFO] 876852 aresta(s) em ITEM_LICITACAO_COTACAO (via item_cotacao)
+2026-11-01 15:25:57,058 [INFO] 200717 aresta(s) em CONTRATO_COTACAO (via contrato_cotacao)
+2026-11-01 15:25:57,058 [INFO] Inserção multimodelo concluída com sucesso

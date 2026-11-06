@@ -1,0 +1,13 @@
+2026-11-01 14:08:17,403 [INFO] Início da inserção multimodelo
+2026-11-01 14:08:18,308 [INFO] Collections e índices criados
+2026-11-01 14:08:18,362 [ERROR] Falha durante a inserção multimodelo
+Traceback (most recent call last):
+  File "C:\Users\maria\OneDrive\Documents\TCC\data_insertion\multimodel_insertion.py", line 245, in main
+    load_documents(db)
+    ~~~~~~~~~~~~~~^^^^
+  File "C:\Users\maria\OneDrive\Documents\TCC\data_insertion\multimodel_insertion.py", line 183, in load_documents
+    writer.flush()
+    ~~~~~~~~~~~~^^
+  File "C:\Users\maria\OneDrive\Documents\TCC\data_insertion\multimodel_insertion.py", line 117, in flush
+    raise result
+arango.exceptions.DocumentInsertError: [HTTP 202][ERR 1210] unique constraint violated - in index primary of type primary over '_key'; conflicting key: 1

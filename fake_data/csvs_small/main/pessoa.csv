@@ -1,0 +1,5001 @@
+id_pessoa,nome,tipo_pessoa,estrangeiro,fonte
+1,Dr. Isaque Siqueira,1,False,PT
+2,Rodrigo Cunha,1,False,PT
+3,Viana,2,False,PT
+4,Enzo Gabriel Aparecida,1,False,PT
+5,Sr. Rhavi da Paz,1,False,PT
+6,Ramos,2,False,PT
+7,Marcos Vinicius Gonçalves,1,False,PT
+8,André Monteiro,1,False,PT
+9,Manuela Sá,1,False,PT
+10,da Cunha Rios e Filhos,2,False,PT
+11,Silveira da Rocha S/A,2,False,PT
+12,Vargas,2,False,PT
+13,Ana Beatriz Pinto,1,False,PT
+14,Sr. Luan Ramos,1,False,PT
+15,Rodrigo Martins,1,False,PT
+16,Cavalcante da Conceição S/A,2,False,PT
+17,Guilherme das Neves,1,False,PT
+18,João Lucas Nogueira,1,False,PT
+19,Sr. Enzo da Mata,1,False,PT
+20,Aurora Pires,1,False,PT
+21,Lorenzo Barbosa,1,False,PT
+22,João Sampaio,1,False,PT
+23,Melo,2,False,PT
+24,Novais S.A.,2,False,PT
+25,Siqueira,2,False,PT
+26,Ana Clara Costela,1,False,PT
+27,Pimenta,2,False,PT
+28,Bianca da Rocha,1,False,PT
+29,Viana Albuquerque - ME,2,False,PT
+30,Heloisa da Paz,1,False,PT
+31,Elisa da Mata,1,False,PT
+32,Alana Nascimento,1,False,PT
+33,Arthur Miguel Sá,1,False,PT
+34,Aragão,2,False,PT
+35,Josué Dias,1,False,PT
+36,Sr. Valentim Machado,1,False,PT
+37,Leonardo Vasconcelos,1,False,PT
+38,Albuquerque das Neves S/A,2,False,PT
+39,da Mata - ME,2,False,PT
+40,Sampaio - ME,2,False,PT
+41,Sr. Matteo Mendonça,1,False,PT
+42,Nina Cardoso,1,False,PT
+43,da Rocha,2,False,PT
+44,Benício Almeida,1,False,PT
+45,Lima,2,False,PT
+46,Stephany Viana,1,False,PT
+47,Sr. Oliver da Mata,1,False,PT
+48,Natália Carvalho,1,False,PT
+49,Dr. Matteo Rezende,1,False,PT
+50,João Gabriel Pereira,1,False,PT
+51,Camargo,2,False,PT
+52,da Costa,2,False,PT
+53,Fonseca,2,False,PT
+54,Dias Ltda.,2,False,PT
+55,Gonçalves,2,False,PT
+56,Porto Fogaça Ltda.,2,False,PT
+57,Ravy Araújo,1,False,PT
+58,João Guilherme Pacheco,1,False,PT
+59,Isaque Costa,1,False,PT
+60,Clarice Jesus,1,False,PT
+61,Dias,2,False,PT
+62,Cauê Porto,1,False,PT
+63,Brayan Cirino,1,False,PT
+64,Ryan Costela,1,False,PT
+65,Câmara,2,False,PT
+66,Vasconcelos - ME,2,False,PT
+67,Castro Costa S/A,2,False,PT
+68,Evelyn Pastor,1,False,PT
+69,Câmara Cavalcante Ltda.,2,False,PT
+70,Ferreira,2,False,PT
+71,Pereira Pereira S/A,2,False,PT
+72,Sá Rodrigues e Filhos,2,False,PT
+73,Leonardo Sampaio,1,False,PT
+74,Ferreira - ME,2,False,PT
+75,Andrade,2,False,PT
+76,Silveira e Filhos,2,False,PT
+77,Nunes,2,False,PT
+78,Andrade Vargas S.A.,2,False,PT
+79,Gonçalves,2,False,PT
+80,Luara Viana,1,False,PT
+81,Dante Siqueira,1,False,PT
+82,Sabrina Pimenta,1,False,PT
+83,Pedro Martins,1,False,PT
+84,Teixeira - ME,2,False,PT
+85,Oliveira S/A,2,False,PT
+86,Silva Farias - ME,2,False,PT
+87,Sabrina Lopes,1,False,PT
+88,Vieira,2,False,PT
+89,Hadassa Casa Grande,1,False,PT
+90,Bruno Lopes,1,False,PT
+91,Dra. Maria Alice Gomes,1,False,PT
+92,Srta. Cecilia Farias,1,False,PT
+93,Henry Gabriel Viana,1,False,PT
+94,Srta. Maria Julia Oliveira,1,False,PT
+95,Silveira Pimenta e Filhos,2,False,PT
+96,Pedro Lucas Rios,1,False,PT
+97,Pimenta,2,False,PT
+98,Cirino Ltda.,2,False,PT
+99,Luna Siqueira,1,False,PT
+100,Murilo Melo,1,False,PT
+101,Lima Ltda.,2,False,PT
+102,Sá,2,False,PT
+103,Fogaça - ME,2,False,PT
+104,Vasconcelos e Filhos,2,False,PT
+105,Camila Casa Grande,1,False,PT
+106,Kamilly Siqueira,1,False,PT
+107,Novais Rezende - EI,2,False,PT
+108,Raquel Teixeira,1,False,PT
+109,Dante Sampaio,1,False,PT
+110,José Pedro Pastor,1,False,PT
+111,Machado S.A.,2,False,PT
+112,Macedo,2,False,PT
+113,Laís Gonçalves,1,False,PT
+114,Dr. Bruno Souza,1,False,PT
+115,Ian Vieira,1,False,PT
+116,Gonçalves S/A,2,False,PT
+117,Vicente da Mata,1,False,PT
+118,Levi Oliveira,1,False,PT
+119,Albuquerque - ME,2,False,PT
+120,Silva,2,False,PT
+121,Sá,2,False,PT
+122,Caleb Mendonça,1,False,PT
+123,Gomes,2,False,PT
+124,Lavínia Dias,1,False,PT
+125,Zoe Brito,1,False,PT
+126,Camila Albuquerque,1,False,PT
+127,Andrade Costa - ME,2,False,PT
+128,Hadassa Barros,1,False,PT
+129,Santos,2,False,PT
+130,Brayan Moura,1,False,PT
+131,Borges - EI,2,False,PT
+132,Ravi Azevedo,1,False,PT
+133,João Felipe Silva,1,False,PT
+134,Heitor Montenegro,1,False,PT
+135,Srta. Natália Carvalho,1,False,PT
+136,Olívia Rocha,1,False,PT
+137,Sr. João Vitor Caldeira,1,False,PT
+138,Diego Siqueira,1,False,PT
+139,Pedro Miguel Câmara,1,False,PT
+140,Caroline Gonçalves,1,False,PT
+141,Sr. Enzo Gabriel Souza,1,False,PT
+142,Davi Lucas Silveira,1,False,PT
+143,Joaquim Gonçalves,1,False,PT
+144,Mariane Rezende,1,False,PT
+145,Maitê Rodrigues,1,False,PT
+146,Marques - EI,2,False,PT
+147,Leão Monteiro Ltda.,2,False,PT
+148,Bella Montenegro,1,False,PT
+149,da Cruz,2,False,PT
+150,Henry Gabriel Sá,1,False,PT
+151,Nogueira,2,False,PT
+152,Cunha,2,False,PT
+153,Moreira,2,False,PT
+154,Isabela Montenegro,1,False,PT
+155,Brito Peixoto e Filhos,2,False,PT
+156,Farias Ltda.,2,False,PT
+157,Maria Julia Brito,1,False,PT
+158,Viana da Costa - EI,2,False,PT
+159,Lunna Novais,1,False,PT
+160,Fonseca - ME,2,False,PT
+161,Ester Farias,1,False,PT
+162,Pereira,2,False,PT
+163,Ana Cecília das Neves,1,False,PT
+164,Campos,2,False,PT
+165,Correia,2,False,PT
+166,Emanuelly Pires,1,False,PT
+167,Nogueira,2,False,PT
+168,Moura da Costa Ltda.,2,False,PT
+169,da Rocha Ltda.,2,False,PT
+170,Cardoso S/A,2,False,PT
+171,Abreu S.A.,2,False,PT
+172,Luan Novaes,1,False,PT
+173,Gonçalves,2,False,PT
+174,Eloah Costela,1,False,PT
+175,Maya Brito,1,False,PT
+176,Carolina Leão,1,False,PT
+177,Silveira - ME,2,False,PT
+178,Benjamin Costela,1,False,PT
+179,Eloah Silva,1,False,PT
+180,Garcia,2,False,PT
+181,da Rosa - ME,2,False,PT
+182,Aurora da Mota,1,False,PT
+183,Luana da Mata,1,False,PT
+184,Erick Sales,1,False,PT
+185,Siqueira - EI,2,False,PT
+186,Aylla Melo,1,False,PT
+187,Câmara,2,False,PT
+188,Jesus,2,False,PT
+189,Ana Liz Correia,1,False,PT
+190,da Mota Ltda.,2,False,PT
+191,Srta. Camila Fogaça,1,False,PT
+192,Lopes,2,False,PT
+193,Otávio Sá,1,False,PT
+194,Maria Flor Nunes,1,False,PT
+195,Maria Laura da Mota,1,False,PT
+196,Siqueira,2,False,PT
+197,Machado,2,False,PT
+198,Raquel Fernandes,1,False,PT
+199,Esther Fonseca,1,False,PT
+200,Dias,2,False,PT
+201,Sr. João Miguel Moura,1,False,PT
+202,Teixeira Rocha S.A.,2,False,PT
+203,Alves Brito e Filhos,2,False,PT
+204,André Andrade,1,False,PT
+205,Silveira Cirino S.A.,2,False,PT
+206,Freitas Guerra - ME,2,False,PT
+207,Pastor,2,False,PT
+208,Caldeira,2,False,PT
+209,Asafe Rodrigues,1,False,PT
+210,Siqueira S/A,2,False,PT
+211,Antonella Rodrigues,1,False,PT
+212,Allana Santos,1,False,PT
+213,Ana Clara Sales,1,False,PT
+214,Dias,2,False,PT
+215,Almeida Ltda.,2,False,PT
+216,das Neves Camargo S.A.,2,False,PT
+217,Vinícius da Cunha,1,False,PT
+218,Sra. Alexia Silva,1,False,PT
+219,Srta. Lunna Andrade,1,False,PT
+220,Caldeira,2,False,PT
+221,Dias,2,False,PT
+222,Ian Fogaça,1,False,PT
+223,Cirino Ltda.,2,False,PT
+224,José Pedro Oliveira,1,False,PT
+225,Montenegro,2,False,PT
+226,Nunes,2,False,PT
+227,Ágatha Farias,1,False,PT
+228,Juan Albuquerque,1,False,PT
+229,Nogueira Rezende e Filhos,2,False,PT
+230,Azevedo,2,False,PT
+231,Sra. Liz Peixoto,1,False,PT
+232,Cavalcanti,2,False,PT
+233,Sr. Bernardo da Cruz,1,False,PT
+234,Eduardo Pacheco,1,False,PT
+235,Fernandes e Filhos,2,False,PT
+236,Moraes,2,False,PT
+237,Caldeira,2,False,PT
+238,da Conceição,2,False,PT
+239,Raquel Correia,1,False,PT
+240,Ferreira da Cruz e Filhos,2,False,PT
+241,da Paz,2,False,PT
+242,Moraes,2,False,PT
+243,Sophia Santos,1,False,PT
+244,Pacheco e Filhos,2,False,PT
+245,Pedro Lucas Vasconcelos,1,False,PT
+246,Cunha,2,False,PT
+247,Dr. Erick Cavalcanti,1,False,PT
+248,Gomes Sá S/A,2,False,PT
+249,Aurora Câmara,1,False,PT
+250,Maria Isis Monteiro,1,False,PT
+251,Nascimento,2,False,PT
+252,Dra. Sara Melo,1,False,PT
+253,Rezende Jesus - EI,2,False,PT
+254,Lucas Lopes,1,False,PT
+255,Martins,2,False,PT
+256,Siqueira,2,False,PT
+257,Manuella Fernandes,1,False,PT
+258,Andrade,2,False,PT
+259,Cecília Cirino,1,False,PT
+260,Bento Gonçalves,1,False,PT
+261,Srta. Mariane Araújo,1,False,PT
+262,da Rosa S.A.,2,False,PT
+263,Lavínia Aragão,1,False,PT
+264,Aragão,2,False,PT
+265,Correia Porto S/A,2,False,PT
+266,Mariane Correia,1,False,PT
+267,Otto Aragão,1,False,PT
+268,Thiago da Luz,1,False,PT
+269,Rael da Cunha,1,False,PT
+270,Lopes Cirino e Filhos,2,False,PT
+271,Rios,2,False,PT
+272,Caleb Ramos,1,False,PT
+273,Cavalcanti,2,False,PT
+274,Luna Rios,1,False,PT
+275,Ana Julia Costela,1,False,PT
+276,Ester Camargo,1,False,PT
+277,Yuri Brito,1,False,PT
+278,Leão,2,False,PT
+279,Davi Lucas Farias,1,False,PT
+280,Mendonça Brito e Filhos,2,False,PT
+281,Maysa Pereira,1,False,PT
+282,Clarice Nogueira,1,False,PT
+283,Abreu,2,False,PT
+284,Pastor Ltda.,2,False,PT
+285,Rios Aragão e Filhos,2,False,PT
+286,Marina Oliveira,1,False,PT
+287,Viana da Conceição e Filhos,2,False,PT
+288,Sophia Pereira,1,False,PT
+289,Antônio Barbosa,1,False,PT
+290,Ana Beatriz Santos,1,False,PT
+291,da Cruz Correia - ME,2,False,PT
+292,Brito,2,False,PT
+293,Thomas da Mota,1,False,PT
+294,Gomes,2,False,PT
+295,Manuella da Conceição,1,False,PT
+296,Manuella Porto,1,False,PT
+297,Garcia e Filhos,2,False,PT
+298,Guerra,2,False,PT
+299,Srta. Luana Costa,1,False,PT
+300,Pinto,2,False,PT
+301,Farias,2,False,PT
+302,Câmara,2,False,PT
+303,Santos Vasconcelos S.A.,2,False,PT
+304,Silva Moura S/A,2,False,PT
+305,Nogueira Rezende S/A,2,False,PT
+306,Ana Sophia Dias,1,False,PT
+307,Sousa,2,False,PT
+308,Camargo e Filhos,2,False,PT
+309,Enrico Machado,1,False,PT
+310,Macedo Rodrigues - ME,2,False,PT
+311,Raul Fogaça,1,False,PT
+312,Marcela Vargas,1,False,PT
+313,Leão Gomes e Filhos,2,False,PT
+314,Dom Ribeiro,1,False,PT
+315,Ferreira S.A.,2,False,PT
+316,Fogaça,2,False,PT
+317,Davi Miguel Pereira,1,False,PT
+318,Ferreira,2,False,PT
+319,Dr. João Guilherme Machado,1,False,PT
+320,Dr. Erick Castro,1,False,PT
+321,Silva,2,False,PT
+322,Luiz Fernando Araújo,1,False,PT
+323,Jesus,2,False,PT
+324,Pires Albuquerque S/A,2,False,PT
+325,Porto - ME,2,False,PT
+326,Stella Sousa,1,False,PT
+327,Felipe Freitas,1,False,PT
+328,Siqueira da Rosa e Filhos,2,False,PT
+329,Campos,2,False,PT
+330,Montenegro,2,False,PT
+331,Srta. Maria Liz Andrade,1,False,PT
+332,Srta. Alícia Nogueira,1,False,PT
+333,Sr. Arthur Miguel Mendonça,1,False,PT
+334,Vargas,2,False,PT
+335,Macedo,2,False,PT
+336,Ana Machado,1,False,PT
+337,Correia - EI,2,False,PT
+338,Fogaça Jesus - EI,2,False,PT
+339,Thomas Cirino,1,False,PT
+340,Emanuel Andrade,1,False,PT
+341,Barbosa,2,False,PT
+342,Heitor Rodrigues,1,False,PT
+343,Allana Cunha,1,False,PT
+344,Sr. Apollo Cunha,1,False,PT
+345,da Rosa Ltda.,2,False,PT
+346,Dr. Murilo Andrade,1,False,PT
+347,Sá S/A,2,False,PT
+348,Maria Isis Almeida,1,False,PT
+349,Dra. Ana Julia Pimenta,1,False,PT
+350,Aragão,2,False,PT
+351,Novais,2,False,PT
+352,Moura,2,False,PT
+353,Siqueira Lopes e Filhos,2,False,PT
+354,Jesus,2,False,PT
+355,Sra. Maria Sophia Sousa,1,False,PT
+356,Sr. Vinícius Rodrigues,1,False,PT
+357,Marcos Vinicius Sampaio,1,False,PT
+358,Viana,2,False,PT
+359,Ana Cecília Barbosa,1,False,PT
+360,Ana Júlia Alves,1,False,PT
+361,Barros S/A,2,False,PT
+362,Sr. Diego Mendes,1,False,PT
+363,João Vitor Viana,1,False,PT
+364,Natália Cassiano,1,False,PT
+365,Caroline Cavalcante,1,False,PT
+366,da Costa,2,False,PT
+367,Melina Novais,1,False,PT
+368,Lopes Santos Ltda.,2,False,PT
+369,Otto Nogueira,1,False,PT
+370,Mendes - ME,2,False,PT
+371,Fernando Costa,1,False,PT
+372,Noah da Costa,1,False,PT
+373,Fernandes S/A,2,False,PT
+374,Lopes,2,False,PT
+375,Fonseca,2,False,PT
+376,Mendes,2,False,PT
+377,Lopes S.A.,2,False,PT
+378,Rodrigues Porto - EI,2,False,PT
+379,Sra. Maria Cecília da Mata,1,False,PT
+380,Farias,2,False,PT
+381,Rodrigues,2,False,PT
+382,da Cruz Ltda.,2,False,PT
+383,Henry Pimenta,1,False,PT
+384,Noah Teixeira,1,False,PT
+385,Apollo Borges,1,False,PT
+386,Kaique Vasconcelos,1,False,PT
+387,Rodrigues,2,False,PT
+388,Peixoto Marques S.A.,2,False,PT
+389,Moreira S.A.,2,False,PT
+390,Barros S.A.,2,False,PT
+391,Carolina Nascimento,1,False,PT
+392,Allana Ramos,1,False,PT
+393,Eduarda da Cruz,1,False,PT
+394,Olivia Teixeira,1,False,PT
+395,Heitor Marques,1,False,PT
+396,da Luz Sousa Ltda.,2,False,PT
+397,Novaes,2,False,PT
+398,Peixoto Araújo - EI,2,False,PT
+399,Garcia,2,False,PT
+400,Dr. José Pedro Almeida,1,False,PT
+401,Dante Pacheco,1,False,PT
+402,Marques,2,False,PT
+403,Dra. Ana Julia Azevedo,1,False,PT
+404,Théo Freitas,1,False,PT
+405,Siqueira e Filhos,2,False,PT
+406,Araújo,2,False,PT
+407,Marcos Vinicius Azevedo,1,False,PT
+408,Otto da Rocha,1,False,PT
+409,Gomes Aparecida S.A.,2,False,PT
+410,Vinicius Novais,1,False,PT
+411,Brito Sampaio S.A.,2,False,PT
+412,Felipe da Rosa,1,False,PT
+413,Nascimento Alves - EI,2,False,PT
+414,Felipe Farias,1,False,PT
+415,Gomes,2,False,PT
+416,Pereira Sousa e Filhos,2,False,PT
+417,João Guilherme Guerra,1,False,PT
+418,Marques Pereira Ltda.,2,False,PT
+419,Ana Clara Aparecida,1,False,PT
+420,Bella Novais,1,False,PT
+421,Cauã Porto,1,False,PT
+422,Cavalcanti Oliveira Ltda.,2,False,PT
+423,da Mota,2,False,PT
+424,Monteiro Sales S/A,2,False,PT
+425,Santos Rocha S.A.,2,False,PT
+426,Fernandes,2,False,PT
+427,Souza Castro - ME,2,False,PT
+428,Davi Miguel Nascimento,1,False,PT
+429,da Luz Caldeira - ME,2,False,PT
+430,Guerra,2,False,PT
+431,Leonardo da Mata,1,False,PT
+432,Lima,2,False,PT
+433,Emanuelly Camargo,1,False,PT
+434,Enzo Gabriel Silva,1,False,PT
+435,Cavalcanti Siqueira e Filhos,2,False,PT
+436,Mendonça,2,False,PT
+437,Marcos Vinicius Peixoto,1,False,PT
+438,Joana Câmara,1,False,PT
+439,Montenegro,2,False,PT
+440,Ísis Casa Grande,1,False,PT
+441,João Lucas Pires,1,False,PT
+442,Souza - ME,2,False,PT
+443,Ferreira e Filhos,2,False,PT
+444,Pacheco Lima - EI,2,False,PT
+445,Sr. Danilo Rezende,1,False,PT
+446,Câmara Ltda.,2,False,PT
+447,Luna Siqueira,1,False,PT
+448,Daniela Abreu,1,False,PT
+449,Eloah Vieira,1,False,PT
+450,Dr. Lucas da Luz,1,False,PT
+451,Maria Luiza Camargo,1,False,PT
+452,Benjamim Montenegro,1,False,PT
+453,Porto,2,False,PT
+454,Barros,2,False,PT
+455,Dra. Gabriela Lopes,1,False,PT
+456,Sarah Silva,1,False,PT
+457,Peixoto,2,False,PT
+458,Gomes,2,False,PT
+459,Maya Monteiro,1,False,PT
+460,Lorena Novais,1,False,PT
+461,Olívia Novaes,1,False,PT
+462,Heloísa da Cunha,1,False,PT
+463,da Costa,2,False,PT
+464,Siqueira,2,False,PT
+465,Câmara,2,False,PT
+466,da Conceição,2,False,PT
+467,Gustavo Machado,1,False,PT
+468,Albuquerque Alves S/A,2,False,PT
+469,Sales,2,False,PT
+470,Borges S/A,2,False,PT
+471,Liam Nunes,1,False,PT
+472,Brito,2,False,PT
+473,Ana Vitória da Costa,1,False,PT
+474,Thales da Conceição,1,False,PT
+475,Martins,2,False,PT
+476,Maitê da Costa,1,False,PT
+477,Caldeira Monteiro - EI,2,False,PT
+478,Cassiano,2,False,PT
+479,José Miguel Ribeiro,1,False,PT
+480,Caldeira Novaes - ME,2,False,PT
+481,Rodrigues Vargas - EI,2,False,PT
+482,Vieira S/A,2,False,PT
+483,Theodoro Costela,1,False,PT
+484,Marques Novais S/A,2,False,PT
+485,da Paz,2,False,PT
+486,Bruna Camargo,1,False,PT
+487,da Rosa e Filhos,2,False,PT
+488,Andrade,2,False,PT
+489,Pimenta,2,False,PT
+490,Correia Sales - ME,2,False,PT
+491,Ana Júlia Santos,1,False,PT
+492,Maria Isis Mendes,1,False,PT
+493,Pires Duarte - EI,2,False,PT
+494,Rezende,2,False,PT
+495,Azevedo e Filhos,2,False,PT
+496,da Rosa,2,False,PT
+497,Vasconcelos S/A,2,False,PT
+498,Martins da Cunha S/A,2,False,PT
+499,Sr. Ravi Lucca Farias,1,False,PT
+500,da Paz,2,False,PT
+501,Rafael Guerra,1,False,PT
+502,Barbosa das Neves S/A,2,False,PT
+503,Mariah Costela,1,False,PT
+504,Heloísa Teixeira,1,False,PT
+505,Lima da Mata - EI,2,False,PT
+506,Câmara,2,False,PT
+507,Marques S.A.,2,False,PT
+508,Freitas Fonseca Ltda.,2,False,PT
+509,Rael Caldeira,1,False,PT
+510,Dra. Maria Isis Ribeiro,1,False,PT
+511,Lunna Monteiro,1,False,PT
+512,da Rocha Novais - ME,2,False,PT
+513,Fonseca - ME,2,False,PT
+514,Isabelly Correia,1,False,PT
+515,João Gabriel Peixoto,1,False,PT
+516,Agatha Silva,1,False,PT
+517,Daniel Nunes,1,False,PT
+518,Teixeira S.A.,2,False,PT
+519,Luiz Henrique Gomes,1,False,PT
+520,Samuel Teixeira,1,False,PT
+521,Cirino,2,False,PT
+522,Duarte,2,False,PT
+523,Pereira Araújo Ltda.,2,False,PT
+524,Porto,2,False,PT
+525,Ana Laura Sousa,1,False,PT
+526,Castro S/A,2,False,PT
+527,Lucas da Cruz,1,False,PT
+528,Maria Alice Camargo,1,False,PT
+529,Juliana Sá,1,False,PT
+530,Peixoto - ME,2,False,PT
+531,da Costa Campos e Filhos,2,False,PT
+532,Manuella Araújo,1,False,PT
+533,Barbosa Câmara Ltda.,2,False,PT
+534,Marcos Vinicius Mendes,1,False,PT
+535,Rocha,2,False,PT
+536,Gabriela Câmara,1,False,PT
+537,da Cunha - ME,2,False,PT
+538,Melina Correia,1,False,PT
+539,Silveira Farias Ltda.,2,False,PT
+540,Maria Vitória Albuquerque,1,False,PT
+541,Montenegro,2,False,PT
+542,Machado Mendes - EI,2,False,PT
+543,Siqueira - EI,2,False,PT
+544,Bárbara da Conceição,1,False,PT
+545,Sofia Monteiro,1,False,PT
+546,Ayla Siqueira,1,False,PT
+547,Dra. Rafaela Mendonça,1,False,PT
+548,Nascimento,2,False,PT
+549,Jesus,2,False,PT
+550,Samuel Barbosa,1,False,PT
+551,Theo Mendonça,1,False,PT
+552,da Cunha,2,False,PT
+553,Levi Pacheco,1,False,PT
+554,Dr. José Abreu,1,False,PT
+555,Fogaça,2,False,PT
+556,Fernandes,2,False,PT
+557,Gomes Ltda.,2,False,PT
+558,Rocha Fogaça S/A,2,False,PT
+559,Alves,2,False,PT
+560,André Aparecida,1,False,PT
+561,Porto,2,False,PT
+562,Alves,2,False,PT
+563,Calebe Nunes,1,False,PT
+564,Dr. Isaque Pires,1,False,PT
+565,Maya Silveira,1,False,PT
+566,Rhavi da Cunha,1,False,PT
+567,Isaac Leão,1,False,PT
+568,Pacheco Aragão - ME,2,False,PT
+569,Barros S.A.,2,False,PT
+570,Juliana Almeida,1,False,PT
+571,Luan Azevedo,1,False,PT
+572,Rafael Oliveira,1,False,PT
+573,Cassiano,2,False,PT
+574,Caldeira Costela - EI,2,False,PT
+575,Sra. Ana Julia Porto,1,False,PT
+576,Dra. Clarice da Conceição,1,False,PT
+577,Nascimento da Luz Ltda.,2,False,PT
+578,Mathias Carvalho,1,False,PT
+579,Silveira Porto e Filhos,2,False,PT
+580,Juan Barros,1,False,PT
+581,Gonçalves - ME,2,False,PT
+582,Srta. Lara Castro,1,False,PT
+583,Melina Nogueira,1,False,PT
+584,Dias S/A,2,False,PT
+585,Silveira - ME,2,False,PT
+586,Costa,2,False,PT
+587,Cardoso Costa S/A,2,False,PT
+588,Sá Rodrigues Ltda.,2,False,PT
+589,Peixoto,2,False,PT
+590,Levi Vieira,1,False,PT
+591,Lopes S.A.,2,False,PT
+592,Sr. Ravi Lucca Cassiano,1,False,PT
+593,Fonseca,2,False,PT
+594,Aparecida Mendonça - EI,2,False,PT
+595,Eloá Teixeira,1,False,PT
+596,Carvalho e Filhos,2,False,PT
+597,Araújo S.A.,2,False,PT
+598,Olivia Albuquerque,1,False,PT
+599,Davi Lucas Rodrigues,1,False,PT
+600,Sr. Nathan Silveira,1,False,PT
+601,Dom Nascimento,1,False,PT
+602,Gomes,2,False,PT
+603,Marcela Cunha,1,False,PT
+604,Enzo Gabriel Silva,1,False,PT
+605,Maria Sampaio,1,False,PT
+606,Pimenta,2,False,PT
+607,Fonseca,2,False,PT
+608,Ramos e Filhos,2,False,PT
+609,Henrique da Cunha,1,False,PT
+610,Luiz Otávio Mendes,1,False,PT
+611,Sr. Oliver Pimenta,1,False,PT
+612,Vitor Hugo da Cruz,1,False,PT
+613,Caldeira,2,False,PT
+614,Sra. Camila da Cunha,1,False,PT
+615,Moraes S/A,2,False,PT
+616,Duarte da Luz S/A,2,False,PT
+617,Hadassa Novais,1,False,PT
+618,Juan Rios,1,False,PT
+619,Jesus Porto - ME,2,False,PT
+620,Macedo,2,False,PT
+621,Cirino S.A.,2,False,PT
+622,Gonçalves,2,False,PT
+623,da Cunha e Filhos,2,False,PT
+624,Léo Rezende,1,False,PT
+625,Martins Pereira - ME,2,False,PT
+626,Castro,2,False,PT
+627,Samuel Sampaio,1,False,PT
+628,Vieira,2,False,PT
+629,Dra. Giovanna Pacheco,1,False,PT
+630,Nogueira,2,False,PT
+631,Yago da Rosa,1,False,PT
+632,Luiz Felipe Machado,1,False,PT
+633,Marques,2,False,PT
+634,Pedro Miguel da Paz,1,False,PT
+635,Pacheco,2,False,PT
+636,Caio Fogaça,1,False,PT
+637,Dr. Thales Fonseca,1,False,PT
+638,da Cunha,2,False,PT
+639,Câmara Garcia - EI,2,False,PT
+640,Dra. Letícia Rezende,1,False,PT
+641,Oliveira,2,False,PT
+642,Viana,2,False,PT
+643,Bernardo Peixoto,1,False,PT
+644,Costela,2,False,PT
+645,Sr. Lucas Gabriel Albuquerque,1,False,PT
+646,Alves Ltda.,2,False,PT
+647,Pedro Lucas Gonçalves,1,False,PT
+648,Santos S/A,2,False,PT
+649,da Paz Sales - ME,2,False,PT
+650,Marcos Vinicius Rocha,1,False,PT
+651,Caleb Vargas,1,False,PT
+652,Srta. Natália da Cruz,1,False,PT
+653,Silveira,2,False,PT
+654,Gonçalves Ltda.,2,False,PT
+655,Maria Fernanda Sampaio,1,False,PT
+656,Bruna da Rosa,1,False,PT
+657,Pereira Cunha Ltda.,2,False,PT
+658,Duarte - ME,2,False,PT
+659,Montenegro,2,False,PT
+660,Alice Freitas,1,False,PT
+661,Srta. Emanuella Nogueira,1,False,PT
+662,Asafe Lima,1,False,PT
+663,Kevin Vargas,1,False,PT
+664,Castro - ME,2,False,PT
+665,Moreira Abreu - ME,2,False,PT
+666,Lara Cardoso,1,False,PT
+667,Garcia,2,False,PT
+668,Hellena Fonseca,1,False,PT
+669,Arthur Marques,1,False,PT
+670,Carvalho,2,False,PT
+671,Rael Fonseca,1,False,PT
+672,Casa Grande,2,False,PT
+673,Júlia Caldeira,1,False,PT
+674,Vasconcelos,2,False,PT
+675,Albuquerque,2,False,PT
+676,Dias,2,False,PT
+677,Olivia Farias,1,False,PT
+678,Ferreira,2,False,PT
+679,Oliveira Cavalcante Ltda.,2,False,PT
+680,Maria Liz Gomes,1,False,PT
+681,Vasconcelos Mendonça Ltda.,2,False,PT
+682,Farias Sales e Filhos,2,False,PT
+683,Arthur Gabriel da Costa,1,False,PT
+684,Albuquerque,2,False,PT
+685,Abreu - EI,2,False,PT
+686,Vicente Camargo,1,False,PT
+687,Marques,2,False,PT
+688,Bento Melo,1,False,PT
+689,Lívia Vasconcelos,1,False,PT
+690,Barbosa,2,False,PT
+691,Martins,2,False,PT
+692,Marcelo Farias,1,False,PT
+693,da Conceição S/A,2,False,PT
+694,Costa Ltda.,2,False,PT
+695,Sales,2,False,PT
+696,Marques,2,False,PT
+697,Diogo Pacheco,1,False,PT
+698,Ribeiro,2,False,PT
+699,Sousa,2,False,PT
+700,Gomes,2,False,PT
+701,Garcia Cavalcante - ME,2,False,PT
+702,Sr. Matteo Marques,1,False,PT
+703,Brayan Brito,1,False,PT
+704,Araújo,2,False,PT
+705,da Mota,2,False,PT
+706,da Rocha,2,False,PT
+707,Almeida e Filhos,2,False,PT
+708,Nicolas da Luz,1,False,PT
+709,Mendonça da Mota e Filhos,2,False,PT
+710,Ágatha Sousa,1,False,PT
+711,Santos e Filhos,2,False,PT
+712,Sr. Levi Lopes,1,False,PT
+713,Dias Cavalcante - ME,2,False,PT
+714,Martins e Filhos,2,False,PT
+715,Barros Sá - ME,2,False,PT
+716,Alana da Cruz,1,False,PT
+717,Maitê Rezende,1,False,PT
+718,Azevedo,2,False,PT
+719,Yago Monteiro,1,False,PT
+720,Rebeca da Costa,1,False,PT
+721,Luiz Fernando Cavalcante,1,False,PT
+722,Theo Viana,1,False,PT
+723,Pires,2,False,PT
+724,Benicio da Conceição,1,False,PT
+725,Sampaio Lopes S/A,2,False,PT
+726,Brito,2,False,PT
+727,da Luz S.A.,2,False,PT
+728,Arthur Gabriel Martins,1,False,PT
+729,Helena Aragão,1,False,PT
+730,Sr. Davi Luiz Martins,1,False,PT
+731,Cardoso,2,False,PT
+732,Sr. Pietro Ramos,1,False,PT
+733,Sousa,2,False,PT
+734,Maya da Mota,1,False,PT
+735,Sousa,2,False,PT
+736,Olivia da Costa,1,False,PT
+737,Maria Helena Abreu,1,False,PT
+738,Dr. Luiz Miguel Montenegro,1,False,PT
+739,Luiz Henrique Gomes,1,False,PT
+740,da Luz,2,False,PT
+741,Guerra e Filhos,2,False,PT
+742,Gomes e Filhos,2,False,PT
+743,Isaac Cirino,1,False,PT
+744,Machado Aragão e Filhos,2,False,PT
+745,Sara Albuquerque,1,False,PT
+746,Garcia,2,False,PT
+747,Camargo Machado S/A,2,False,PT
+748,Heloisa Guerra,1,False,PT
+749,Maria Isis Dias,1,False,PT
+750,Mendonça Nascimento S/A,2,False,PT
+751,Vargas Ltda.,2,False,PT
+752,Catarina Pires,1,False,PT
+753,Mariana Azevedo,1,False,PT
+754,Sra. Ana Júlia Peixoto,1,False,PT
+755,da Conceição Ltda.,2,False,PT
+756,Montenegro,2,False,PT
+757,Souza,2,False,PT
+758,Pimenta Ltda.,2,False,PT
+759,Leão da Conceição S/A,2,False,PT
+760,Sra. Olivia Duarte,1,False,PT
+761,Sra. Pietra Aparecida,1,False,PT
+762,Catarina Câmara,1,False,PT
+763,Enrico Cavalcanti,1,False,PT
+764,Moraes,2,False,PT
+765,Lima,2,False,PT
+766,Davi Luiz Cirino,1,False,PT
+767,Manuella Costa,1,False,PT
+768,Cardoso,2,False,PT
+769,Gabrielly da Paz,1,False,PT
+770,Guerra,2,False,PT
+771,Melissa Aparecida,1,False,PT
+772,Sophia Rios,1,False,PT
+773,Sales Rodrigues e Filhos,2,False,PT
+774,Aurora Sales,1,False,PT
+775,Erick Oliveira,1,False,PT
+776,Macedo,2,False,PT
+777,Cardoso,2,False,PT
+778,Pereira,2,False,PT
+779,Arthur Gabriel Cunha,1,False,PT
+780,Isis Mendes,1,False,PT
+781,Gustavo Casa Grande,1,False,PT
+782,Augusto Novaes,1,False,PT
+783,Isabelly Albuquerque,1,False,PT
+784,Nunes S/A,2,False,PT
+785,Dra. Aylla Machado,1,False,PT
+786,Thomas das Neves,1,False,PT
+787,Augusto Guerra,1,False,PT
+788,Ryan Vargas,1,False,PT
+789,Moreira Ltda.,2,False,PT
+790,Casa Grande Guerra S.A.,2,False,PT
+791,Barros,2,False,PT
+792,Maria Julia Leão,1,False,PT
+793,Montenegro,2,False,PT
+794,Noah Guerra,1,False,PT
+795,Barbosa,2,False,PT
+796,Laís Cardoso,1,False,PT
+797,Enrico Garcia,1,False,PT
+798,Gael Henrique Pastor,1,False,PT
+799,Maria Liz da Paz,1,False,PT
+800,Carolina Aparecida,1,False,PT
+801,Cardoso,2,False,PT
+802,Fernandes,2,False,PT
+803,Olívia Pereira,1,False,PT
+804,Pereira,2,False,PT
+805,Esther Novais,1,False,PT
+806,Raquel Azevedo,1,False,PT
+807,João Guilherme Correia,1,False,PT
+808,da Conceição,2,False,PT
+809,Rodrigues Pinto - EI,2,False,PT
+810,Ana Julia Borges,1,False,PT
+811,Moreira,2,False,PT
+812,Fernandes,2,False,PT
+813,Correia,2,False,PT
+814,Rafael Vieira,1,False,PT
+815,Nicole Silveira,1,False,PT
+816,Novais,2,False,PT
+817,Moraes Abreu Ltda.,2,False,PT
+818,Mathias Moreira,1,False,PT
+819,Almeida,2,False,PT
+820,Ian da Rocha,1,False,PT
+821,Cauã Carvalho,1,False,PT
+822,Machado Novais e Filhos,2,False,PT
+823,Vinícius Borges,1,False,PT
+824,Cavalcanti,2,False,PT
+825,Barros,2,False,PT
+826,Garcia,2,False,PT
+827,Teixeira - EI,2,False,PT
+828,Ayla Aparecida,1,False,PT
+829,Melo,2,False,PT
+830,Farias,2,False,PT
+831,da Mata,2,False,PT
+832,Sra. Sarah da Rosa,1,False,PT
+833,Marques Gonçalves e Filhos,2,False,PT
+834,da Mota,2,False,PT
+835,Enrico da Rosa,1,False,PT
+836,Breno Vasconcelos,1,False,PT
+837,Novais - EI,2,False,PT
+838,Eduarda da Mota,1,False,PT
+839,Gomes das Neves S/A,2,False,PT
+840,Ágatha Teixeira,1,False,PT
+841,José Dias,1,False,PT
+842,Bruno Ribeiro,1,False,PT
+843,Pires,2,False,PT
+844,Agatha Gonçalves,1,False,PT
+845,da Mata e Filhos,2,False,PT
+846,Araújo,2,False,PT
+847,da Conceição,2,False,PT
+848,Martins,2,False,PT
+849,Gabrielly Fernandes,1,False,PT
+850,Vieira Pimenta S/A,2,False,PT
+851,Moraes,2,False,PT
+852,Maria Clara Azevedo,1,False,PT
+853,Novais Cirino - EI,2,False,PT
+854,Porto Freitas - EI,2,False,PT
+855,Raul Silveira,1,False,PT
+856,Viana Nascimento Ltda.,2,False,PT
+857,Aragão,2,False,PT
+858,Novais Ltda.,2,False,PT
+859,Teixeira,2,False,PT
+860,Mendes,2,False,PT
+861,Teixeira,2,False,PT
+862,Lima,2,False,PT
+863,Eloah Câmara,1,False,PT
+864,Silva e Filhos,2,False,PT
+865,Ísis Pastor,1,False,PT
+866,Cauã Cunha,1,False,PT
+867,Esther Azevedo,1,False,PT
+868,Marcela Silva,1,False,PT
+869,Pacheco Nascimento S.A.,2,False,PT
+870,Luiz Henrique Silva,1,False,PT
+871,Leonardo Mendes,1,False,PT
+872,Pereira Guerra S.A.,2,False,PT
+873,Yuri Fogaça,1,False,PT
+874,Enrico Rocha,1,False,PT
+875,Sr. Daniel Melo,1,False,PT
+876,Casa Grande,2,False,PT
+877,Cirino,2,False,PT
+878,Gael Henrique Macedo,1,False,PT
+879,Pereira Costela e Filhos,2,False,PT
+880,da Paz,2,False,PT
+881,Viana,2,False,PT
+882,Sousa,2,False,PT
+883,Cauã Cunha,1,False,PT
+884,da Conceição Ltda.,2,False,PT
+885,Laura Monteiro,1,False,PT
+886,João Pacheco,1,False,PT
+887,Benicio Pimenta,1,False,PT
+888,Pires,2,False,PT
+889,Gustavo Henrique Silveira,1,False,PT
+890,Albuquerque,2,False,PT
+891,Vitor Gabriel Moura,1,False,PT
+892,Dra. Clarice Pastor,1,False,PT
+893,Mendes,2,False,PT
+894,Sra. Brenda Correia,1,False,PT
+895,Luiz Otávio Gomes,1,False,PT
+896,Pedro Henrique Silveira,1,False,PT
+897,Pereira,2,False,PT
+898,Sr. Kevin Montenegro,1,False,PT
+899,Castro,2,False,PT
+900,Albuquerque,2,False,PT
+901,Sr. Otto Rocha,1,False,PT
+902,Porto,2,False,PT
+903,Ester Abreu,1,False,PT
+904,Vargas,2,False,PT
+905,Beatriz Monteiro,1,False,PT
+906,Camargo Alves e Filhos,2,False,PT
+907,Lucca da Paz,1,False,PT
+908,Leão Ltda.,2,False,PT
+909,Leão,2,False,PT
+910,Maria Cecília Almeida,1,False,PT
+911,João Vitor Pereira,1,False,PT
+912,Cavalcanti Castro Ltda.,2,False,PT
+913,Ana Beatriz Barbosa,1,False,PT
+914,Carvalho,2,False,PT
+915,Cassiano,2,False,PT
+916,Caleb da Mata,1,False,PT
+917,Yuri da Cruz,1,False,PT
+918,da Paz,2,False,PT
+919,Dr. Mathias Fogaça,1,False,PT
+920,Eloah Pimenta,1,False,PT
+921,Gomes e Filhos,2,False,PT
+922,Valentim Melo,1,False,PT
+923,Sra. Clarice Albuquerque,1,False,PT
+924,Moura,2,False,PT
+925,Pires,2,False,PT
+926,Benício Pacheco,1,False,PT
+927,Sr. Paulo da Mata,1,False,PT
+928,Vieira,2,False,PT
+929,Camargo - ME,2,False,PT
+930,Barros,2,False,PT
+931,Ribeiro - EI,2,False,PT
+932,Cardoso,2,False,PT
+933,Aragão,2,False,PT
+934,Moraes Leão e Filhos,2,False,PT
+935,Rocha,2,False,PT
+936,Ferreira Ltda.,2,False,PT
+937,Mirella Câmara,1,False,PT
+938,Peixoto,2,False,PT
+939,Fernandes - ME,2,False,PT
+940,da Cunha Peixoto S/A,2,False,PT
+941,Sr. Igor Ribeiro,1,False,PT
+942,Brito Farias - ME,2,False,PT
+943,Kaique Costa,1,False,PT
+944,Ravy Barros,1,False,PT
+945,Evelyn Machado,1,False,PT
+946,Cunha Rezende e Filhos,2,False,PT
+947,Lima,2,False,PT
+948,Nicolas Ribeiro,1,False,PT
+949,Aparecida Macedo S.A.,2,False,PT
+950,Porto Rocha S.A.,2,False,PT
+951,Daniela Barbosa,1,False,PT
+952,Breno Dias,1,False,PT
+953,Melina Machado,1,False,PT
+954,Cecilia Jesus,1,False,PT
+955,da Costa,2,False,PT
+956,Pinto,2,False,PT
+957,Costa,2,False,PT
+958,Ana Lívia Peixoto,1,False,PT
+959,Santos,2,False,PT
+960,Caio Almeida,1,False,PT
+961,Cassiano S.A.,2,False,PT
+962,Lívia da Costa,1,False,PT
+963,Dra. Catarina Souza,1,False,PT
+964,Souza,2,False,PT
+965,Moraes,2,False,PT
+966,Pires,2,False,PT
+967,Aylla Câmara,1,False,PT
+968,Duarte,2,False,PT
+969,Silva e Filhos,2,False,PT
+970,Leão Rocha S/A,2,False,PT
+971,Sampaio,2,False,PT
+972,Sra. Ana Cirino,1,False,PT
+973,Emanuella Marques,1,False,PT
+974,Carvalho - EI,2,False,PT
+975,Câmara,2,False,PT
+976,Ester das Neves,1,False,PT
+977,João Miguel Azevedo,1,False,PT
+978,Dra. Esther Cirino,1,False,PT
+979,da Rocha Andrade - ME,2,False,PT
+980,Sr. Gael Vargas,1,False,PT
+981,Gonçalves Fogaça Ltda.,2,False,PT
+982,Heitor Araújo,1,False,PT
+983,Aparecida - EI,2,False,PT
+984,Sra. Elisa Siqueira,1,False,PT
+985,Pastor Cassiano - EI,2,False,PT
+986,Monteiro,2,False,PT
+987,Benjamim Borges,1,False,PT
+988,Valentina Martins,1,False,PT
+989,Emanuelly Sampaio,1,False,PT
+990,Bárbara Nunes,1,False,PT
+991,Thomas Viana,1,False,PT
+992,Joaquim Oliveira,1,False,PT
+993,Vieira S/A,2,False,PT
+994,Laura Pereira,1,False,PT
+995,Siqueira Guerra S/A,2,False,PT
+996,Sr. Samuel Sousa,1,False,PT
+997,Guerra,2,False,PT
+998,Rodrigues,2,False,PT
+999,Porto,2,False,PT
+1000,Gael Henrique Peixoto,1,False,PT
+1001,Maria Vitória Ferreira,1,False,PT
+1002,Moraes,2,False,PT
+1003,Maria Cecília Guerra,1,False,PT
+1004,Rios,2,False,PT
+1005,Vasconcelos Peixoto S/A,2,False,PT
+1006,João Pedro Novaes,1,False,PT
+1007,Aragão,2,False,PT
+1008,Aparecida,2,False,PT
+1009,Marcelo Pacheco,1,False,PT
+1010,Araújo,2,False,PT
+1011,Fonseca,2,False,PT
+1012,Mendonça S.A.,2,False,PT
+1013,Vinícius Freitas,1,False,PT
+1014,Vieira,2,False,PT
+1015,Vasconcelos,2,False,PT
+1016,da Conceição,2,False,PT
+1017,João Vitor Costela,1,False,PT
+1018,Fogaça da Rosa S/A,2,False,PT
+1019,Helena Cardoso,1,False,PT
+1020,da Rosa S.A.,2,False,PT
+1021,Vinicius Camargo,1,False,PT
+1022,Ayla da Mata,1,False,PT
+1023,Dr. Leandro da Conceição,1,False,PT
+1024,Moraes S.A.,2,False,PT
+1025,Dr. Noah Macedo,1,False,PT
+1026,Nogueira,2,False,PT
+1027,Cirino,2,False,PT
+1028,Rezende,2,False,PT
+1029,João Lucas Nogueira,1,False,PT
+1030,Cavalcanti Oliveira - EI,2,False,PT
+1031,Mendonça Ltda.,2,False,PT
+1032,Martins,2,False,PT
+1033,Marques,2,False,PT
+1034,Dra. Maria Sophia Azevedo,1,False,PT
+1035,Rhavi Porto,1,False,PT
+1036,Gonçalves Ribeiro S/A,2,False,PT
+1037,Thales Fonseca,1,False,PT
+1038,Sabrina da Luz,1,False,PT
+1039,Sra. Nina Ferreira,1,False,PT
+1040,da Costa S.A.,2,False,PT
+1041,Melina Duarte,1,False,PT
+1042,Sales,2,False,PT
+1043,Ryan Fernandes,1,False,PT
+1044,da Mota Nogueira S.A.,2,False,PT
+1045,Renan Pastor,1,False,PT
+1046,Pinto,2,False,PT
+1047,Maitê Rezende,1,False,PT
+1048,Ferreira,2,False,PT
+1049,Isabel Lopes,1,False,PT
+1050,Fonseca,2,False,PT
+1051,Luiz Felipe Freitas,1,False,PT
+1052,Cassiano S/A,2,False,PT
+1053,Cauã Nascimento,1,False,PT
+1054,Sra. Jade Peixoto,1,False,PT
+1055,Sr. Marcos Vinicius Marques,1,False,PT
+1056,Kamilly Duarte,1,False,PT
+1057,João Felipe Jesus,1,False,PT
+1058,Cardoso Novaes - ME,2,False,PT
+1059,Luana Araújo,1,False,PT
+1060,Melissa Moraes,1,False,PT
+1061,Alexia da Mata,1,False,PT
+1062,Costela,2,False,PT
+1063,Sr. Luiz Henrique da Luz,1,False,PT
+1064,Farias,2,False,PT
+1065,Fogaça,2,False,PT
+1066,Isabel Nascimento,1,False,PT
+1067,Rafael Cavalcante,1,False,PT
+1068,Aurora Ribeiro,1,False,PT
+1069,Cassiano,2,False,PT
+1070,Sr. Marcelo da Costa,1,False,PT
+1071,da Cunha Pinto S/A,2,False,PT
+1072,Isaac Farias,1,False,PT
+1073,Dra. Milena Rocha,1,False,PT
+1074,Arthur Caldeira,1,False,PT
+1075,Thomas Albuquerque,1,False,PT
+1076,Lopes,2,False,PT
+1077,Matteo Rezende,1,False,PT
+1078,Camargo e Filhos,2,False,PT
+1079,Arthur Gabriel Abreu,1,False,PT
+1080,Henry da Rocha,1,False,PT
+1081,Freitas S.A.,2,False,PT
+1082,Dra. Luna Pires,1,False,PT
+1083,Srta. Milena Cunha,1,False,PT
+1084,Rios S.A.,2,False,PT
+1085,Martins,2,False,PT
+1086,das Neves,2,False,PT
+1087,Fonseca Lopes Ltda.,2,False,PT
+1088,Emanuelly Lopes,1,False,PT
+1089,da Luz,2,False,PT
+1090,Carvalho,2,False,PT
+1091,Dr. Felipe da Rocha,1,False,PT
+1092,Lorenzo Camargo,1,False,PT
+1093,Dr. João Pedro Marques,1,False,PT
+1094,Eduarda Ramos,1,False,PT
+1095,Moura,2,False,PT
+1096,Mendes Rios S.A.,2,False,PT
+1097,Leão,2,False,PT
+1098,Pimenta,2,False,PT
+1099,Sra. Emanuelly Silveira,1,False,PT
+1100,Breno Sousa,1,False,PT
+1101,Dr. Marcelo Moura,1,False,PT
+1102,Lima,2,False,PT
+1103,Souza,2,False,PT
+1104,Peixoto,2,False,PT
+1105,Nascimento Cassiano Ltda.,2,False,PT
+1106,Souza,2,False,PT
+1107,Silva,2,False,PT
+1108,Brenda Andrade,1,False,PT
+1109,Silveira Siqueira Ltda.,2,False,PT
+1110,Apollo Peixoto,1,False,PT
+1111,Pimenta Silva S/A,2,False,PT
+1112,Marques Barbosa - ME,2,False,PT
+1113,Souza,2,False,PT
+1114,Ágatha Fernandes,1,False,PT
+1115,Fonseca Almeida Ltda.,2,False,PT
+1116,Sales Azevedo S.A.,2,False,PT
+1117,Carlos Eduardo Peixoto,1,False,PT
+1118,Almeida,2,False,PT
+1119,Rafael da Mata,1,False,PT
+1120,Nogueira S/A,2,False,PT
+1121,Moreira,2,False,PT
+1122,Ana Liz Brito,1,False,PT
+1123,Camila Nascimento,1,False,PT
+1124,Raquel Porto,1,False,PT
+1125,Maria Luísa Lopes,1,False,PT
+1126,Antonella Santos,1,False,PT
+1127,Fonseca,2,False,PT
+1128,Lopes Cavalcanti - ME,2,False,PT
+1129,Freitas Monteiro S.A.,2,False,PT
+1130,Luna Cavalcante,1,False,PT
+1131,Barros Azevedo - EI,2,False,PT
+1132,Sra. Mirella Duarte,1,False,PT
+1133,Pires,2,False,PT
+1134,Rios - ME,2,False,PT
+1135,Samuel Castro,1,False,PT
+1136,Rodrigues - ME,2,False,PT
+1137,Srta. Isabelly da Rosa,1,False,PT
+1138,da Luz,2,False,PT
+1139,Jesus da Costa e Filhos,2,False,PT
+1140,Cunha Sousa S.A.,2,False,PT
+1141,Fonseca S/A,2,False,PT
+1142,Rodrigues S.A.,2,False,PT
+1143,Moraes,2,False,PT
+1144,Emanuella Pacheco,1,False,PT
+1145,Cavalcanti Abreu e Filhos,2,False,PT
+1146,Sra. Maria Luiza Campos,1,False,PT
+1147,Bruno Marques,1,False,PT
+1148,Marques Ltda.,2,False,PT
+1149,Sr. Isaque Nascimento,1,False,PT
+1150,Jesus,2,False,PT
+1151,Rocha Melo e Filhos,2,False,PT
+1152,Oliveira Silveira S/A,2,False,PT
+1153,Luiz Henrique da Mata,1,False,PT
+1154,Rafaela Cavalcante,1,False,PT
+1155,Almeida,2,False,PT
+1156,Dr. Fernando Gonçalves,1,False,PT
+1157,Sampaio Carvalho - EI,2,False,PT
+1158,Enzo Aragão,1,False,PT
+1159,Allana Pastor,1,False,PT
+1160,Maysa Moraes,1,False,PT
+1161,Casa Grande Lopes S.A.,2,False,PT
+1162,Stella Rodrigues,1,False,PT
+1163,Pastor Cunha Ltda.,2,False,PT
+1164,Pires,2,False,PT
+1165,Jade Moraes,1,False,PT
+1166,da Paz,2,False,PT
+1167,Ferreira - ME,2,False,PT
+1168,Pastor,2,False,PT
+1169,Anna Liz Moreira,1,False,PT
+1170,Bárbara Barros,1,False,PT
+1171,Mendonça S/A,2,False,PT
+1172,Moreira,2,False,PT
+1173,Moreira,2,False,PT
+1174,Guerra S.A.,2,False,PT
+1175,Garcia,2,False,PT
+1176,Castro Oliveira S.A.,2,False,PT
+1177,Aragão Sampaio S.A.,2,False,PT
+1178,Sr. Kaique Casa Grande,1,False,PT
+1179,Moraes e Filhos,2,False,PT
+1180,Lopes,2,False,PT
+1181,Clarice Barros,1,False,PT
+1182,Dom Martins,1,False,PT
+1183,Duarte,2,False,PT
+1184,Casa Grande Mendes S/A,2,False,PT
+1185,Guerra e Filhos,2,False,PT
+1186,Lucas Mendonça,1,False,PT
+1187,Campos,2,False,PT
+1188,Hellena da Rocha,1,False,PT
+1189,Vicente Cassiano,1,False,PT
+1190,Ribeiro S/A,2,False,PT
+1191,Martins - EI,2,False,PT
+1192,Rodrigues,2,False,PT
+1193,Alice Cavalcanti,1,False,PT
+1194,Leão Lopes S.A.,2,False,PT
+1195,Ágatha Sá,1,False,PT
+1196,Sofia Porto,1,False,PT
+1197,Jesus,2,False,PT
+1198,Sra. Eloá Fonseca,1,False,PT
+1199,Sá,2,False,PT
+1200,Almeida,2,False,PT
+1201,Mendes S/A,2,False,PT
+1202,Joana Leão,1,False,PT
+1203,Clara Montenegro,1,False,PT
+1204,Kaique Barros,1,False,PT
+1205,Carolina Aparecida,1,False,PT
+1206,Lorena Melo,1,False,PT
+1207,Cunha Pinto - ME,2,False,PT
+1208,Ferreira,2,False,PT
+1209,Cecília Pastor,1,False,PT
+1210,Ayla Fernandes,1,False,PT
+1211,Allana Viana,1,False,PT
+1212,Otto Moraes,1,False,PT
+1213,Thiago Porto,1,False,PT
+1214,Dr. Valentim Jesus,1,False,PT
+1215,Ribeiro,2,False,PT
+1216,Lucca Porto,1,False,PT
+1217,Maria Cecília da Conceição,1,False,PT
+1218,Catarina Abreu,1,False,PT
+1219,Duarte,2,False,PT
+1220,Sra. Mariah Cardoso,1,False,PT
+1221,Sra. Liz Monteiro,1,False,PT
+1222,Antonella Costa,1,False,PT
+1223,Silva,2,False,PT
+1224,Yuri Sá,1,False,PT
+1225,Oliveira,2,False,PT
+1226,Enzo Gabriel Oliveira,1,False,PT
+1227,Sr. Arthur Miguel Pimenta,1,False,PT
+1228,Ester da Conceição,1,False,PT
+1229,Cassiano e Filhos,2,False,PT
+1230,Maria Clara Santos,1,False,PT
+1231,Casa Grande Dias S.A.,2,False,PT
+1232,Bárbara Ribeiro,1,False,PT
+1233,Rodrigues,2,False,PT
+1234,Cunha,2,False,PT
+1235,da Paz,2,False,PT
+1236,Ana Cecília Ribeiro,1,False,PT
+1237,Melo,2,False,PT
+1238,Viana,2,False,PT
+1239,Letícia Cassiano,1,False,PT
+1240,Theodoro Abreu,1,False,PT
+1241,Luiza Nascimento,1,False,PT
+1242,Carvalho e Filhos,2,False,PT
+1243,da Rosa Ltda.,2,False,PT
+1244,da Rocha,2,False,PT
+1245,Pastor,2,False,PT
+1246,Almeida da Cruz Ltda.,2,False,PT
+1247,Dra. Maitê Moraes,1,False,PT
+1248,Sr. Benício Andrade,1,False,PT
+1249,Olívia Viana,1,False,PT
+1250,Mathias Pacheco,1,False,PT
+1251,Sampaio,2,False,PT
+1252,Clara Monteiro,1,False,PT
+1253,Sr. Rhavi Fonseca,1,False,PT
+1254,Cirino,2,False,PT
+1255,Cavalcanti S/A,2,False,PT
+1256,Asafe Brito,1,False,PT
+1257,Stella Azevedo,1,False,PT
+1258,Lara da Conceição,1,False,PT
+1259,Machado - EI,2,False,PT
+1260,Pedro Miguel Correia,1,False,PT
+1261,Machado,2,False,PT
+1262,Barros Fonseca e Filhos,2,False,PT
+1263,Carvalho e Filhos,2,False,PT
+1264,Emanuelly da Mata,1,False,PT
+1265,Rhavi Machado,1,False,PT
+1266,Maria Julia Ferreira,1,False,PT
+1267,Macedo,2,False,PT
+1268,Aylla Machado,1,False,PT
+1269,Yago da Rocha,1,False,PT
+1270,Eduarda Moraes,1,False,PT
+1271,Emanuel Souza,1,False,PT
+1272,Dom Aragão,1,False,PT
+1273,Vitória Silveira,1,False,PT
+1274,Fernando Teixeira,1,False,PT
+1275,Cardoso - ME,2,False,PT
+1276,Cecília Martins,1,False,PT
+1277,da Mata Ltda.,2,False,PT
+1278,Maria Liz Duarte,1,False,PT
+1279,Valentim Melo,1,False,PT
+1280,Ísis Campos,1,False,PT
+1281,Bento Leão,1,False,PT
+1282,Eduarda Gonçalves,1,False,PT
+1283,da Conceição Ltda.,2,False,PT
+1284,Viana Ltda.,2,False,PT
+1285,Oliver Albuquerque,1,False,PT
+1286,Albuquerque,2,False,PT
+1287,Cauê Castro,1,False,PT
+1288,Machado,2,False,PT
+1289,Silveira Pastor Ltda.,2,False,PT
+1290,Augusto Souza,1,False,PT
+1291,Igor Cavalcante,1,False,PT
+1292,Moreira,2,False,PT
+1293,Guilherme Fogaça,1,False,PT
+1294,Campos Porto S.A.,2,False,PT
+1295,Dr. Pedro da Mata,1,False,PT
+1296,Machado,2,False,PT
+1297,João Felipe Pacheco,1,False,PT
+1298,Lorenzo Machado,1,False,PT
+1299,Pires,2,False,PT
+1300,Bento Almeida,1,False,PT
+1301,Melissa da Paz,1,False,PT
+1302,Guerra,2,False,PT
+1303,Cavalcanti e Filhos,2,False,PT
+1304,Dias,2,False,PT
+1305,Siqueira,2,False,PT
+1306,da Mota e Filhos,2,False,PT
+1307,da Mata - ME,2,False,PT
+1308,Freitas Vasconcelos - EI,2,False,PT
+1309,Helena Porto,1,False,PT
+1310,Gustavo Henrique Sampaio,1,False,PT
+1311,Correia Peixoto - EI,2,False,PT
+1312,Camargo Ltda.,2,False,PT
+1313,Helena Rios,1,False,PT
+1314,Aragão,2,False,PT
+1315,Alexia Siqueira,1,False,PT
+1316,Eduarda da Cruz,1,False,PT
+1317,Isadora Porto,1,False,PT
+1318,Daniel Monteiro,1,False,PT
+1319,Lopes,2,False,PT
+1320,Dra. Ana Sophia Nunes,1,False,PT
+1321,Pimenta,2,False,PT
+1322,da Luz Pereira Ltda.,2,False,PT
+1323,Luiz Henrique Teixeira,1,False,PT
+1324,Rios,2,False,PT
+1325,Barbosa S.A.,2,False,PT
+1326,Pedro Aragão,1,False,PT
+1327,Monteiro - ME,2,False,PT
+1328,Olívia Moura,1,False,PT
+1329,da Paz,2,False,PT
+1330,Luiz Henrique Araújo,1,False,PT
+1331,Isaque Gonçalves,1,False,PT
+1332,Marques,2,False,PT
+1333,da Rosa,2,False,PT
+1334,Benjamim da Mata,1,False,PT
+1335,Nicole Campos,1,False,PT
+1336,Borges Silva - EI,2,False,PT
+1337,Casa Grande,2,False,PT
+1338,Cavalcante,2,False,PT
+1339,João Felipe Moreira,1,False,PT
+1340,Pinto e Filhos,2,False,PT
+1341,Castro,2,False,PT
+1342,Lopes,2,False,PT
+1343,Brito,2,False,PT
+1344,Fonseca,2,False,PT
+1345,Otávio Freitas,1,False,PT
+1346,Helena Mendes,1,False,PT
+1347,Antonella Garcia,1,False,PT
+1348,Rodrigues S.A.,2,False,PT
+1349,Srta. Maya Abreu,1,False,PT
+1350,Porto,2,False,PT
+1351,Novais,2,False,PT
+1352,Milena Fogaça,1,False,PT
+1353,Ana Luiza Caldeira,1,False,PT
+1354,Ferreira,2,False,PT
+1355,Rocha,2,False,PT
+1356,Dr. Augusto da Conceição,1,False,PT
+1357,Dra. Ana Liz Costela,1,False,PT
+1358,Gomes S.A.,2,False,PT
+1359,Sá,2,False,PT
+1360,Manuela Pinto,1,False,PT
+1361,Machado Ltda.,2,False,PT
+1362,Fernandes - ME,2,False,PT
+1363,Fogaça,2,False,PT
+1364,Duarte,2,False,PT
+1365,Barbosa,2,False,PT
+1366,Theo Campos,1,False,PT
+1367,Abreu,2,False,PT
+1368,Rezende,2,False,PT
+1369,Rezende,2,False,PT
+1370,Alves,2,False,PT
+1371,Sophie Viana,1,False,PT
+1372,Cardoso,2,False,PT
+1373,Moraes - ME,2,False,PT
+1374,Ana Julia Monteiro,1,False,PT
+1375,Freitas,2,False,PT
+1376,Marques,2,False,PT
+1377,Nascimento Cavalcanti - EI,2,False,PT
+1378,Gomes Almeida - ME,2,False,PT
+1379,Viana Campos Ltda.,2,False,PT
+1380,Sra. Olivia Pacheco,1,False,PT
+1381,Rodrigues S.A.,2,False,PT
+1382,Fonseca Teixeira - EI,2,False,PT
+1383,Alícia da Conceição,1,False,PT
+1384,Camargo,2,False,PT
+1385,Olivia Costa,1,False,PT
+1386,Luiza Jesus,1,False,PT
+1387,Guerra Sá - EI,2,False,PT
+1388,Aparecida,2,False,PT
+1389,Sra. Eloá da Mota,1,False,PT
+1390,Carlos Eduardo da Mota,1,False,PT
+1391,Luigi Vasconcelos,1,False,PT
+1392,Alícia Teixeira,1,False,PT
+1393,Rodrigues,2,False,PT
+1394,da Cunha Fernandes Ltda.,2,False,PT
+1395,Araújo Sampaio S.A.,2,False,PT
+1396,Alves,2,False,PT
+1397,Fernandes Costela e Filhos,2,False,PT
+1398,Dr. Brayan da Cunha,1,False,PT
+1399,Bento Leão,1,False,PT
+1400,Vicente Azevedo,1,False,PT
+1401,Lima Azevedo S/A,2,False,PT
+1402,Brito,2,False,PT
+1403,Ester Vasconcelos,1,False,PT
+1404,Almeida - ME,2,False,PT
+1405,Ana Carolina Mendonça,1,False,PT
+1406,Aragão,2,False,PT
+1407,Arthur Albuquerque,1,False,PT
+1408,Thales Brito,1,False,PT
+1409,Jesus,2,False,PT
+1410,Valentina Carvalho,1,False,PT
+1411,Correia Alves - EI,2,False,PT
+1412,Clarice Barros,1,False,PT
+1413,Maria Vitória Guerra,1,False,PT
+1414,Macedo S/A,2,False,PT
+1415,Ferreira,2,False,PT
+1416,Cassiano,2,False,PT
+1417,José Miguel da Luz,1,False,PT
+1418,Peixoto Almeida e Filhos,2,False,PT
+1419,Cirino Sousa - ME,2,False,PT
+1420,Lucas Gabriel Nogueira,1,False,PT
+1421,da Conceição - ME,2,False,PT
+1422,Aurora Cavalcante,1,False,PT
+1423,da Cunha,2,False,PT
+1424,Isis Pires,1,False,PT
+1425,das Neves,2,False,PT
+1426,Sra. Lívia Gonçalves,1,False,PT
+1427,Lunna Gomes,1,False,PT
+1428,Ramos,2,False,PT
+1429,Nascimento Vieira - EI,2,False,PT
+1430,Davi Lucas Rodrigues,1,False,PT
+1431,Cunha Cirino e Filhos,2,False,PT
+1432,Maria Eduarda Lopes,1,False,PT
+1433,Dra. Laura Moreira,1,False,PT
+1434,Srta. Manuella Farias,1,False,PT
+1435,da Rocha,2,False,PT
+1436,Machado e Filhos,2,False,PT
+1437,Milena Azevedo,1,False,PT
+1438,Lopes,2,False,PT
+1439,Costela,2,False,PT
+1440,Cardoso,2,False,PT
+1441,Araújo Cardoso - EI,2,False,PT
+1442,Théo da Conceição,1,False,PT
+1443,Pastor Rios S.A.,2,False,PT
+1444,Barros,2,False,PT
+1445,Antônio Cavalcante,1,False,PT
+1446,da Paz Guerra e Filhos,2,False,PT
+1447,João Lucas Sampaio,1,False,PT
+1448,Mariana Sampaio,1,False,PT
+1449,Costa,2,False,PT
+1450,Sr. Dante Nascimento,1,False,PT
+1451,Vargas,2,False,PT
+1452,Oliver Ramos,1,False,PT
+1453,Garcia - ME,2,False,PT
+1454,da Rosa,2,False,PT
+1455,Marcos Vinicius da Mata,1,False,PT
+1456,João Guilherme Garcia,1,False,PT
+1457,Dra. Esther da Costa,1,False,PT
+1458,Benjamim Macedo,1,False,PT
+1459,Silva - EI,2,False,PT
+1460,Dra. Ana Luiza Fogaça,1,False,PT
+1461,Srta. Zoe Montenegro,1,False,PT
+1462,Vitória Pinto,1,False,PT
+1463,Câmara,2,False,PT
+1464,Moura Macedo - ME,2,False,PT
+1465,Yago da Cruz,1,False,PT
+1466,Aparecida S/A,2,False,PT
+1467,Sr. Thomas Almeida,1,False,PT
+1468,da Rocha,2,False,PT
+1469,Sr. Brayan Moreira,1,False,PT
+1470,Dra. Laura Araújo,1,False,PT
+1471,da Mota,2,False,PT
+1472,Sarah Lopes,1,False,PT
+1473,Fernandes Moura e Filhos,2,False,PT
+1474,Sra. Fernanda Araújo,1,False,PT
+1475,Farias,2,False,PT
+1476,Ana Luiza da Conceição,1,False,PT
+1477,da Costa Novais e Filhos,2,False,PT
+1478,Manuela Fonseca,1,False,PT
+1479,Campos,2,False,PT
+1480,Nogueira Ltda.,2,False,PT
+1481,Gonçalves,2,False,PT
+1482,Alves da Rosa - EI,2,False,PT
+1483,Silva Leão Ltda.,2,False,PT
+1484,Dias S/A,2,False,PT
+1485,Vasconcelos Freitas S/A,2,False,PT
+1486,Cecilia Barbosa,1,False,PT
+1487,Guerra,2,False,PT
+1488,Câmara da Costa e Filhos,2,False,PT
+1489,Srta. Maria Vitória Costela,1,False,PT
+1490,Ana Liz Pires,1,False,PT
+1491,Emanuelly Campos,1,False,PT
+1492,Ana Vitória Costela,1,False,PT
+1493,Nunes,2,False,PT
+1494,Monteiro,2,False,PT
+1495,da Paz,2,False,PT
+1496,da Costa S.A.,2,False,PT
+1497,Melo,2,False,PT
+1498,Sophie Santos,1,False,PT
+1499,Cavalcanti,2,False,PT
+1500,Almeida,2,False,PT
+1501,Araújo,2,False,PT
+1502,Peixoto,2,False,PT
+1503,Ana Laura Fonseca,1,False,PT
+1504,Rios - ME,2,False,PT
+1505,Cardoso Farias S.A.,2,False,PT
+1506,Mariana Vargas,1,False,PT
+1507,da Rocha,2,False,PT
+1508,Macedo,2,False,PT
+1509,Casa Grande,2,False,PT
+1510,Agatha Melo,1,False,PT
+1511,Albuquerque,2,False,PT
+1512,Maria Alice Carvalho,1,False,PT
+1513,Luana Machado,1,False,PT
+1514,Lima Brito Ltda.,2,False,PT
+1515,Maria Júlia da Mota,1,False,PT
+1516,Ramos Cassiano S/A,2,False,PT
+1517,Farias,2,False,PT
+1518,Sá,2,False,PT
+1519,Alana Aragão,1,False,PT
+1520,Antônio Fonseca,1,False,PT
+1521,Aragão Pimenta S/A,2,False,PT
+1522,Maria Luiza Oliveira,1,False,PT
+1523,Abreu,2,False,PT
+1524,Aragão Rodrigues - ME,2,False,PT
+1525,Davi Lucca Brito,1,False,PT
+1526,Juan Andrade,1,False,PT
+1527,Dr. Danilo Ferreira,1,False,PT
+1528,Raul Lopes,1,False,PT
+1529,Gomes,2,False,PT
+1530,Gabriela Gomes,1,False,PT
+1531,Dra. Lunna Moreira,1,False,PT
+1532,da Cruz - EI,2,False,PT
+1533,Farias e Filhos,2,False,PT
+1534,Vieira,2,False,PT
+1535,Fernando Sales,1,False,PT
+1536,Pereira Novaes S.A.,2,False,PT
+1537,Isabel Rezende,1,False,PT
+1538,Sra. Laís Novais,1,False,PT
+1539,Pires Martins - ME,2,False,PT
+1540,Olívia Novais,1,False,PT
+1541,Mateus Nogueira,1,False,PT
+1542,Isabela Costela,1,False,PT
+1543,Marcos Vinicius Silva,1,False,PT
+1544,Carvalho da Mata - ME,2,False,PT
+1545,Antony Azevedo,1,False,PT
+1546,Rios,2,False,PT
+1547,Freitas,2,False,PT
+1548,Gabriel Camargo,1,False,PT
+1549,Henry Gabriel Costa,1,False,PT
+1550,Pastor,2,False,PT
+1551,Sr. Yan da Costa,1,False,PT
+1552,Pastor,2,False,PT
+1553,Almeida da Costa Ltda.,2,False,PT
+1554,das Neves S/A,2,False,PT
+1555,Ribeiro,2,False,PT
+1556,Sr. João Vitor das Neves,1,False,PT
+1557,Fonseca Jesus S/A,2,False,PT
+1558,Brito,2,False,PT
+1559,Rafaela Lopes,1,False,PT
+1560,da Paz,2,False,PT
+1561,Viana,2,False,PT
+1562,da Cruz,2,False,PT
+1563,Cirino,2,False,PT
+1564,Vitor Hugo Fernandes,1,False,PT
+1565,Luana Brito,1,False,PT
+1566,Rodrigues,2,False,PT
+1567,Cirino,2,False,PT
+1568,Silveira,2,False,PT
+1569,Vitor Almeida,1,False,PT
+1570,Novais Aragão e Filhos,2,False,PT
+1571,Sra. Stephany Silveira,1,False,PT
+1572,Sr. Henry Gabriel Farias,1,False,PT
+1573,Nascimento e Filhos,2,False,PT
+1574,Leão Lima - EI,2,False,PT
+1575,Bianca Correia,1,False,PT
+1576,Abreu,2,False,PT
+1577,Henry Carvalho,1,False,PT
+1578,João Guilherme Sá,1,False,PT
+1579,Antony da Rosa,1,False,PT
+1580,Nascimento S/A,2,False,PT
+1581,da Luz da Conceição Ltda.,2,False,PT
+1582,Maria Eduarda Barros,1,False,PT
+1583,Cunha da Mata e Filhos,2,False,PT
+1584,Montenegro,2,False,PT
+1585,Sr. Gabriel Fonseca,1,False,PT
+1586,das Neves,2,False,PT
+1587,Barros,2,False,PT
+1588,Camila Barros,1,False,PT
+1589,Thiago Casa Grande,1,False,PT
+1590,Pietra Ribeiro,1,False,PT
+1591,Oliveira,2,False,PT
+1592,Fernandes,2,False,PT
+1593,Allana Pinto,1,False,PT
+1594,Emilly Campos,1,False,PT
+1595,das Neves,2,False,PT
+1596,Barros,2,False,PT
+1597,Macedo,2,False,PT
+1598,Caldeira e Filhos,2,False,PT
+1599,Emanuella Vasconcelos,1,False,PT
+1600,Guerra,2,False,PT
+1601,Ravi Pereira,1,False,PT
+1602,da Cunha,2,False,PT
+1603,Guerra,2,False,PT
+1604,Ribeiro,2,False,PT
+1605,Silveira Gomes - EI,2,False,PT
+1606,da Mota Ltda.,2,False,PT
+1607,Cauê Casa Grande,1,False,PT
+1608,Isabella Jesus,1,False,PT
+1609,Pereira S/A,2,False,PT
+1610,da Costa Viana S/A,2,False,PT
+1611,Siqueira,2,False,PT
+1612,da Rocha,2,False,PT
+1613,da Conceição,2,False,PT
+1614,Benicio Souza,1,False,PT
+1615,Mathias Jesus,1,False,PT
+1616,Rael Nunes,1,False,PT
+1617,Sr. Ian Castro,1,False,PT
+1618,Guerra Pacheco e Filhos,2,False,PT
+1619,Benício Borges,1,False,PT
+1620,Nathan Aragão,1,False,PT
+1621,da Cruz - EI,2,False,PT
+1622,Dra. Lara Costa,1,False,PT
+1623,Ian Caldeira,1,False,PT
+1624,Rodrigues - EI,2,False,PT
+1625,Lopes,2,False,PT
+1626,Augusto Jesus,1,False,PT
+1627,Cardoso da Rosa e Filhos,2,False,PT
+1628,das Neves Camargo - EI,2,False,PT
+1629,Dr. Thomas Andrade,1,False,PT
+1630,Aparecida - ME,2,False,PT
+1631,Lavínia da Paz,1,False,PT
+1632,Vasconcelos,2,False,PT
+1633,Maria Clara Nascimento,1,False,PT
+1634,Ramos Aragão - ME,2,False,PT
+1635,Câmara,2,False,PT
+1636,Viana,2,False,PT
+1637,Ana Liz Novaes,1,False,PT
+1638,Duarte Ltda.,2,False,PT
+1639,Almeida Sampaio e Filhos,2,False,PT
+1640,Pacheco,2,False,PT
+1641,Alves,2,False,PT
+1642,Sousa,2,False,PT
+1643,Pietro Teixeira,1,False,PT
+1644,Pedro Henrique Andrade,1,False,PT
+1645,João Lucas Sales,1,False,PT
+1646,Eloá Vasconcelos,1,False,PT
+1647,da Mota S/A,2,False,PT
+1648,Caleb Freitas,1,False,PT
+1649,Laura Duarte,1,False,PT
+1650,Srta. Clara Pimenta,1,False,PT
+1651,Fogaça,2,False,PT
+1652,Fonseca Lopes - EI,2,False,PT
+1653,Agatha Viana,1,False,PT
+1654,Cirino S.A.,2,False,PT
+1655,Alexia Novaes,1,False,PT
+1656,Porto,2,False,PT
+1657,das Neves Garcia - EI,2,False,PT
+1658,Sr. Bento Correia,1,False,PT
+1659,Moraes - ME,2,False,PT
+1660,Rodrigues Barros Ltda.,2,False,PT
+1661,Viana,2,False,PT
+1662,Moraes,2,False,PT
+1663,Léo Cardoso,1,False,PT
+1664,Bárbara Albuquerque,1,False,PT
+1665,Manuela Duarte,1,False,PT
+1666,Souza Castro Ltda.,2,False,PT
+1667,Pacheco,2,False,PT
+1668,Pastor S/A,2,False,PT
+1669,da Conceição,2,False,PT
+1670,Cardoso,2,False,PT
+1671,Sampaio,2,False,PT
+1672,Giovanna Cardoso,1,False,PT
+1673,André Teixeira,1,False,PT
+1674,Novaes S.A.,2,False,PT
+1675,Silva Vargas - ME,2,False,PT
+1676,Pastor Barros Ltda.,2,False,PT
+1677,Gabriel da Rocha,1,False,PT
+1678,Clara da Mata,1,False,PT
+1679,da Rosa - EI,2,False,PT
+1680,Gomes,2,False,PT
+1681,Emanuelly Ribeiro,1,False,PT
+1682,Pastor S.A.,2,False,PT
+1683,Campos Silva Ltda.,2,False,PT
+1684,Fogaça S/A,2,False,PT
+1685,Pimenta,2,False,PT
+1686,Sr. Thomas da Conceição,1,False,PT
+1687,Nicole Correia,1,False,PT
+1688,Allana Sampaio,1,False,PT
+1689,Srta. Emanuella Sousa,1,False,PT
+1690,Camargo,2,False,PT
+1691,Ana Liz da Luz,1,False,PT
+1692,Teixeira,2,False,PT
+1693,Pinto,2,False,PT
+1694,Sousa,2,False,PT
+1695,Camargo,2,False,PT
+1696,Pedro Miguel Guerra,1,False,PT
+1697,Dr. João Vitor Correia,1,False,PT
+1698,Thomas Nunes,1,False,PT
+1699,Martins,2,False,PT
+1700,Andrade,2,False,PT
+1701,Emanuella Barbosa,1,False,PT
+1702,Nogueira da Mata e Filhos,2,False,PT
+1703,Dra. Jade Moraes,1,False,PT
+1704,Benicio Dias,1,False,PT
+1705,Elisa Casa Grande,1,False,PT
+1706,Viana Costela e Filhos,2,False,PT
+1707,Costela Viana S.A.,2,False,PT
+1708,Caroline Brito,1,False,PT
+1709,Abreu,2,False,PT
+1710,Aragão,2,False,PT
+1711,Macedo,2,False,PT
+1712,Alexia Barros,1,False,PT
+1713,das Neves,2,False,PT
+1714,Laís Abreu,1,False,PT
+1715,Albuquerque,2,False,PT
+1716,Luiza Sá,1,False,PT
+1717,Aurora Nogueira,1,False,PT
+1718,Thales Leão,1,False,PT
+1719,Dr. João Miguel Barbosa,1,False,PT
+1720,Lima,2,False,PT
+1721,Souza Silveira e Filhos,2,False,PT
+1722,Porto,2,False,PT
+1723,Mendonça,2,False,PT
+1724,Manuella da Mata,1,False,PT
+1725,Cavalcante e Filhos,2,False,PT
+1726,Vargas,2,False,PT
+1727,Gabriela Câmara,1,False,PT
+1728,Renan Brito,1,False,PT
+1729,Mariana Gomes,1,False,PT
+1730,Jesus,2,False,PT
+1731,Srta. Ana Júlia Rios,1,False,PT
+1732,Fernanda Machado,1,False,PT
+1733,Isabela Souza,1,False,PT
+1734,Heloísa Brito,1,False,PT
+1735,Diogo Nogueira,1,False,PT
+1736,Letícia Pires,1,False,PT
+1737,Carolina Rezende,1,False,PT
+1738,Ribeiro,2,False,PT
+1739,Pimenta,2,False,PT
+1740,Dias Sales - EI,2,False,PT
+1741,Isaac Souza,1,False,PT
+1742,Fonseca,2,False,PT
+1743,Teixeira,2,False,PT
+1744,Sr. Carlos Eduardo Montenegro,1,False,PT
+1745,Caroline Lopes,1,False,PT
+1746,Martins das Neves S/A,2,False,PT
+1747,Rodrigues Rocha - ME,2,False,PT
+1748,Alexandre Araújo,1,False,PT
+1749,Pietro Duarte,1,False,PT
+1750,Sophia Freitas,1,False,PT
+1751,Emanuella Aparecida,1,False,PT
+1752,Costela - EI,2,False,PT
+1753,da Mata,2,False,PT
+1754,Dr. Juan Souza,1,False,PT
+1755,Sales das Neves - EI,2,False,PT
+1756,Brito,2,False,PT
+1757,Moreira,2,False,PT
+1758,Nogueira S.A.,2,False,PT
+1759,Kevin Martins,1,False,PT
+1760,Barbosa - ME,2,False,PT
+1761,Pietra Nascimento,1,False,PT
+1762,da Luz S/A,2,False,PT
+1763,Macedo,2,False,PT
+1764,Macedo,2,False,PT
+1765,da Paz,2,False,PT
+1766,da Cunha,2,False,PT
+1767,Maitê Cassiano,1,False,PT
+1768,Lima,2,False,PT
+1769,Antônio Cardoso,1,False,PT
+1770,Gomes,2,False,PT
+1771,Pastor,2,False,PT
+1772,Abreu,2,False,PT
+1773,Agatha Fernandes,1,False,PT
+1774,Monteiro S/A,2,False,PT
+1775,Lopes e Filhos,2,False,PT
+1776,Juliana Siqueira,1,False,PT
+1777,Cirino,2,False,PT
+1778,Ana Beatriz Castro,1,False,PT
+1779,Mariah da Mota,1,False,PT
+1780,Cavalcanti Campos - EI,2,False,PT
+1781,Srta. Antonella Nascimento,1,False,PT
+1782,Novaes,2,False,PT
+1783,Matheus Teixeira,1,False,PT
+1784,Luiz Otávio Macedo,1,False,PT
+1785,Moraes Melo Ltda.,2,False,PT
+1786,Novaes,2,False,PT
+1787,Alves,2,False,PT
+1788,Sr. Pedro Lucas Rezende,1,False,PT
+1789,Jesus,2,False,PT
+1790,Valentim Peixoto,1,False,PT
+1791,Alexandre Gomes,1,False,PT
+1792,Francisco Sousa,1,False,PT
+1793,Vasconcelos,2,False,PT
+1794,Jesus,2,False,PT
+1795,Rezende,2,False,PT
+1796,das Neves Andrade Ltda.,2,False,PT
+1797,Maria Isis Araújo,1,False,PT
+1798,Caldeira,2,False,PT
+1799,Porto,2,False,PT
+1800,Srta. Agatha Alves,1,False,PT
+1801,Casa Grande,2,False,PT
+1802,Aurora Ramos,1,False,PT
+1803,Ana Luiza Albuquerque,1,False,PT
+1804,Liam Cardoso,1,False,PT
+1805,Gonçalves Gonçalves S.A.,2,False,PT
+1806,Mendes S/A,2,False,PT
+1807,Heitor Pinto,1,False,PT
+1808,da Cruz,2,False,PT
+1809,Dra. Catarina Fernandes,1,False,PT
+1810,Mariah Rios,1,False,PT
+1811,Fernandes S/A,2,False,PT
+1812,Vargas S.A.,2,False,PT
+1813,Aparecida Moreira - EI,2,False,PT
+1814,Sá,2,False,PT
+1815,Maria Duarte,1,False,PT
+1816,Srta. Evelyn Silva,1,False,PT
+1817,Isabella Silva,1,False,PT
+1818,Dr. Dante Moraes,1,False,PT
+1819,Pastor e Filhos,2,False,PT
+1820,Srta. Hellena Dias,1,False,PT
+1821,Lorena Sampaio,1,False,PT
+1822,Antony Nunes,1,False,PT
+1823,Cassiano S/A,2,False,PT
+1824,Ramos,2,False,PT
+1825,Almeida Brito - ME,2,False,PT
+1826,Catarina Sousa,1,False,PT
+1827,Sr. Mateus Viana,1,False,PT
+1828,Novaes,2,False,PT
+1829,Sabrina da Paz,1,False,PT
+1830,Larissa Garcia,1,False,PT
+1831,da Mata,2,False,PT
+1832,Porto,2,False,PT
+1833,Gustavo Ramos,1,False,PT
+1834,Dra. Pietra da Cunha,1,False,PT
+1835,Vieira e Filhos,2,False,PT
+1836,Mathias Carvalho,1,False,PT
+1837,Nascimento,2,False,PT
+1838,Dom Moraes,1,False,PT
+1839,Caio Caldeira,1,False,PT
+1840,Ana Luiza Garcia,1,False,PT
+1841,Nathan Monteiro,1,False,PT
+1842,Duarte S/A,2,False,PT
+1843,Ana Carolina Moura,1,False,PT
+1844,Aylla Lima,1,False,PT
+1845,da Rosa,2,False,PT
+1846,da Luz - ME,2,False,PT
+1847,Martins,2,False,PT
+1848,Cunha e Filhos,2,False,PT
+1849,Pacheco e Filhos,2,False,PT
+1850,Daniela Ramos,1,False,PT
+1851,Nathan Carvalho,1,False,PT
+1852,Rodrigues Ltda.,2,False,PT
+1853,Maria Alice Pinto,1,False,PT
+1854,Stella Oliveira,1,False,PT
+1855,Anthony Gabriel Rezende,1,False,PT
+1856,Calebe Rodrigues,1,False,PT
+1857,Dr. Davi Miguel Macedo,1,False,PT
+1858,da Cunha,2,False,PT
+1859,Maria Clara Teixeira,1,False,PT
+1860,Farias,2,False,PT
+1861,Borges Nogueira S.A.,2,False,PT
+1862,Martins - ME,2,False,PT
+1863,Srta. Isabelly Pires,1,False,PT
+1864,Sra. Raquel Abreu,1,False,PT
+1865,Cardoso,2,False,PT
+1866,da Rocha,2,False,PT
+1867,Liam Teixeira,1,False,PT
+1868,da Cunha,2,False,PT
+1869,Correia Freitas S/A,2,False,PT
+1870,Rodrigues,2,False,PT
+1871,Rios,2,False,PT
+1872,Cecília Novais,1,False,PT
+1873,Pinto da Luz Ltda.,2,False,PT
+1874,Macedo - ME,2,False,PT
+1875,Nascimento,2,False,PT
+1876,Emilly Rodrigues,1,False,PT
+1877,Theodoro Souza,1,False,PT
+1878,Barbosa,2,False,PT
+1879,Erick Rios,1,False,PT
+1880,Sra. Sofia das Neves,1,False,PT
+1881,Martins e Filhos,2,False,PT
+1882,Maria das Neves,1,False,PT
+1883,Luara Martins,1,False,PT
+1884,Caroline Garcia,1,False,PT
+1885,Manuela Gomes,1,False,PT
+1886,Vargas,2,False,PT
+1887,Danilo Brito,1,False,PT
+1888,Freitas Alves e Filhos,2,False,PT
+1889,Júlia Pires,1,False,PT
+1890,Luiza Ferreira,1,False,PT
+1891,Rebeca Sales,1,False,PT
+1892,Hellena da Cunha,1,False,PT
+1893,Srta. Maria Vitória Sá,1,False,PT
+1894,Vargas,2,False,PT
+1895,Cassiano S/A,2,False,PT
+1896,Vargas,2,False,PT
+1897,Pacheco Moraes S.A.,2,False,PT
+1898,Santos Correia S/A,2,False,PT
+1899,Lima Ltda.,2,False,PT
+1900,Novaes,2,False,PT
+1901,Dr. Isaque Pinto,1,False,PT
+1902,Cardoso,2,False,PT
+1903,Allana Sampaio,1,False,PT
+1904,Sra. Mariana Sousa,1,False,PT
+1905,Benjamin Novaes,1,False,PT
+1906,Cavalcante Casa Grande S.A.,2,False,PT
+1907,Pires Fernandes S.A.,2,False,PT
+1908,Dr. Marcelo Cunha,1,False,PT
+1909,da Cunha,2,False,PT
+1910,Duarte - EI,2,False,PT
+1911,João Pedro Sales,1,False,PT
+1912,Garcia,2,False,PT
+1913,Vitória da Conceição,1,False,PT
+1914,Srta. Natália Farias,1,False,PT
+1915,Maysa Marques,1,False,PT
+1916,Montenegro,2,False,PT
+1917,Dr. Kaique Duarte,1,False,PT
+1918,Sra. Lorena Câmara,1,False,PT
+1919,Eduarda Pastor,1,False,PT
+1920,Dr. Alexandre Camargo,1,False,PT
+1921,Lavínia Brito,1,False,PT
+1922,Gael Henrique Ramos,1,False,PT
+1923,Sophia Andrade,1,False,PT
+1924,da Rocha,2,False,PT
+1925,Albuquerque,2,False,PT
+1926,Fogaça e Filhos,2,False,PT
+1927,Viana S/A,2,False,PT
+1928,Srta. Heloísa Cirino,1,False,PT
+1929,Sra. Maya da Paz,1,False,PT
+1930,Cecília Gomes,1,False,PT
+1931,Silveira S.A.,2,False,PT
+1932,Pastor - EI,2,False,PT
+1933,Pacheco e Filhos,2,False,PT
+1934,Juan Santos,1,False,PT
+1935,Sr. Arthur das Neves,1,False,PT
+1936,Silva Câmara S.A.,2,False,PT
+1937,Vitor Aragão,1,False,PT
+1938,Maria Isis Nunes,1,False,PT
+1939,Moraes,2,False,PT
+1940,Lopes,2,False,PT
+1941,Ramos,2,False,PT
+1942,Isabel Leão,1,False,PT
+1943,Ana Andrade,1,False,PT
+1944,Mateus Siqueira,1,False,PT
+1945,Maysa Vasconcelos,1,False,PT
+1946,Barros S/A,2,False,PT
+1947,Azevedo S/A,2,False,PT
+1948,Lima Leão Ltda.,2,False,PT
+1949,Albuquerque - ME,2,False,PT
+1950,Lorena Barros,1,False,PT
+1951,Teixeira,2,False,PT
+1952,Eduardo Gonçalves,1,False,PT
+1953,Lopes - ME,2,False,PT
+1954,Olívia Machado,1,False,PT
+1955,Cauã Moura,1,False,PT
+1956,Monteiro,2,False,PT
+1957,Mathias das Neves,1,False,PT
+1958,Vasconcelos - ME,2,False,PT
+1959,Juan Albuquerque,1,False,PT
+1960,Gustavo Henrique Moraes,1,False,PT
+1961,da Mata,2,False,PT
+1962,Rezende,2,False,PT
+1963,Costa Marques - EI,2,False,PT
+1964,Vitor Gabriel da Rosa,1,False,PT
+1965,Theo Pimenta,1,False,PT
+1966,Arthur Gabriel Ribeiro,1,False,PT
+1967,Caldeira,2,False,PT
+1968,da Conceição e Filhos,2,False,PT
+1969,Fogaça S/A,2,False,PT
+1970,Sr. Benjamin Pereira,1,False,PT
+1971,Dr. Henry Cardoso,1,False,PT
+1972,Nunes S/A,2,False,PT
+1973,Leonardo das Neves,1,False,PT
+1974,Raul Brito,1,False,PT
+1975,Pires Freitas S.A.,2,False,PT
+1976,Eduarda Araújo,1,False,PT
+1977,Ferreira,2,False,PT
+1978,Guerra Porto e Filhos,2,False,PT
+1979,Cardoso - ME,2,False,PT
+1980,Lunna Pinto,1,False,PT
+1981,Nascimento,2,False,PT
+1982,André Brito,1,False,PT
+1983,Costela,2,False,PT
+1984,Clara Nascimento,1,False,PT
+1985,Cavalcanti S.A.,2,False,PT
+1986,Marques da Cruz Ltda.,2,False,PT
+1987,Oliver Fernandes,1,False,PT
+1988,Pinto,2,False,PT
+1989,Nicole Fernandes,1,False,PT
+1990,Sofia Vargas,1,False,PT
+1991,da Rosa,2,False,PT
+1992,Sra. Allana Fonseca,1,False,PT
+1993,Correia Moreira - EI,2,False,PT
+1994,Santos,2,False,PT
+1995,Maria Luísa Moreira,1,False,PT
+1996,Maria Eduarda Cassiano,1,False,PT
+1997,Lima,2,False,PT
+1998,Enrico Nogueira,1,False,PT
+1999,Lopes - EI,2,False,PT
+2000,Juan Alves,1,False,PT
+2001,João Miguel Pastor,1,False,PT
+2002,Silva,2,False,PT
+2003,Sarah Rodrigues,1,False,PT
+2004,Theodoro Alves,1,False,PT
+2005,Nicole Teixeira,1,False,PT
+2006,Marques Silva - EI,2,False,PT
+2007,Campos Vieira S.A.,2,False,PT
+2008,Yuri Monteiro,1,False,PT
+2009,Mendes S/A,2,False,PT
+2010,Correia Casa Grande - ME,2,False,PT
+2011,Correia - EI,2,False,PT
+2012,Mariah Moreira,1,False,PT
+2013,Enrico Santos,1,False,PT
+2014,Moreira,2,False,PT
+2015,Isabela Rios,1,False,PT
+2016,Sr. Thiago Vieira,1,False,PT
+2017,Sr. Isaac Rios,1,False,PT
+2018,Luísa Cassiano,1,False,PT
+2019,Rios,2,False,PT
+2020,Siqueira,2,False,PT
+2021,Lorenzo Caldeira,1,False,PT
+2022,Dr. Guilherme Duarte,1,False,PT
+2023,Machado,2,False,PT
+2024,Costela,2,False,PT
+2025,Srta. Helena Costa,1,False,PT
+2026,Cauê Araújo,1,False,PT
+2027,Nogueira da Rocha e Filhos,2,False,PT
+2028,Abreu,2,False,PT
+2029,Castro,2,False,PT
+2030,Srta. Maysa Marques,1,False,PT
+2031,Dra. Aylla Fonseca,1,False,PT
+2032,Manuella Barbosa,1,False,PT
+2033,Rafael Sá,1,False,PT
+2034,Caroline Cirino,1,False,PT
+2035,Augusto Souza,1,False,PT
+2036,Guerra,2,False,PT
+2037,Nina Mendonça,1,False,PT
+2038,Pinto,2,False,PT
+2039,da Paz Pacheco S/A,2,False,PT
+2040,Kamilly Aragão,1,False,PT
+2041,Gomes,2,False,PT
+2042,Dias S.A.,2,False,PT
+2043,Moreira Barros Ltda.,2,False,PT
+2044,Laura Lima,1,False,PT
+2045,Ana Lívia Montenegro,1,False,PT
+2046,Sampaio da Mota e Filhos,2,False,PT
+2047,Freitas,2,False,PT
+2048,Luan Cirino,1,False,PT
+2049,Lucas Moraes,1,False,PT
+2050,Caldeira,2,False,PT
+2051,Duarte - EI,2,False,PT
+2052,Rafaela Montenegro,1,False,PT
+2053,Lorenzo Duarte,1,False,PT
+2054,Brenda Mendonça,1,False,PT
+2055,Thiago da Conceição,1,False,PT
+2056,Moraes,2,False,PT
+2057,Garcia Nogueira - ME,2,False,PT
+2058,Melo,2,False,PT
+2059,Eduarda Cassiano,1,False,PT
+2060,Otto Mendes,1,False,PT
+2061,Pereira,2,False,PT
+2062,Moura,2,False,PT
+2063,Maria Laura Camargo,1,False,PT
+2064,Pinto,2,False,PT
+2065,Mendes,2,False,PT
+2066,Mendes,2,False,PT
+2067,Garcia Alves S.A.,2,False,PT
+2068,Olívia Sousa,1,False,PT
+2069,Rezende Barbosa S.A.,2,False,PT
+2070,Rafael Pastor,1,False,PT
+2071,Cecilia Casa Grande,1,False,PT
+2072,Duarte Aragão S.A.,2,False,PT
+2073,das Neves,2,False,PT
+2074,Barbosa - EI,2,False,PT
+2075,Fonseca Guerra - ME,2,False,PT
+2076,da Costa da Luz S.A.,2,False,PT
+2077,Borges,2,False,PT
+2078,Nicole Lima,1,False,PT
+2079,Luiz Fernando Porto,1,False,PT
+2080,Aragão Mendonça - EI,2,False,PT
+2081,Garcia - EI,2,False,PT
+2082,Benjamim Cirino,1,False,PT
+2083,Duarte,2,False,PT
+2084,João Gabriel Cassiano,1,False,PT
+2085,Camargo,2,False,PT
+2086,Pimenta - EI,2,False,PT
+2087,Benjamim Garcia,1,False,PT
+2088,Castro - EI,2,False,PT
+2089,Rafaela Dias,1,False,PT
+2090,da Rocha S/A,2,False,PT
+2091,Abreu,2,False,PT
+2092,Pimenta,2,False,PT
+2093,da Cunha Vargas - EI,2,False,PT
+2094,Srta. Sofia Pereira,1,False,PT
+2095,da Paz,2,False,PT
+2096,Moura,2,False,PT
+2097,Helena Pereira,1,False,PT
+2098,Garcia S/A,2,False,PT
+2099,Peixoto,2,False,PT
+2100,Rios Vasconcelos Ltda.,2,False,PT
+2101,Diego Rocha,1,False,PT
+2102,da Luz Monteiro Ltda.,2,False,PT
+2103,Isabel Dias,1,False,PT
+2104,Enzo Gabriel Pimenta,1,False,PT
+2105,Caleb Lima,1,False,PT
+2106,Vargas,2,False,PT
+2107,Ana Sophia Silva,1,False,PT
+2108,Eloá Machado,1,False,PT
+2109,Otávio da Luz,1,False,PT
+2110,Souza S/A,2,False,PT
+2111,Silva,2,False,PT
+2112,Davi Miguel Ramos,1,False,PT
+2113,Albuquerque Rios Ltda.,2,False,PT
+2114,Barbosa,2,False,PT
+2115,Maria Helena Castro,1,False,PT
+2116,Vitória Rios,1,False,PT
+2117,Araújo,2,False,PT
+2118,Ana Julia Azevedo,1,False,PT
+2119,Jesus,2,False,PT
+2120,Melina Souza,1,False,PT
+2121,Garcia,2,False,PT
+2122,João Lucas Pacheco,1,False,PT
+2123,Enzo Gabriel Pastor,1,False,PT
+2124,Dr. Paulo Araújo,1,False,PT
+2125,Cauã Peixoto,1,False,PT
+2126,João Pedro Cassiano,1,False,PT
+2127,Cunha,2,False,PT
+2128,Albuquerque Ltda.,2,False,PT
+2129,da Rosa da Costa Ltda.,2,False,PT
+2130,Daniela das Neves,1,False,PT
+2131,Maria Sophia Andrade,1,False,PT
+2132,da Mota,2,False,PT
+2133,Moura - EI,2,False,PT
+2134,Pedro Lopes,1,False,PT
+2135,Pereira,2,False,PT
+2136,Rocha,2,False,PT
+2137,Mathias Barbosa,1,False,PT
+2138,Gabrielly Montenegro,1,False,PT
+2139,Arthur Gabriel Moraes,1,False,PT
+2140,Rios - ME,2,False,PT
+2141,Calebe Pastor,1,False,PT
+2142,Ferreira,2,False,PT
+2143,Vasconcelos,2,False,PT
+2144,Casa Grande,2,False,PT
+2145,Campos,2,False,PT
+2146,Asafe Porto,1,False,PT
+2147,Isabella Araújo,1,False,PT
+2148,Mathias Pires,1,False,PT
+2149,Sousa Lima - ME,2,False,PT
+2150,Otto Cassiano,1,False,PT
+2151,Sousa S/A,2,False,PT
+2152,Fernandes,2,False,PT
+2153,Vasconcelos,2,False,PT
+2154,Rocha Porto S.A.,2,False,PT
+2155,Melo Peixoto S.A.,2,False,PT
+2156,Murilo Albuquerque,1,False,PT
+2157,Albuquerque Martins - EI,2,False,PT
+2158,Guilherme Ramos,1,False,PT
+2159,Gustavo Henrique Costela,1,False,PT
+2160,Brito,2,False,PT
+2161,Luigi Dias,1,False,PT
+2162,Aylla da Conceição,1,False,PT
+2163,Srta. Hellena Farias,1,False,PT
+2164,Pinto,2,False,PT
+2165,Alves Casa Grande S/A,2,False,PT
+2166,Diogo Martins,1,False,PT
+2167,Montenegro - ME,2,False,PT
+2168,Montenegro,2,False,PT
+2169,Sampaio - EI,2,False,PT
+2170,Sá Moreira S/A,2,False,PT
+2171,Kaique da Luz,1,False,PT
+2172,Gonçalves,2,False,PT
+2173,da Mata,2,False,PT
+2174,Pereira - ME,2,False,PT
+2175,Aparecida Borges e Filhos,2,False,PT
+2176,Viana - EI,2,False,PT
+2177,Eduarda Albuquerque,1,False,PT
+2178,Ayla Cunha,1,False,PT
+2179,Siqueira,2,False,PT
+2180,Almeida - EI,2,False,PT
+2181,Bruna Farias,1,False,PT
+2182,Vasconcelos - EI,2,False,PT
+2183,Maria Sophia da Mata,1,False,PT
+2184,Danilo Ferreira,1,False,PT
+2185,Luiza Silva,1,False,PT
+2186,Castro - ME,2,False,PT
+2187,Eduardo Martins,1,False,PT
+2188,Hadassa Abreu,1,False,PT
+2189,Cirino Machado - EI,2,False,PT
+2190,Pacheco,2,False,PT
+2191,João Pedro Duarte,1,False,PT
+2192,Theo Rezende,1,False,PT
+2193,Montenegro,2,False,PT
+2194,Castro Cirino e Filhos,2,False,PT
+2195,Silva Oliveira S/A,2,False,PT
+2196,Brito S/A,2,False,PT
+2197,Benjamim Gonçalves,1,False,PT
+2198,Lorenzo Garcia,1,False,PT
+2199,Lucas Macedo,1,False,PT
+2200,Lavínia da Conceição,1,False,PT
+2201,Macedo,2,False,PT
+2202,Diego Novaes,1,False,PT
+2203,Cassiano,2,False,PT
+2204,Maria Clara da Luz,1,False,PT
+2205,Moraes S/A,2,False,PT
+2206,Oliveira,2,False,PT
+2207,João Miguel Moreira,1,False,PT
+2208,da Mota,2,False,PT
+2209,Caldeira,2,False,PT
+2210,Srta. Daniela da Luz,1,False,PT
+2211,Moura,2,False,PT
+2212,Calebe Guerra,1,False,PT
+2213,Bruno Rezende,1,False,PT
+2214,Vargas,2,False,PT
+2215,Novais,2,False,PT
+2216,Francisco Vargas,1,False,PT
+2217,Ana Julia Sales,1,False,PT
+2218,Dante Ramos,1,False,PT
+2219,Sr. Theo Araújo,1,False,PT
+2220,Hellena Cirino,1,False,PT
+2221,André da Cunha,1,False,PT
+2222,Pimenta Pires - EI,2,False,PT
+2223,Eloah da Conceição,1,False,PT
+2224,Elisa Mendonça,1,False,PT
+2225,Anna Liz Casa Grande,1,False,PT
+2226,Igor Pacheco,1,False,PT
+2227,Fernando Carvalho,1,False,PT
+2228,Gomes,2,False,PT
+2229,da Cruz,2,False,PT
+2230,João Lucas Costa,1,False,PT
+2231,da Mota Novaes e Filhos,2,False,PT
+2232,Dra. Sara Vargas,1,False,PT
+2233,Gabriel Castro,1,False,PT
+2234,Cirino,2,False,PT
+2235,Porto,2,False,PT
+2236,Camargo,2,False,PT
+2237,da Cunha,2,False,PT
+2238,Pedro Miguel Camargo,1,False,PT
+2239,Arthur Silveira,1,False,PT
+2240,Eloah Cavalcante,1,False,PT
+2241,Barbosa,2,False,PT
+2242,Dra. Eloah Albuquerque,1,False,PT
+2243,Sousa,2,False,PT
+2244,Alana Pires,1,False,PT
+2245,Leão,2,False,PT
+2246,Pastor,2,False,PT
+2247,Henry Cavalcante,1,False,PT
+2248,João Miguel Andrade,1,False,PT
+2249,Teixeira Andrade S.A.,2,False,PT
+2250,Sales,2,False,PT
+2251,Benicio Pimenta,1,False,PT
+2252,Carvalho,2,False,PT
+2253,Vasconcelos,2,False,PT
+2254,Dr. Léo Pinto,1,False,PT
+2255,Larissa da Luz,1,False,PT
+2256,Lucas Gabriel Macedo,1,False,PT
+2257,Sofia Almeida,1,False,PT
+2258,Azevedo e Filhos,2,False,PT
+2259,Ana Sophia Aparecida,1,False,PT
+2260,Henrique Cunha,1,False,PT
+2261,Luna Cardoso,1,False,PT
+2262,Mendes,2,False,PT
+2263,Machado,2,False,PT
+2264,Campos,2,False,PT
+2265,Stephany Almeida,1,False,PT
+2266,Paulo Barros,1,False,PT
+2267,Otávio Vargas,1,False,PT
+2268,Freitas S/A,2,False,PT
+2269,Cavalcanti Costela - ME,2,False,PT
+2270,Davi Lucas Machado,1,False,PT
+2271,Cirino,2,False,PT
+2272,Cunha Pacheco - EI,2,False,PT
+2273,Theodoro Sampaio,1,False,PT
+2274,Manuela Sampaio,1,False,PT
+2275,Isaac Carvalho,1,False,PT
+2276,da Cunha Ltda.,2,False,PT
+2277,da Rosa,2,False,PT
+2278,Ravy Mendonça,1,False,PT
+2279,Barbosa Ltda.,2,False,PT
+2280,Elisa Mendonça,1,False,PT
+2281,Castro Nunes Ltda.,2,False,PT
+2282,da Rocha S.A.,2,False,PT
+2283,Aragão,2,False,PT
+2284,Duarte,2,False,PT
+2285,Luiz Gustavo Ferreira,1,False,PT
+2286,Alexia Fonseca,1,False,PT
+2287,Siqueira,2,False,PT
+2288,Leão,2,False,PT
+2289,Nina Guerra,1,False,PT
+2290,Gustavo Henrique Farias,1,False,PT
+2291,Kaique Rocha,1,False,PT
+2292,Kaique Mendes,1,False,PT
+2293,da Rocha,2,False,PT
+2294,Borges Ltda.,2,False,PT
+2295,Ramos - EI,2,False,PT
+2296,Ana Vitória Cirino,1,False,PT
+2297,José Pires,1,False,PT
+2298,da Rosa Pires - ME,2,False,PT
+2299,Srta. Esther Gomes,1,False,PT
+2300,Davi Lucas Pires,1,False,PT
+2301,Barros Pereira e Filhos,2,False,PT
+2302,Leonardo Araújo,1,False,PT
+2303,Luara Correia,1,False,PT
+2304,Srta. Eduarda da Luz,1,False,PT
+2305,Enzo Gabriel Barros,1,False,PT
+2306,Zoe Jesus,1,False,PT
+2307,Luiz Felipe Souza,1,False,PT
+2308,Montenegro,2,False,PT
+2309,Novaes da Luz - EI,2,False,PT
+2310,Isis Pires,1,False,PT
+2311,Joaquim Borges,1,False,PT
+2312,Porto - EI,2,False,PT
+2313,Dr. Guilherme Barbosa,1,False,PT
+2314,Silveira Costa S/A,2,False,PT
+2315,Samuel Rios,1,False,PT
+2316,Davi Lucas da Costa,1,False,PT
+2317,Moraes,2,False,PT
+2318,Costela,2,False,PT
+2319,Sophie Oliveira,1,False,PT
+2320,Pedro Miguel da Costa,1,False,PT
+2321,Ana Liz Duarte,1,False,PT
+2322,Carvalho,2,False,PT
+2323,Brenda Teixeira,1,False,PT
+2324,Mariana Peixoto,1,False,PT
+2325,Helena Souza,1,False,PT
+2326,Cavalcante S.A.,2,False,PT
+2327,Rael Ferreira,1,False,PT
+2328,Ferreira Ltda.,2,False,PT
+2329,Raquel Peixoto,1,False,PT
+2330,Srta. Alexia Marques,1,False,PT
+2331,Camila Ribeiro,1,False,PT
+2332,Correia,2,False,PT
+2333,Sra. Marina Nogueira,1,False,PT
+2334,Srta. Clarice da Cunha,1,False,PT
+2335,Sofia Araújo,1,False,PT
+2336,das Neves Martins - EI,2,False,PT
+2337,Bruna Duarte,1,False,PT
+2338,Nunes,2,False,PT
+2339,Liam Costela,1,False,PT
+2340,Aparecida Andrade e Filhos,2,False,PT
+2341,Barbosa - ME,2,False,PT
+2342,Jesus,2,False,PT
+2343,Lopes,2,False,PT
+2344,Catarina da Mota,1,False,PT
+2345,Raul da Costa,1,False,PT
+2346,Rafaela Araújo,1,False,PT
+2347,Viana Guerra S/A,2,False,PT
+2348,Rios,2,False,PT
+2349,Sr. José Pedro Souza,1,False,PT
+2350,Vinicius Barros,1,False,PT
+2351,Caio Ribeiro,1,False,PT
+2352,Catarina Andrade,1,False,PT
+2353,Bruna Dias,1,False,PT
+2354,Marques,2,False,PT
+2355,Cavalcanti,2,False,PT
+2356,Erick Rocha,1,False,PT
+2357,Cassiano Ltda.,2,False,PT
+2358,Brito,2,False,PT
+2359,Heitor Albuquerque,1,False,PT
+2360,Santos Ltda.,2,False,PT
+2361,Gael Camargo,1,False,PT
+2362,Samuel Ribeiro,1,False,PT
+2363,Alves,2,False,PT
+2364,Apollo Cavalcante,1,False,PT
+2365,Diego Mendonça,1,False,PT
+2366,Cunha da Mata S.A.,2,False,PT
+2367,Cavalcanti,2,False,PT
+2368,Castro Silveira Ltda.,2,False,PT
+2369,Casa Grande,2,False,PT
+2370,Carvalho,2,False,PT
+2371,Srta. Marina Machado,1,False,PT
+2372,Giovanna Novaes,1,False,PT
+2373,Clara Dias,1,False,PT
+2374,Monteiro Ltda.,2,False,PT
+2375,Lavínia Novaes,1,False,PT
+2376,Ramos,2,False,PT
+2377,Sr. João Guilherme Abreu,1,False,PT
+2378,da Conceição Lopes - EI,2,False,PT
+2379,Rezende e Filhos,2,False,PT
+2380,Costa,2,False,PT
+2381,Jesus da Mata - ME,2,False,PT
+2382,Cirino S.A.,2,False,PT
+2383,Campos,2,False,PT
+2384,Oliveira - EI,2,False,PT
+2385,Costela,2,False,PT
+2386,Marina Borges,1,False,PT
+2387,Porto,2,False,PT
+2388,Dra. Nicole Monteiro,1,False,PT
+2389,Silveira Moraes - ME,2,False,PT
+2390,Levi Ferreira,1,False,PT
+2391,Julia da Rocha,1,False,PT
+2392,Pedro Miguel Andrade,1,False,PT
+2393,Cavalcante,2,False,PT
+2394,Vinícius Santos,1,False,PT
+2395,Liz Peixoto,1,False,PT
+2396,Ramos,2,False,PT
+2397,Bárbara Gonçalves,1,False,PT
+2398,Théo Cunha,1,False,PT
+2399,Dias,2,False,PT
+2400,Lorenzo Costela,1,False,PT
+2401,Cassiano - ME,2,False,PT
+2402,Araújo,2,False,PT
+2403,Luana Fonseca,1,False,PT
+2404,Sra. Ana Lívia Marques,1,False,PT
+2405,da Luz Vargas Ltda.,2,False,PT
+2406,Arthur Gabriel Rios,1,False,PT
+2407,Francisco Fogaça,1,False,PT
+2408,Viana,2,False,PT
+2409,Levi Silva,1,False,PT
+2410,da Rosa da Paz - EI,2,False,PT
+2411,Amanda Vargas,1,False,PT
+2412,Yago Pacheco,1,False,PT
+2413,Srta. Marina Albuquerque,1,False,PT
+2414,Azevedo - EI,2,False,PT
+2415,Leão,2,False,PT
+2416,Rezende,2,False,PT
+2417,Ana Vitória da Luz,1,False,PT
+2418,Rafael Abreu,1,False,PT
+2419,Câmara,2,False,PT
+2420,Porto,2,False,PT
+2421,Pacheco S/A,2,False,PT
+2422,Aragão da Costa S.A.,2,False,PT
+2423,Olivia Alves,1,False,PT
+2424,Moreira,2,False,PT
+2425,Antony Aparecida,1,False,PT
+2426,Sr. Dante Pereira,1,False,PT
+2427,Valentina Araújo,1,False,PT
+2428,Barbosa Moura Ltda.,2,False,PT
+2429,Câmara,2,False,PT
+2430,Ana Júlia Porto,1,False,PT
+2431,Brayan Monteiro,1,False,PT
+2432,Fernanda Abreu,1,False,PT
+2433,Maysa Mendes,1,False,PT
+2434,Cirino S/A,2,False,PT
+2435,Santos Carvalho e Filhos,2,False,PT
+2436,Cardoso - EI,2,False,PT
+2437,Azevedo,2,False,PT
+2438,Pimenta,2,False,PT
+2439,Sr. Kaique Rodrigues,1,False,PT
+2440,Dra. Anna Liz Machado,1,False,PT
+2441,Pastor Duarte - EI,2,False,PT
+2442,Dra. Maria Sophia Moreira,1,False,PT
+2443,da Luz,2,False,PT
+2444,Sampaio,2,False,PT
+2445,Maria Júlia Silva,1,False,PT
+2446,Costa,2,False,PT
+2447,Cardoso Ltda.,2,False,PT
+2448,Beatriz Marques,1,False,PT
+2449,Melina da Rosa,1,False,PT
+2450,Oliveira Garcia e Filhos,2,False,PT
+2451,Borges Peixoto Ltda.,2,False,PT
+2452,Nascimento - EI,2,False,PT
+2453,da Cunha,2,False,PT
+2454,Rezende,2,False,PT
+2455,Almeida - ME,2,False,PT
+2456,Aparecida,2,False,PT
+2457,José Miguel Caldeira,1,False,PT
+2458,Vieira Ltda.,2,False,PT
+2459,Novaes das Neves Ltda.,2,False,PT
+2460,Larissa Macedo,1,False,PT
+2461,Monteiro,2,False,PT
+2462,da Cruz Fogaça e Filhos,2,False,PT
+2463,da Cunha Abreu S/A,2,False,PT
+2464,Sra. Luiza Cassiano,1,False,PT
+2465,Costa,2,False,PT
+2466,Cecília Guerra,1,False,PT
+2467,Dra. Eduarda Porto,1,False,PT
+2468,Nunes,2,False,PT
+2469,Novaes,2,False,PT
+2470,Mendes Cavalcanti e Filhos,2,False,PT
+2471,Aurora Silva,1,False,PT
+2472,João Guilherme Novaes,1,False,PT
+2473,Fonseca S.A.,2,False,PT
+2474,Viana Pastor - EI,2,False,PT
+2475,Farias,2,False,PT
+2476,Laís Siqueira,1,False,PT
+2477,Leandro Aragão,1,False,PT
+2478,Nunes Oliveira S/A,2,False,PT
+2479,Maitê Gomes,1,False,PT
+2480,Casa Grande,2,False,PT
+2481,Fonseca - EI,2,False,PT
+2482,Siqueira S/A,2,False,PT
+2483,Vieira - EI,2,False,PT
+2484,Dra. Emilly Albuquerque,1,False,PT
+2485,Pacheco,2,False,PT
+2486,Gabriel Cavalcanti,1,False,PT
+2487,Freitas,2,False,PT
+2488,Dra. Sarah da Conceição,1,False,PT
+2489,Maria Alice Garcia,1,False,PT
+2490,Dr. Gustavo Henrique Cardoso,1,False,PT
+2491,Marcela Montenegro,1,False,PT
+2492,Diogo Melo,1,False,PT
+2493,Siqueira da Rosa e Filhos,2,False,PT
+2494,Joana Rios,1,False,PT
+2495,Ayla Leão,1,False,PT
+2496,Agatha Gonçalves,1,False,PT
+2497,Aparecida,2,False,PT
+2498,Gustavo Henrique Cavalcanti,1,False,PT
+2499,Sampaio,2,False,PT
+2500,Peixoto Ltda.,2,False,PT
+2501,Guilherme da Rosa,1,False,PT
+2502,Ana Vitória Peixoto,1,False,PT
+2503,Pacheco - EI,2,False,PT
+2504,Pedro Miguel Pacheco,1,False,PT
+2505,Manuela Sá,1,False,PT
+2506,Farias,2,False,PT
+2507,Costa - EI,2,False,PT
+2508,Hellena Montenegro,1,False,PT
+2509,Manuela Fonseca,1,False,PT
+2510,Vasconcelos Ferreira S/A,2,False,PT
+2511,Garcia - ME,2,False,PT
+2512,Ribeiro,2,False,PT
+2513,da Mota,2,False,PT
+2514,Vieira,2,False,PT
+2515,Nicolas Ferreira,1,False,PT
+2516,Albuquerque Pimenta S/A,2,False,PT
+2517,Sr. Felipe Viana,1,False,PT
+2518,Luiz Henrique Novaes,1,False,PT
+2519,Peixoto,2,False,PT
+2520,Lima Siqueira - EI,2,False,PT
+2521,Henry Câmara,1,False,PT
+2522,Mariah Cavalcanti,1,False,PT
+2523,Valentina Pastor,1,False,PT
+2524,Srta. Heloísa Barros,1,False,PT
+2525,Araújo,2,False,PT
+2526,Isabelly Siqueira,1,False,PT
+2527,Otávio Leão,1,False,PT
+2528,Vieira,2,False,PT
+2529,Araújo,2,False,PT
+2530,Leandro Viana,1,False,PT
+2531,Luana Fogaça,1,False,PT
+2532,Juliana Novaes,1,False,PT
+2533,Fernandes Dias S.A.,2,False,PT
+2534,Sra. Larissa Aragão,1,False,PT
+2535,Cunha Costela e Filhos,2,False,PT
+2536,Maria Cunha,1,False,PT
+2537,Sr. Thales da Mota,1,False,PT
+2538,da Rosa Azevedo Ltda.,2,False,PT
+2539,Mendonça da Rocha e Filhos,2,False,PT
+2540,Vieira,2,False,PT
+2541,Melo Camargo - ME,2,False,PT
+2542,Silva,2,False,PT
+2543,Vargas,2,False,PT
+2544,Lívia Azevedo,1,False,PT
+2545,Vasconcelos S.A.,2,False,PT
+2546,Vinicius Freitas,1,False,PT
+2547,Agatha Fernandes,1,False,PT
+2548,Caio Gonçalves,1,False,PT
+2549,Aurora Teixeira,1,False,PT
+2550,da Rocha S.A.,2,False,PT
+2551,Costa Cardoso e Filhos,2,False,PT
+2552,Aragão Andrade e Filhos,2,False,PT
+2553,Enzo Sales,1,False,PT
+2554,Felipe Andrade,1,False,PT
+2555,Melo Ltda.,2,False,PT
+2556,Ana Lívia Moraes,1,False,PT
+2557,Luiz Gustavo Costa,1,False,PT
+2558,Araújo - EI,2,False,PT
+2559,Sr. Vitor Hugo Melo,1,False,PT
+2560,Guerra,2,False,PT
+2561,Cirino - ME,2,False,PT
+2562,Siqueira Brito - EI,2,False,PT
+2563,Ayla Vargas,1,False,PT
+2564,Bella Rios,1,False,PT
+2565,da Paz S/A,2,False,PT
+2566,das Neves,2,False,PT
+2567,Moraes,2,False,PT
+2568,Pimenta,2,False,PT
+2569,Hadassa Silveira,1,False,PT
+2570,Monteiro Moreira - ME,2,False,PT
+2571,Dr. Francisco Castro,1,False,PT
+2572,Cardoso,2,False,PT
+2573,Borges,2,False,PT
+2574,da Mata - ME,2,False,PT
+2575,Sampaio Souza S/A,2,False,PT
+2576,Eloá Dias,1,False,PT
+2577,Alves Ltda.,2,False,PT
+2578,Pedro Henrique Casa Grande,1,False,PT
+2579,Andrade,2,False,PT
+2580,Almeida,2,False,PT
+2581,Gabriela Gonçalves,1,False,PT
+2582,Alana Azevedo,1,False,PT
+2583,Miguel Nogueira,1,False,PT
+2584,da Conceição e Filhos,2,False,PT
+2585,Moraes,2,False,PT
+2586,Sr. José Pedro da Mata,1,False,PT
+2587,Enrico Sales,1,False,PT
+2588,Nicolas da Rocha,1,False,PT
+2589,Teixeira S.A.,2,False,PT
+2590,das Neves,2,False,PT
+2591,Martins - EI,2,False,PT
+2592,Dr. Pietro Silveira,1,False,PT
+2593,Rios Oliveira Ltda.,2,False,PT
+2594,Dias,2,False,PT
+2595,da Mota,2,False,PT
+2596,Rezende,2,False,PT
+2597,Maria Luísa Costa,1,False,PT
+2598,Augusto Costa,1,False,PT
+2599,Caldeira e Filhos,2,False,PT
+2600,Olívia Cunha,1,False,PT
+2601,Montenegro Duarte S.A.,2,False,PT
+2602,das Neves Dias e Filhos,2,False,PT
+2603,Câmara S.A.,2,False,PT
+2604,Srta. Helena Cavalcante,1,False,PT
+2605,Barros - EI,2,False,PT
+2606,Enzo Gabriel Casa Grande,1,False,PT
+2607,Asafe Mendes,1,False,PT
+2608,Maria Julia Melo,1,False,PT
+2609,das Neves,2,False,PT
+2610,Ana Sophia Silveira,1,False,PT
+2611,Castro S.A.,2,False,PT
+2612,Vasconcelos,2,False,PT
+2613,Caroline da Luz,1,False,PT
+2614,Henrique Pires,1,False,PT
+2615,Rezende,2,False,PT
+2616,Isabel Campos,1,False,PT
+2617,João Pedro Jesus,1,False,PT
+2618,Sarah Alves,1,False,PT
+2619,Srta. Melina Rezende,1,False,PT
+2620,da Conceição,2,False,PT
+2621,Pedro Henrique das Neves,1,False,PT
+2622,Dr. Gabriel Sales,1,False,PT
+2623,Raquel Castro,1,False,PT
+2624,Cirino,2,False,PT
+2625,Nunes da Mata e Filhos,2,False,PT
+2626,Allana Novaes,1,False,PT
+2627,Guilherme Viana,1,False,PT
+2628,Cauê Cassiano,1,False,PT
+2629,Joaquim Campos,1,False,PT
+2630,André Pimenta,1,False,PT
+2631,Lara Siqueira,1,False,PT
+2632,Rodrigo Nunes,1,False,PT
+2633,Peixoto S/A,2,False,PT
+2634,Luana Lopes,1,False,PT
+2635,Pacheco,2,False,PT
+2636,Pires,2,False,PT
+2637,Manuela Macedo,1,False,PT
+2638,Sr. Luiz Felipe Rodrigues,1,False,PT
+2639,Oliveira - ME,2,False,PT
+2640,Clara Câmara,1,False,PT
+2641,Anthony Gabriel Santos,1,False,PT
+2642,Cirino S.A.,2,False,PT
+2643,Novaes,2,False,PT
+2644,Rafaela Rezende,1,False,PT
+2645,Jesus Cavalcanti S.A.,2,False,PT
+2646,Correia,2,False,PT
+2647,Novais,2,False,PT
+2648,Campos,2,False,PT
+2649,Pietro Aparecida,1,False,PT
+2650,Peixoto,2,False,PT
+2651,Melo Sampaio Ltda.,2,False,PT
+2652,Novaes Moura - EI,2,False,PT
+2653,Ana Cecília da Mota,1,False,PT
+2654,Larissa Fonseca,1,False,PT
+2655,Pedro Gomes,1,False,PT
+2656,Viana,2,False,PT
+2657,Moreira - ME,2,False,PT
+2658,Viana,2,False,PT
+2659,Porto Cavalcanti - EI,2,False,PT
+2660,Lara Porto,1,False,PT
+2661,Pedro Miguel Aragão,1,False,PT
+2662,Srta. Ester Costa,1,False,PT
+2663,da Paz Jesus S/A,2,False,PT
+2664,Andrade,2,False,PT
+2665,Silveira,2,False,PT
+2666,Monteiro,2,False,PT
+2667,Marques Porto S/A,2,False,PT
+2668,Vargas,2,False,PT
+2669,Vitor Hugo Azevedo,1,False,PT
+2670,Giovanna Carvalho,1,False,PT
+2671,Alana Mendes,1,False,PT
+2672,da Mata,2,False,PT
+2673,Vieira,2,False,PT
+2674,Monteiro,2,False,PT
+2675,Fernandes Oliveira - ME,2,False,PT
+2676,Lorenzo Fernandes,1,False,PT
+2677,Camila Pinto,1,False,PT
+2678,Pedro da Rocha,1,False,PT
+2679,Bernardo Costela,1,False,PT
+2680,Viana Monteiro e Filhos,2,False,PT
+2681,Ramos,2,False,PT
+2682,Ana Luiza Campos,1,False,PT
+2683,Ana Beatriz Ribeiro,1,False,PT
+2684,Joaquim Melo,1,False,PT
+2685,Garcia,2,False,PT
+2686,Monteiro S/A,2,False,PT
+2687,Silveira Ltda.,2,False,PT
+2688,Silveira,2,False,PT
+2689,Gomes,2,False,PT
+2690,Heloísa Costa,1,False,PT
+2691,Mariana Freitas,1,False,PT
+2692,Ribeiro da Rosa - EI,2,False,PT
+2693,Vitor Hugo Moreira,1,False,PT
+2694,Silva S.A.,2,False,PT
+2695,Lara Cavalcante,1,False,PT
+2696,Jade da Rocha,1,False,PT
+2697,Sr. Luiz Miguel Câmara,1,False,PT
+2698,Aurora Novais,1,False,PT
+2699,Luiz Otávio Pereira,1,False,PT
+2700,Fernandes Câmara S.A.,2,False,PT
+2701,Sr. João Gabriel Monteiro,1,False,PT
+2702,Dr. Miguel Novaes,1,False,PT
+2703,Pedro Lucas Fernandes,1,False,PT
+2704,João Gabriel Cardoso,1,False,PT
+2705,Lunna Vieira,1,False,PT
+2706,Fogaça,2,False,PT
+2707,da Cunha Ltda.,2,False,PT
+2708,Dr. Luigi Pinto,1,False,PT
+2709,Sr. Benjamim Santos,1,False,PT
+2710,Luan da Paz,1,False,PT
+2711,da Cunha S.A.,2,False,PT
+2712,Rocha,2,False,PT
+2713,Catarina Nascimento,1,False,PT
+2714,Dra. Maria Borges,1,False,PT
+2715,Mirella Alves,1,False,PT
+2716,João Pedro Pereira,1,False,PT
+2717,Jade Costela,1,False,PT
+2718,Maria Laura Moreira,1,False,PT
+2719,Caldeira Ltda.,2,False,PT
+2720,da Luz,2,False,PT
+2721,Peixoto,2,False,PT
+2722,Erick Ramos,1,False,PT
+2723,Brito Sales - ME,2,False,PT
+2724,Pastor - ME,2,False,PT
+2725,Brito,2,False,PT
+2726,Dr. Theodoro Monteiro,1,False,PT
+2727,Ana Lívia Siqueira,1,False,PT
+2728,Cardoso Castro S.A.,2,False,PT
+2729,Martins Costa - EI,2,False,PT
+2730,Isaque Sampaio,1,False,PT
+2731,Matheus da Cunha,1,False,PT
+2732,Vitor Hugo Cavalcanti,1,False,PT
+2733,Castro,2,False,PT
+2734,Fonseca Santos e Filhos,2,False,PT
+2735,Jesus Teixeira S.A.,2,False,PT
+2736,da Rocha,2,False,PT
+2737,Sá,2,False,PT
+2738,Fonseca Guerra Ltda.,2,False,PT
+2739,Silveira Pereira e Filhos,2,False,PT
+2740,Vitor Gabriel Macedo,1,False,PT
+2741,Ayla Duarte,1,False,PT
+2742,Fernandes,2,False,PT
+2743,Josué da Paz,1,False,PT
+2744,Nogueira,2,False,PT
+2745,Aparecida e Filhos,2,False,PT
+2746,Sr. Luiz Miguel Costa,1,False,PT
+2747,Lima S/A,2,False,PT
+2748,Maria Flor Campos,1,False,PT
+2749,Vieira,2,False,PT
+2750,Heitor Brito,1,False,PT
+2751,Fogaça,2,False,PT
+2752,Duarte Moraes - EI,2,False,PT
+2753,Câmara S.A.,2,False,PT
+2754,da Cruz da Mota e Filhos,2,False,PT
+2755,Luigi Ferreira,1,False,PT
+2756,Pedro Lucas Cirino,1,False,PT
+2757,Costa e Filhos,2,False,PT
+2758,Sampaio,2,False,PT
+2759,Maya Rezende,1,False,PT
+2760,Emanuel Souza,1,False,PT
+2761,Theo Borges,1,False,PT
+2762,Siqueira - ME,2,False,PT
+2763,Almeida Campos e Filhos,2,False,PT
+2764,Valentim Souza,1,False,PT
+2765,Augusto Vasconcelos,1,False,PT
+2766,Azevedo,2,False,PT
+2767,da Rosa Abreu e Filhos,2,False,PT
+2768,Montenegro Ltda.,2,False,PT
+2769,Pastor e Filhos,2,False,PT
+2770,Costela,2,False,PT
+2771,Dr. João Gabriel Fernandes,1,False,PT
+2772,Ana Luiza Albuquerque,1,False,PT
+2773,Vitória da Cunha,1,False,PT
+2774,Aparecida Martins - ME,2,False,PT
+2775,Peixoto,2,False,PT
+2776,José Pedro Ferreira,1,False,PT
+2777,Marina Novais,1,False,PT
+2778,Oliveira e Filhos,2,False,PT
+2779,Abreu,2,False,PT
+2780,Vinícius Pimenta,1,False,PT
+2781,Marina da Costa,1,False,PT
+2782,Maria Fernanda Teixeira,1,False,PT
+2783,Souza,2,False,PT
+2784,Pereira Sá - EI,2,False,PT
+2785,Carlos Eduardo da Rosa,1,False,PT
+2786,Pinto Ltda.,2,False,PT
+2787,Macedo Vieira S.A.,2,False,PT
+2788,da Mata,2,False,PT
+2789,Costela,2,False,PT
+2790,Isabelly Vargas,1,False,PT
+2791,da Mota,2,False,PT
+2792,Isaac Viana,1,False,PT
+2793,Novaes S/A,2,False,PT
+2794,Gabrielly da Cunha,1,False,PT
+2795,Nogueira Ferreira e Filhos,2,False,PT
+2796,Clarice Correia,1,False,PT
+2797,Enrico Mendes,1,False,PT
+2798,da Paz Abreu Ltda.,2,False,PT
+2799,Milena Machado,1,False,PT
+2800,Carvalho,2,False,PT
+2801,José Câmara,1,False,PT
+2802,Davi Lucas Almeida,1,False,PT
+2803,da Rosa Monteiro S/A,2,False,PT
+2804,da Mata e Filhos,2,False,PT
+2805,André Rios,1,False,PT
+2806,José Pedro Caldeira,1,False,PT
+2807,Bernardo Gomes,1,False,PT
+2808,Sra. Beatriz Cunha,1,False,PT
+2809,Carvalho Rezende e Filhos,2,False,PT
+2810,Cavalcante,2,False,PT
+2811,Esther Moraes,1,False,PT
+2812,Costela S.A.,2,False,PT
+2813,Dr. Felipe Garcia,1,False,PT
+2814,da Mata e Filhos,2,False,PT
+2815,Eduardo Correia,1,False,PT
+2816,Aparecida,2,False,PT
+2817,Vargas,2,False,PT
+2818,Otto Aparecida,1,False,PT
+2819,Olívia Santos,1,False,PT
+2820,Sampaio,2,False,PT
+2821,Costa,2,False,PT
+2822,Montenegro da Mata Ltda.,2,False,PT
+2823,Srta. Camila Rocha,1,False,PT
+2824,Paulo Viana,1,False,PT
+2825,Hellena Melo,1,False,PT
+2826,Vitória Santos,1,False,PT
+2827,Marcos Vinicius Lima,1,False,PT
+2828,Erick da Rocha,1,False,PT
+2829,Sofia Novaes,1,False,PT
+2830,Ana Beatriz Siqueira,1,False,PT
+2831,Castro,2,False,PT
+2832,Alves,2,False,PT
+2833,Asafe Rezende,1,False,PT
+2834,Cavalcanti Araújo S/A,2,False,PT
+2835,Henry Marques,1,False,PT
+2836,Ana Carolina Peixoto,1,False,PT
+2837,Gomes - ME,2,False,PT
+2838,Martins,2,False,PT
+2839,Marques e Filhos,2,False,PT
+2840,da Paz Borges S/A,2,False,PT
+2841,Davi Luiz Cardoso,1,False,PT
+2842,Luara Rezende,1,False,PT
+2843,da Mota e Filhos,2,False,PT
+2844,da Luz,2,False,PT
+2845,Barros,2,False,PT
+2846,Joaquim Rodrigues,1,False,PT
+2847,Freitas,2,False,PT
+2848,Câmara,2,False,PT
+2849,Moura Barros Ltda.,2,False,PT
+2850,Souza - EI,2,False,PT
+2851,Bernardo da Rosa,1,False,PT
+2852,Dr. Bryan Santos,1,False,PT
+2853,Ribeiro,2,False,PT
+2854,Benjamim Ramos,1,False,PT
+2855,Ana Vitória Peixoto,1,False,PT
+2856,Clarice Dias,1,False,PT
+2857,Nathan Brito,1,False,PT
+2858,Dr. Theo Fonseca,1,False,PT
+2859,Yuri Silveira,1,False,PT
+2860,Peixoto Ferreira - EI,2,False,PT
+2861,Luan Pimenta,1,False,PT
+2862,João Vitor Peixoto,1,False,PT
+2863,Eloá da Conceição,1,False,PT
+2864,Oliveira Carvalho e Filhos,2,False,PT
+2865,Dias Cavalcante - EI,2,False,PT
+2866,Jesus,2,False,PT
+2867,Nunes,2,False,PT
+2868,Sousa Ltda.,2,False,PT
+2869,Dr. Thales Aparecida,1,False,PT
+2870,Carlos Eduardo Camargo,1,False,PT
+2871,Cavalcante Ltda.,2,False,PT
+2872,Maria Fernanda Câmara,1,False,PT
+2873,Costa Cardoso S/A,2,False,PT
+2874,Rodrigues,2,False,PT
+2875,Souza,2,False,PT
+2876,Luiza Aragão,1,False,PT
+2877,Evelyn Ferreira,1,False,PT
+2878,Souza,2,False,PT
+2879,Mathias Montenegro,1,False,PT
+2880,Rios Pereira S.A.,2,False,PT
+2881,Freitas,2,False,PT
+2882,José Pedro da Paz,1,False,PT
+2883,Fonseca - ME,2,False,PT
+2884,Monteiro,2,False,PT
+2885,Lucas Gabriel Melo,1,False,PT
+2886,Melo,2,False,PT
+2887,Vicente Siqueira,1,False,PT
+2888,Sr. Cauã Montenegro,1,False,PT
+2889,Antonella Albuquerque,1,False,PT
+2890,Jesus,2,False,PT
+2891,Pereira e Filhos,2,False,PT
+2892,Dra. Mariane Guerra,1,False,PT
+2893,João Gabriel Albuquerque,1,False,PT
+2894,Dra. Maria Eduarda Teixeira,1,False,PT
+2895,Enrico Vieira,1,False,PT
+2896,Abreu,2,False,PT
+2897,Sampaio Martins S/A,2,False,PT
+2898,da Cruz e Filhos,2,False,PT
+2899,Catarina da Cunha,1,False,PT
+2900,Sara Caldeira,1,False,PT
+2901,Luísa Sampaio,1,False,PT
+2902,Pinto,2,False,PT
+2903,da Mota,2,False,PT
+2904,Luísa das Neves,1,False,PT
+2905,Cecília Castro,1,False,PT
+2906,da Rosa,2,False,PT
+2907,Ferreira,2,False,PT
+2908,Srta. Lívia Câmara,1,False,PT
+2909,Santos Lopes S/A,2,False,PT
+2910,Moreira S/A,2,False,PT
+2911,Rhavi Souza,1,False,PT
+2912,Henrique Silveira,1,False,PT
+2913,da Mata,2,False,PT
+2914,Câmara - ME,2,False,PT
+2915,Camargo,2,False,PT
+2916,Alice Ramos,1,False,PT
+2917,da Costa Teixeira - EI,2,False,PT
+2918,Carvalho,2,False,PT
+2919,Siqueira Pereira S.A.,2,False,PT
+2920,Antony Andrade,1,False,PT
+2921,Barbosa Silva S.A.,2,False,PT
+2922,Alexia Rezende,1,False,PT
+2923,Farias Fogaça S.A.,2,False,PT
+2924,Guerra,2,False,PT
+2925,Heitor Mendes,1,False,PT
+2926,Vitor Gabriel Silveira,1,False,PT
+2927,Dr. João Lucas Fonseca,1,False,PT
+2928,Ana Clara Oliveira,1,False,PT
+2929,Calebe Aragão,1,False,PT
+2930,Nascimento Machado - EI,2,False,PT
+2931,Novais S.A.,2,False,PT
+2932,Raquel Nascimento,1,False,PT
+2933,Sr. Pedro Lucas Pastor,1,False,PT
+2934,Marina da Paz,1,False,PT
+2935,Camargo,2,False,PT
+2936,Peixoto Cavalcanti - EI,2,False,PT
+2937,Srta. Lívia Jesus,1,False,PT
+2938,Sousa,2,False,PT
+2939,Luana Silva,1,False,PT
+2940,Manuela Campos,1,False,PT
+2941,Carlos Eduardo Guerra,1,False,PT
+2942,Gomes,2,False,PT
+2943,Lopes - ME,2,False,PT
+2944,da Paz,2,False,PT
+2945,Brayan Santos,1,False,PT
+2946,Sr. Juan Castro,1,False,PT
+2947,Maria Câmara,1,False,PT
+2948,Carvalho - EI,2,False,PT
+2949,Rocha,2,False,PT
+2950,Moraes,2,False,PT
+2951,Pinto,2,False,PT
+2952,Monteiro,2,False,PT
+2953,Casa Grande,2,False,PT
+2954,Rios,2,False,PT
+2955,Cassiano,2,False,PT
+2956,Ester Nunes,1,False,PT
+2957,Sr. Mathias Barros,1,False,PT
+2958,Rafael Guerra,1,False,PT
+2959,Rafaela Marques,1,False,PT
+2960,Sra. Sabrina Borges,1,False,PT
+2961,Isabella Porto,1,False,PT
+2962,Pacheco S.A.,2,False,PT
+2963,Mariana Gomes,1,False,PT
+2964,Moraes - ME,2,False,PT
+2965,Campos,2,False,PT
+2966,Maria Fernanda Vasconcelos,1,False,PT
+2967,Rezende,2,False,PT
+2968,Luiz Henrique Siqueira,1,False,PT
+2969,Luan Casa Grande,1,False,PT
+2970,Dra. Ester Aparecida,1,False,PT
+2971,Pacheco - EI,2,False,PT
+2972,Srta. Bruna Barros,1,False,PT
+2973,Pires,2,False,PT
+2974,Nogueira Peixoto - EI,2,False,PT
+2975,Ana Luiza Abreu,1,False,PT
+2976,Nascimento,2,False,PT
+2977,Leonardo Castro,1,False,PT
+2978,Apollo Silva,1,False,PT
+2979,Porto,2,False,PT
+2980,Davi Lucca Mendonça,1,False,PT
+2981,Moraes,2,False,PT
+2982,Marques e Filhos,2,False,PT
+2983,Olivia Câmara,1,False,PT
+2984,Aurora Pinto,1,False,PT
+2985,Moreira e Filhos,2,False,PT
+2986,Sabrina Mendes,1,False,PT
+2987,Teixeira Ferreira - ME,2,False,PT
+2988,da Mota Câmara e Filhos,2,False,PT
+2989,Fogaça,2,False,PT
+2990,Almeida e Filhos,2,False,PT
+2991,Barros,2,False,PT
+2992,Aparecida,2,False,PT
+2993,da Mata Sales - ME,2,False,PT
+2994,Rhavi Guerra,1,False,PT
+2995,Camila Gonçalves,1,False,PT
+2996,Fernandes,2,False,PT
+2997,João Moreira,1,False,PT
+2998,Guerra,2,False,PT
+2999,Ribeiro Correia - ME,2,False,PT
+3000,Araújo e Filhos,2,False,PT
+3001,da Rosa,2,False,PT
+3002,Laura Cirino,1,False,PT
+3003,Campos,2,False,PT
+3004,Gabriela Sampaio,1,False,PT
+3005,Dra. Julia Melo,1,False,PT
+3006,Pimenta Costela S.A.,2,False,PT
+3007,Gonçalves,2,False,PT
+3008,Breno da Cruz,1,False,PT
+3009,Théo Rezende,1,False,PT
+3010,Pastor e Filhos,2,False,PT
+3011,João Lucas Aragão,1,False,PT
+3012,Sra. Maria Isis Albuquerque,1,False,PT
+3013,Sousa,2,False,PT
+3014,da Luz Fogaça S/A,2,False,PT
+3015,Melo Caldeira S.A.,2,False,PT
+3016,Moreira,2,False,PT
+3017,Lopes Borges - ME,2,False,PT
+3018,Cassiano,2,False,PT
+3019,Dante Cavalcanti,1,False,PT
+3020,João Lucas Barros,1,False,PT
+3021,Srta. Helena Costa,1,False,PT
+3022,Caldeira,2,False,PT
+3023,Ana Cassiano,1,False,PT
+3024,Eduarda Ribeiro,1,False,PT
+3025,Dra. Marcela Vasconcelos,1,False,PT
+3026,da Mota S/A,2,False,PT
+3027,Sr. Theodoro Duarte,1,False,PT
+3028,Ravi Lucca Monteiro,1,False,PT
+3029,Isadora da Paz,1,False,PT
+3030,Henry Rocha,1,False,PT
+3031,da Rosa da Cunha S/A,2,False,PT
+3032,Alves,2,False,PT
+3033,Rael Pires,1,False,PT
+3034,Ferreira,2,False,PT
+3035,Enrico Cavalcanti,1,False,PT
+3036,Pastor Ltda.,2,False,PT
+3037,Fogaça Sampaio S/A,2,False,PT
+3038,Barros,2,False,PT
+3039,Alves,2,False,PT
+3040,da Paz,2,False,PT
+3041,Pietro Barros,1,False,PT
+3042,Dom Cavalcante,1,False,PT
+3043,José Miguel Pacheco,1,False,PT
+3044,Juliana Aparecida,1,False,PT
+3045,Maria Alice Cardoso,1,False,PT
+3046,Carvalho,2,False,PT
+3047,Sra. Jade Câmara,1,False,PT
+3048,Sr. André Camargo,1,False,PT
+3049,Luiz Henrique Macedo,1,False,PT
+3050,Carlos Eduardo Vargas,1,False,PT
+3051,Leão,2,False,PT
+3052,Pedro Henrique Teixeira,1,False,PT
+3053,Sophia Nunes,1,False,PT
+3054,Pedro Miguel Câmara,1,False,PT
+3055,Dr. José Pedro Aparecida,1,False,PT
+3056,Castro S.A.,2,False,PT
+3057,Macedo,2,False,PT
+3058,Diogo Sales,1,False,PT
+3059,Bianca Rios,1,False,PT
+3060,Hellena Vieira,1,False,PT
+3061,Vitor Gabriel Fogaça,1,False,PT
+3062,Sampaio S.A.,2,False,PT
+3063,Monteiro e Filhos,2,False,PT
+3064,Moreira Vieira e Filhos,2,False,PT
+3065,Correia Araújo Ltda.,2,False,PT
+3066,Azevedo Ribeiro Ltda.,2,False,PT
+3067,Novais Novais - EI,2,False,PT
+3068,Natália da Conceição,1,False,PT
+3069,Machado,2,False,PT
+3070,Martins Ferreira S/A,2,False,PT
+3071,Sofia da Mota,1,False,PT
+3072,Cassiano,2,False,PT
+3073,Sales,2,False,PT
+3074,Novais,2,False,PT
+3075,Benjamin Aragão,1,False,PT
+3076,da Costa,2,False,PT
+3077,Costa - EI,2,False,PT
+3078,Sra. Maria Fernanda Vieira,1,False,PT
+3079,Correia S.A.,2,False,PT
+3080,Peixoto Silva e Filhos,2,False,PT
+3081,Marques,2,False,PT
+3082,Barros,2,False,PT
+3083,Enzo Porto,1,False,PT
+3084,Sra. Giovanna Sousa,1,False,PT
+3085,Dra. Isabela Moreira,1,False,PT
+3086,Ana Laura Novais,1,False,PT
+3087,Eloah Moraes,1,False,PT
+3088,Lívia Dias,1,False,PT
+3089,Ferreira Carvalho S/A,2,False,PT
+3090,Nunes,2,False,PT
+3091,Mirella da Mota,1,False,PT
+3092,Souza Ltda.,2,False,PT
+3093,Abreu Mendes Ltda.,2,False,PT
+3094,Nicole Cirino,1,False,PT
+3095,da Rocha,2,False,PT
+3096,Enzo Guerra,1,False,PT
+3097,Sr. Enzo Gabriel da Mota,1,False,PT
+3098,Pacheco Montenegro S/A,2,False,PT
+3099,Vicente Dias,1,False,PT
+3100,Rios,2,False,PT
+3101,Moraes,2,False,PT
+3102,Peixoto Mendonça - ME,2,False,PT
+3103,Silva S/A,2,False,PT
+3104,Pastor e Filhos,2,False,PT
+3105,Vasconcelos,2,False,PT
+3106,Barbosa,2,False,PT
+3107,Beatriz Barros,1,False,PT
+3108,Nunes,2,False,PT
+3109,Gabriel Nunes,1,False,PT
+3110,Melo - ME,2,False,PT
+3111,Monteiro,2,False,PT
+3112,Pinto,2,False,PT
+3113,Novaes,2,False,PT
+3114,João Pacheco,1,False,PT
+3115,Vieira Rios S/A,2,False,PT
+3116,Silveira,2,False,PT
+3117,da Cunha,2,False,PT
+3118,Lavínia Teixeira,1,False,PT
+3119,Fogaça Silva S/A,2,False,PT
+3120,Pastor - EI,2,False,PT
+3121,Carvalho Jesus - ME,2,False,PT
+3122,Melo Ltda.,2,False,PT
+3123,Siqueira S/A,2,False,PT
+3124,Guerra e Filhos,2,False,PT
+3125,Rezende,2,False,PT
+3126,Bella Lopes,1,False,PT
+3127,Costela,2,False,PT
+3128,Cassiano Rodrigues e Filhos,2,False,PT
+3129,Casa Grande,2,False,PT
+3130,André Costela,1,False,PT
+3131,Dra. Zoe Ramos,1,False,PT
+3132,Luiz Gustavo Porto,1,False,PT
+3133,da Cruz,2,False,PT
+3134,Marques,2,False,PT
+3135,Ravi das Neves,1,False,PT
+3136,Ana Lívia Lopes,1,False,PT
+3137,Fernanda Araújo,1,False,PT
+3138,Ayla Almeida,1,False,PT
+3139,Nogueira Borges e Filhos,2,False,PT
+3140,da Paz da Rosa - EI,2,False,PT
+3141,Ribeiro,2,False,PT
+3142,Levi Novais,1,False,PT
+3143,Rhavi Caldeira,1,False,PT
+3144,Rodrigues,2,False,PT
+3145,da Mata S/A,2,False,PT
+3146,Nascimento,2,False,PT
+3147,José Pedro Fernandes,1,False,PT
+3148,Carvalho Correia S.A.,2,False,PT
+3149,Campos Ltda.,2,False,PT
+3150,Cassiano S/A,2,False,PT
+3151,Mendonça Alves e Filhos,2,False,PT
+3152,Clara da Rocha,1,False,PT
+3153,Leão,2,False,PT
+3154,Duarte Barros - ME,2,False,PT
+3155,Stella Teixeira,1,False,PT
+3156,Lavínia Pastor,1,False,PT
+3157,Rebeca Dias,1,False,PT
+3158,Hadassa Rodrigues,1,False,PT
+3159,Rios Pacheco - EI,2,False,PT
+3160,Henry Gabriel Montenegro,1,False,PT
+3161,Cavalcanti Pinto Ltda.,2,False,PT
+3162,da Rocha,2,False,PT
+3163,Pimenta - ME,2,False,PT
+3164,Ana Beatriz Garcia,1,False,PT
+3165,Câmara,2,False,PT
+3166,Henrique Viana,1,False,PT
+3167,Silveira e Filhos,2,False,PT
+3168,Pimenta Costela Ltda.,2,False,PT
+3169,Pedro Lucas Andrade,1,False,PT
+3170,Fernando Nascimento,1,False,PT
+3171,Pires,2,False,PT
+3172,Pimenta - EI,2,False,PT
+3173,Cavalcante,2,False,PT
+3174,Maria Liz Pires,1,False,PT
+3175,Pinto Almeida e Filhos,2,False,PT
+3176,Ribeiro Ltda.,2,False,PT
+3177,da Cunha - ME,2,False,PT
+3178,Kamilly Costa,1,False,PT
+3179,Brayan Nogueira,1,False,PT
+3180,Allana Nascimento,1,False,PT
+3181,Ramos,2,False,PT
+3182,da Rocha,2,False,PT
+3183,Pietro Sá,1,False,PT
+3184,Almeida,2,False,PT
+3185,Emanuel Jesus,1,False,PT
+3186,Luiz Henrique Porto,1,False,PT
+3187,Bento Vargas,1,False,PT
+3188,Pinto - ME,2,False,PT
+3189,Casa Grande,2,False,PT
+3190,Heloísa Brito,1,False,PT
+3191,Gonçalves Ltda.,2,False,PT
+3192,Silveira da Mata S/A,2,False,PT
+3193,Maria Luísa Macedo,1,False,PT
+3194,Daniel Sales,1,False,PT
+3195,Rios S.A.,2,False,PT
+3196,Rios,2,False,PT
+3197,Arthur Gabriel Campos,1,False,PT
+3198,Lucca Barros,1,False,PT
+3199,Cassiano Mendonça Ltda.,2,False,PT
+3200,Davi Miguel Caldeira,1,False,PT
+3201,Davi Lucas da Luz,1,False,PT
+3202,Casa Grande,2,False,PT
+3203,Agatha Rocha,1,False,PT
+3204,Santos S.A.,2,False,PT
+3205,Macedo Ltda.,2,False,PT
+3206,Maya da Cunha,1,False,PT
+3207,da Paz S/A,2,False,PT
+3208,Antony Silveira,1,False,PT
+3209,Ian Cavalcante,1,False,PT
+3210,Gonçalves Sampaio S.A.,2,False,PT
+3211,Moura e Filhos,2,False,PT
+3212,Pastor,2,False,PT
+3213,Lima Cavalcanti S/A,2,False,PT
+3214,Rios,2,False,PT
+3215,Pastor,2,False,PT
+3216,Lucas Gabriel Azevedo,1,False,PT
+3217,João Pedro Aparecida,1,False,PT
+3218,da Paz,2,False,PT
+3219,Luísa Casa Grande,1,False,PT
+3220,Luiz Gustavo Duarte,1,False,PT
+3221,Maria Liz Borges,1,False,PT
+3222,Milena da Rosa,1,False,PT
+3223,Pinto Barros S.A.,2,False,PT
+3224,Nogueira Rezende S/A,2,False,PT
+3225,Josué Cirino,1,False,PT
+3226,Monteiro,2,False,PT
+3227,Helena Pacheco,1,False,PT
+3228,Yago Barros,1,False,PT
+3229,Pimenta,2,False,PT
+3230,Rocha,2,False,PT
+3231,Fernando Câmara,1,False,PT
+3232,Gustavo Sales,1,False,PT
+3233,Larissa Albuquerque,1,False,PT
+3234,Rael Melo,1,False,PT
+3235,André Correia,1,False,PT
+3236,da Mota,2,False,PT
+3237,Rezende S.A.,2,False,PT
+3238,Luiz Otávio Gonçalves,1,False,PT
+3239,Mendonça,2,False,PT
+3240,Davi Luiz da Luz,1,False,PT
+3241,Rocha,2,False,PT
+3242,Cirino Ltda.,2,False,PT
+3243,Arthur Lopes,1,False,PT
+3244,Sr. Fernando Moraes,1,False,PT
+3245,Novaes Almeida - ME,2,False,PT
+3246,Alves Cavalcanti S/A,2,False,PT
+3247,Joana Câmara,1,False,PT
+3248,Olivia Nogueira,1,False,PT
+3249,Diego Farias,1,False,PT
+3250,Manuella Ribeiro,1,False,PT
+3251,Daniel Silva,1,False,PT
+3252,Luana Camargo,1,False,PT
+3253,Cardoso da Mota Ltda.,2,False,PT
+3254,Yasmin Camargo,1,False,PT
+3255,Sra. Pietra Sales,1,False,PT
+3256,Moraes,2,False,PT
+3257,Isabel Araújo,1,False,PT
+3258,Sr. Caleb Fogaça,1,False,PT
+3259,Viana,2,False,PT
+3260,Cardoso,2,False,PT
+3261,Barros,2,False,PT
+3262,Leandro Brito,1,False,PT
+3263,Emanuelly Caldeira,1,False,PT
+3264,Antônio da Cunha,1,False,PT
+3265,Mariah Moraes,1,False,PT
+3266,Machado S.A.,2,False,PT
+3267,Melissa Mendonça,1,False,PT
+3268,Cardoso,2,False,PT
+3269,Kaique Alves,1,False,PT
+3270,Fernandes Fogaça S/A,2,False,PT
+3271,Peixoto,2,False,PT
+3272,Rael Rocha,1,False,PT
+3273,Costela Vargas - EI,2,False,PT
+3274,Abreu,2,False,PT
+3275,Caleb Gomes,1,False,PT
+3276,Mendes Cavalcante Ltda.,2,False,PT
+3277,Marcela Vieira,1,False,PT
+3278,Nogueira - EI,2,False,PT
+3279,Dias,2,False,PT
+3280,Mariana da Rocha,1,False,PT
+3281,Sousa,2,False,PT
+3282,da Costa Garcia - ME,2,False,PT
+3283,Almeida - ME,2,False,PT
+3284,Srta. Bella Viana,1,False,PT
+3285,Bárbara Moura,1,False,PT
+3286,Luan Ramos,1,False,PT
+3287,Rezende,2,False,PT
+3288,Mendes,2,False,PT
+3289,Bento Brito,1,False,PT
+3290,Cunha e Filhos,2,False,PT
+3291,da Conceição,2,False,PT
+3292,Freitas,2,False,PT
+3293,Cassiano,2,False,PT
+3294,da Mota - ME,2,False,PT
+3295,Marcos Vinicius Cirino,1,False,PT
+3296,Porto,2,False,PT
+3297,Srta. Yasmin Cavalcante,1,False,PT
+3298,Pimenta,2,False,PT
+3299,Zoe Sampaio,1,False,PT
+3300,Daniela Duarte,1,False,PT
+3301,Teixeira S/A,2,False,PT
+3302,Nascimento Casa Grande S.A.,2,False,PT
+3303,Nogueira,2,False,PT
+3304,Brayan Sampaio,1,False,PT
+3305,Lopes e Filhos,2,False,PT
+3306,Lopes S/A,2,False,PT
+3307,Silva,2,False,PT
+3308,Aparecida,2,False,PT
+3309,Rebeca Fogaça,1,False,PT
+3310,Rios S/A,2,False,PT
+3311,Maria Luiza Correia,1,False,PT
+3312,da Cruz,2,False,PT
+3313,Sr. Ravi Castro,1,False,PT
+3314,Ana Sophia Freitas,1,False,PT
+3315,Isabel Sales,1,False,PT
+3316,Pacheco,2,False,PT
+3317,Araújo S/A,2,False,PT
+3318,Rocha,2,False,PT
+3319,Pastor,2,False,PT
+3320,Gomes,2,False,PT
+3321,Maria da Rosa,1,False,PT
+3322,das Neves da Mata - ME,2,False,PT
+3323,Barbosa S/A,2,False,PT
+3324,Cirino - ME,2,False,PT
+3325,Abreu - ME,2,False,PT
+3326,Alves,2,False,PT
+3327,Ana Júlia Ferreira,1,False,PT
+3328,Sophie da Cruz,1,False,PT
+3329,Brenda Cirino,1,False,PT
+3330,Dias Ltda.,2,False,PT
+3331,Heloisa Siqueira,1,False,PT
+3332,Levi Lima,1,False,PT
+3333,Pedro Henrique Silveira,1,False,PT
+3334,Mariah Lima,1,False,PT
+3335,Manuela Rezende,1,False,PT
+3336,João Miguel Rodrigues,1,False,PT
+3337,Amanda da Cunha,1,False,PT
+3338,Nascimento,2,False,PT
+3339,Maitê Sousa,1,False,PT
+3340,Isaac Cassiano,1,False,PT
+3341,Sales da Rosa S.A.,2,False,PT
+3342,Diego Freitas,1,False,PT
+3343,Diogo Moura,1,False,PT
+3344,Danilo Moura,1,False,PT
+3345,Luan Costela,1,False,PT
+3346,Brayan da Cruz,1,False,PT
+3347,Teixeira,2,False,PT
+3348,Srta. Maria Martins,1,False,PT
+3349,Novaes Cardoso e Filhos,2,False,PT
+3350,Nogueira Fogaça S.A.,2,False,PT
+3351,Mirella Gomes,1,False,PT
+3352,Lima,2,False,PT
+3353,da Mota,2,False,PT
+3354,Gustavo Costela,1,False,PT
+3355,Vitor Gabriel Castro,1,False,PT
+3356,Melo,2,False,PT
+3357,Novaes,2,False,PT
+3358,Dr. Kevin Barbosa,1,False,PT
+3359,da Mata,2,False,PT
+3360,Lara Silveira,1,False,PT
+3361,Hadassa Leão,1,False,PT
+3362,Dr. Benjamim Gomes,1,False,PT
+3363,Cauê Cunha,1,False,PT
+3364,Cauê Azevedo,1,False,PT
+3365,Vasconcelos,2,False,PT
+3366,Jade Carvalho,1,False,PT
+3367,Rios Ltda.,2,False,PT
+3368,Andrade,2,False,PT
+3369,Porto,2,False,PT
+3370,Luigi da Mota,1,False,PT
+3371,Alexandre Ribeiro,1,False,PT
+3372,Ayla Albuquerque,1,False,PT
+3373,Rael Moreira,1,False,PT
+3374,Catarina Nunes,1,False,PT
+3375,Valentim Freitas,1,False,PT
+3376,Vieira e Filhos,2,False,PT
+3377,Sá,2,False,PT
+3378,Sra. Laís Cunha,1,False,PT
+3379,Sousa S.A.,2,False,PT
+3380,Dra. Alice Nascimento,1,False,PT
+3381,da Mota S.A.,2,False,PT
+3382,Moreira,2,False,PT
+3383,Luiza Vargas,1,False,PT
+3384,Ferreira,2,False,PT
+3385,Andrade,2,False,PT
+3386,Rios,2,False,PT
+3387,Rios Ltda.,2,False,PT
+3388,Aparecida,2,False,PT
+3389,Pimenta,2,False,PT
+3390,Pinto,2,False,PT
+3391,Alana Porto,1,False,PT
+3392,Oliveira Gonçalves - ME,2,False,PT
+3393,Pastor,2,False,PT
+3394,Costela,2,False,PT
+3395,Marcelo Cunha,1,False,PT
+3396,Viana das Neves - ME,2,False,PT
+3397,Ana Carolina da Rosa,1,False,PT
+3398,Costa S/A,2,False,PT
+3399,Mendes,2,False,PT
+3400,da Costa,2,False,PT
+3401,Thales Cirino,1,False,PT
+3402,Cauã da Mata,1,False,PT
+3403,João Guilherme Peixoto,1,False,PT
+3404,Benjamin Sales,1,False,PT
+3405,Sales,2,False,PT
+3406,Pinto,2,False,PT
+3407,da Cruz,2,False,PT
+3408,Sarah da Costa,1,False,PT
+3409,Campos,2,False,PT
+3410,Rafael Nunes,1,False,PT
+3411,Valentim Rezende,1,False,PT
+3412,Guerra,2,False,PT
+3413,Pedro Carvalho,1,False,PT
+3414,Araújo,2,False,PT
+3415,Oliveira S/A,2,False,PT
+3416,Ana Vitória Barbosa,1,False,PT
+3417,Pedro Henrique Câmara,1,False,PT
+3418,Rael Farias,1,False,PT
+3419,Ribeiro,2,False,PT
+3420,Pedro Miguel Rezende,1,False,PT
+3421,Sr. Matteo Macedo,1,False,PT
+3422,da Cruz - ME,2,False,PT
+3423,Ísis Sá,1,False,PT
+3424,Lívia da Cruz,1,False,PT
+3425,Câmara,2,False,PT
+3426,Eloá Cirino,1,False,PT
+3427,Sr. Vinicius Cavalcanti,1,False,PT
+3428,Ana Luiza Gonçalves,1,False,PT
+3429,Pacheco,2,False,PT
+3430,Aparecida,2,False,PT
+3431,Rocha da Paz S/A,2,False,PT
+3432,Lima,2,False,PT
+3433,Ramos Fonseca S.A.,2,False,PT
+3434,Dante Mendes,1,False,PT
+3435,Luiz Henrique Brito,1,False,PT
+3436,Rios Casa Grande Ltda.,2,False,PT
+3437,Dante Melo,1,False,PT
+3438,Camargo,2,False,PT
+3439,Vitor Pinto,1,False,PT
+3440,Siqueira,2,False,PT
+3441,Arthur Gabriel Monteiro,1,False,PT
+3442,Viana Nunes S.A.,2,False,PT
+3443,Fernanda Cavalcanti,1,False,PT
+3444,Aragão e Filhos,2,False,PT
+3445,Albuquerque Marques S.A.,2,False,PT
+3446,Leão,2,False,PT
+3447,Ramos,2,False,PT
+3448,Rocha da Luz S.A.,2,False,PT
+3449,Vieira S/A,2,False,PT
+3450,Diogo Macedo,1,False,PT
+3451,Sophie Ramos,1,False,PT
+3452,Novaes,2,False,PT
+3453,Duarte,2,False,PT
+3454,Rodrigues,2,False,PT
+3455,da Mata S.A.,2,False,PT
+3456,Nunes,2,False,PT
+3457,Souza,2,False,PT
+3458,Pedro Henrique Martins,1,False,PT
+3459,Siqueira,2,False,PT
+3460,da Mota Azevedo - ME,2,False,PT
+3461,Cirino,2,False,PT
+3462,Giovanna Porto,1,False,PT
+3463,Ana Clara Viana,1,False,PT
+3464,da Luz - EI,2,False,PT
+3465,Dr. Rafael Leão,1,False,PT
+3466,Lucas Gabriel Pinto,1,False,PT
+3467,Renan Lopes,1,False,PT
+3468,Ravy Jesus,1,False,PT
+3469,Brito,2,False,PT
+3470,Fernanda Almeida,1,False,PT
+3471,Cavalcanti,2,False,PT
+3472,Vieira,2,False,PT
+3473,Sr. Bernardo Rios,1,False,PT
+3474,Câmara Ltda.,2,False,PT
+3475,Carlos Eduardo Almeida,1,False,PT
+3476,Santos Ltda.,2,False,PT
+3477,João Felipe Moura,1,False,PT
+3478,Bruna Brito,1,False,PT
+3479,Dias - ME,2,False,PT
+3480,Gabriel Pimenta,1,False,PT
+3481,Ana Carolina Novais,1,False,PT
+3482,Campos S/A,2,False,PT
+3483,Moraes,2,False,PT
+3484,Rael Casa Grande,1,False,PT
+3485,Ian Novais,1,False,PT
+3486,Rael Silva,1,False,PT
+3487,Dias,2,False,PT
+3488,Anthony Ramos,1,False,PT
+3489,Campos Pereira - ME,2,False,PT
+3490,Almeida - ME,2,False,PT
+3491,Sara da Luz,1,False,PT
+3492,Joana Rocha,1,False,PT
+3493,Pedro Sousa,1,False,PT
+3494,Fonseca,2,False,PT
+3495,Vitória Moreira,1,False,PT
+3496,Manuela da Conceição,1,False,PT
+3497,Ferreira Pimenta e Filhos,2,False,PT
+3498,Bryan Brito,1,False,PT
+3499,Leão,2,False,PT
+3500,Isis da Luz,1,False,PT
+3501,Letícia Siqueira,1,False,PT
+3502,Ana Carolina Freitas,1,False,PT
+3503,Gomes,2,False,PT
+3504,Lucas Nunes,1,False,PT
+3505,Luara Correia,1,False,PT
+3506,Léo da Rosa,1,False,PT
+3507,Farias,2,False,PT
+3508,Fogaça,2,False,PT
+3509,Ryan Montenegro,1,False,PT
+3510,Costela,2,False,PT
+3511,Machado,2,False,PT
+3512,Ribeiro,2,False,PT
+3513,Teixeira,2,False,PT
+3514,Caleb da Costa,1,False,PT
+3515,Dr. Guilherme Sousa,1,False,PT
+3516,Esther Mendonça,1,False,PT
+3517,Maria Luiza Aragão,1,False,PT
+3518,Campos Ltda.,2,False,PT
+3519,Bruna Cassiano,1,False,PT
+3520,Emanuella Siqueira,1,False,PT
+3521,Duarte,2,False,PT
+3522,Nathan Casa Grande,1,False,PT
+3523,Luísa Castro,1,False,PT
+3524,Ana Cecília Novais,1,False,PT
+3525,Dr. Benicio Montenegro,1,False,PT
+3526,Santos da Luz e Filhos,2,False,PT
+3527,Sá,2,False,PT
+3528,Manuella Moraes,1,False,PT
+3529,Freitas,2,False,PT
+3530,Cauê Sá,1,False,PT
+3531,Viana,2,False,PT
+3532,Kamilly Gomes,1,False,PT
+3533,Maitê Sampaio,1,False,PT
+3534,Vieira,2,False,PT
+3535,Nina Carvalho,1,False,PT
+3536,Carvalho da Rocha - EI,2,False,PT
+3537,Ana Liz Garcia,1,False,PT
+3538,Leão,2,False,PT
+3539,Isis Lima,1,False,PT
+3540,Fonseca,2,False,PT
+3541,Pinto,2,False,PT
+3542,Aragão,2,False,PT
+3543,Olivia Moraes,1,False,PT
+3544,Dra. Maria Clara Rios,1,False,PT
+3545,Gonçalves e Filhos,2,False,PT
+3546,da Cruz Gonçalves - EI,2,False,PT
+3547,Pereira,2,False,PT
+3548,Ana Sophia da Mota,1,False,PT
+3549,Alícia Pastor,1,False,PT
+3550,Isaque Moraes,1,False,PT
+3551,Maya Cunha,1,False,PT
+3552,Gonçalves e Filhos,2,False,PT
+3553,Dra. Elisa Sales,1,False,PT
+3554,Yan Almeida,1,False,PT
+3555,Câmara Castro S/A,2,False,PT
+3556,Isadora Leão,1,False,PT
+3557,Camargo Ltda.,2,False,PT
+3558,Isabella Correia,1,False,PT
+3559,Matteo Almeida,1,False,PT
+3560,Benjamim Casa Grande,1,False,PT
+3561,Teixeira S/A,2,False,PT
+3562,Pereira,2,False,PT
+3563,Vitor Hugo Moraes,1,False,PT
+3564,Azevedo,2,False,PT
+3565,Correia,2,False,PT
+3566,Nogueira Novais - EI,2,False,PT
+3567,Melissa Nogueira,1,False,PT
+3568,Sra. Lorena Brito,1,False,PT
+3569,Cunha,2,False,PT
+3570,Ana Júlia Azevedo,1,False,PT
+3571,Cavalcanti,2,False,PT
+3572,Sr. Paulo Peixoto,1,False,PT
+3573,Juan da Mota,1,False,PT
+3574,Amanda Cassiano,1,False,PT
+3575,Câmara,2,False,PT
+3576,Albuquerque,2,False,PT
+3577,Marques,2,False,PT
+3578,Zoe Caldeira,1,False,PT
+3579,Arthur Gabriel Sá,1,False,PT
+3580,Catarina Jesus,1,False,PT
+3581,Sr. Lorenzo Viana,1,False,PT
+3582,Sophie da Mata,1,False,PT
+3583,Cassiano Borges e Filhos,2,False,PT
+3584,Peixoto,2,False,PT
+3585,Castro,2,False,PT
+3586,Dr. Asafe Barbosa,1,False,PT
+3587,Vasconcelos - EI,2,False,PT
+3588,Aragão,2,False,PT
+3589,Machado S.A.,2,False,PT
+3590,Novais Silva S/A,2,False,PT
+3591,Cirino Novais e Filhos,2,False,PT
+3592,Eduardo Novais,1,False,PT
+3593,Guerra S/A,2,False,PT
+3594,Lorenzo Novais,1,False,PT
+3595,Porto,2,False,PT
+3596,Giovanna da Mota,1,False,PT
+3597,Macedo Almeida S/A,2,False,PT
+3598,Matteo Cavalcante,1,False,PT
+3599,Olívia da Cruz,1,False,PT
+3600,Campos - ME,2,False,PT
+3601,Dra. Maitê Fogaça,1,False,PT
+3602,Yuri Nascimento,1,False,PT
+3603,Sr. Henry Gabriel Novais,1,False,PT
+3604,Macedo S/A,2,False,PT
+3605,Emilly Lima,1,False,PT
+3606,Dr. Vitor Hugo Araújo,1,False,PT
+3607,Rezende,2,False,PT
+3608,Fogaça,2,False,PT
+3609,Allana Gonçalves,1,False,PT
+3610,Maria Silva,1,False,PT
+3611,Almeida S/A,2,False,PT
+3612,Cunha Sampaio Ltda.,2,False,PT
+3613,Novaes Casa Grande - EI,2,False,PT
+3614,Davi Lucas Pinto,1,False,PT
+3615,Joana Ferreira,1,False,PT
+3616,Ana Luiza Farias,1,False,PT
+3617,Maria Helena da Cruz,1,False,PT
+3618,da Luz,2,False,PT
+3619,Cassiano,2,False,PT
+3620,Sousa Nunes - EI,2,False,PT
+3621,Dr. Vinicius Pereira,1,False,PT
+3622,Noah das Neves,1,False,PT
+3623,Rael Aragão,1,False,PT
+3624,Pereira,2,False,PT
+3625,Almeida,2,False,PT
+3626,Agatha Guerra,1,False,PT
+3627,Andrade e Filhos,2,False,PT
+3628,João Miguel Castro,1,False,PT
+3629,Alexandre Moreira,1,False,PT
+3630,Léo Ribeiro,1,False,PT
+3631,Pinto S/A,2,False,PT
+3632,Henrique da Mata,1,False,PT
+3633,Dra. Clarice Aragão,1,False,PT
+3634,Araújo Borges Ltda.,2,False,PT
+3635,Lima,2,False,PT
+3636,Rhavi Rios,1,False,PT
+3637,Isaque Novaes,1,False,PT
+3638,Rafael Gonçalves,1,False,PT
+3639,Isabelly da Rosa,1,False,PT
+3640,Bella Novais,1,False,PT
+3641,Campos,2,False,PT
+3642,Manuella Azevedo,1,False,PT
+3643,Martins Ltda.,2,False,PT
+3644,Arthur Miguel Silveira,1,False,PT
+3645,Fernandes e Filhos,2,False,PT
+3646,Nascimento Alves S/A,2,False,PT
+3647,Ferreira,2,False,PT
+3648,Lara Gonçalves,1,False,PT
+3649,Gael Viana,1,False,PT
+3650,Casa Grande,2,False,PT
+3651,Maysa da Mota,1,False,PT
+3652,Sr. Isaque Garcia,1,False,PT
+3653,da Rosa,2,False,PT
+3654,da Rocha,2,False,PT
+3655,da Luz,2,False,PT
+3656,Ramos,2,False,PT
+3657,Albuquerque,2,False,PT
+3658,Leão - EI,2,False,PT
+3659,Novais S/A,2,False,PT
+3660,Yuri Vasconcelos,1,False,PT
+3661,Gustavo Vargas,1,False,PT
+3662,Olívia Gomes,1,False,PT
+3663,Camargo Andrade Ltda.,2,False,PT
+3664,Rocha da Rocha Ltda.,2,False,PT
+3665,Vasconcelos Santos S.A.,2,False,PT
+3666,Srta. Maysa Cavalcante,1,False,PT
+3667,Sá - ME,2,False,PT
+3668,Luigi Pastor,1,False,PT
+3669,Benjamin Viana,1,False,PT
+3670,Enzo Barbosa,1,False,PT
+3671,Moura,2,False,PT
+3672,Vieira - EI,2,False,PT
+3673,José Miguel Sampaio,1,False,PT
+3674,da Conceição Moura e Filhos,2,False,PT
+3675,Leão,2,False,PT
+3676,Pimenta,2,False,PT
+3677,Emanuelly Cassiano,1,False,PT
+3678,Lopes,2,False,PT
+3679,Pastor Ltda.,2,False,PT
+3680,Freitas Mendonça - ME,2,False,PT
+3681,da Costa Silveira e Filhos,2,False,PT
+3682,Isabella Jesus,1,False,PT
+3683,Benjamim Correia,1,False,PT
+3684,Aurora Cunha,1,False,PT
+3685,da Rosa S.A.,2,False,PT
+3686,Julia Ferreira,1,False,PT
+3687,Marcos Vinicius Correia,1,False,PT
+3688,Alana Viana,1,False,PT
+3689,Rhavi Costela,1,False,PT
+3690,da Cunha Ltda.,2,False,PT
+3691,Aparecida,2,False,PT
+3692,Rios Rodrigues S.A.,2,False,PT
+3693,Ana Júlia Ramos,1,False,PT
+3694,Rocha S.A.,2,False,PT
+3695,Freitas - EI,2,False,PT
+3696,Guilherme Sampaio,1,False,PT
+3697,Mariah Costa,1,False,PT
+3698,João Guilherme Lima,1,False,PT
+3699,Camila Garcia,1,False,PT
+3700,Moura Almeida - EI,2,False,PT
+3701,Mendes,2,False,PT
+3702,Dra. Liz Jesus,1,False,PT
+3703,Isabel Gomes,1,False,PT
+3704,Heloisa Mendonça,1,False,PT
+3705,Fonseca Lima S/A,2,False,PT
+3706,Kamilly Peixoto,1,False,PT
+3707,Mendonça,2,False,PT
+3708,Costela,2,False,PT
+3709,Théo Vieira,1,False,PT
+3710,Enzo Gabriel Pinto,1,False,PT
+3711,Maria Fernanda Caldeira,1,False,PT
+3712,Breno Marques,1,False,PT
+3713,Pereira,2,False,PT
+3714,Ferreira S.A.,2,False,PT
+3715,Nogueira Correia - ME,2,False,PT
+3716,Eloá Duarte,1,False,PT
+3717,Rhavi Gomes,1,False,PT
+3718,Emanuel Rodrigues,1,False,PT
+3719,Lívia Costela,1,False,PT
+3720,Nogueira S.A.,2,False,PT
+3721,Sampaio,2,False,PT
+3722,Santos,2,False,PT
+3723,Leão,2,False,PT
+3724,Luara Silveira,1,False,PT
+3725,das Neves Pinto e Filhos,2,False,PT
+3726,Ryan Câmara,1,False,PT
+3727,Murilo Nogueira,1,False,PT
+3728,Laura Ribeiro,1,False,PT
+3729,Sousa S/A,2,False,PT
+3730,Natália Nunes,1,False,PT
+3731,Maya Porto,1,False,PT
+3732,Ian Rezende,1,False,PT
+3733,Thiago Martins,1,False,PT
+3734,Dra. Sabrina Carvalho,1,False,PT
+3735,Mendonça,2,False,PT
+3736,Caroline Novaes,1,False,PT
+3737,da Cunha,2,False,PT
+3738,Ester Jesus,1,False,PT
+3739,Lara Machado,1,False,PT
+3740,Srta. Olivia Castro,1,False,PT
+3741,Mendonça,2,False,PT
+3742,Maria da Luz,1,False,PT
+3743,Ramos Araújo Ltda.,2,False,PT
+3744,Gonçalves,2,False,PT
+3745,Antony Rocha,1,False,PT
+3746,Vieira Pastor S/A,2,False,PT
+3747,Kevin Santos,1,False,PT
+3748,Ana Sophia Alves,1,False,PT
+3749,Fogaça,2,False,PT
+3750,Teixeira,2,False,PT
+3751,Cardoso,2,False,PT
+3752,Duarte - EI,2,False,PT
+3753,da Costa e Filhos,2,False,PT
+3754,da Mata S/A,2,False,PT
+3755,das Neves e Filhos,2,False,PT
+3756,Machado,2,False,PT
+3757,Isabella Albuquerque,1,False,PT
+3758,Hadassa Porto,1,False,PT
+3759,Oliveira,2,False,PT
+3760,Maria Helena Viana,1,False,PT
+3761,Luiz Henrique Cirino,1,False,PT
+3762,Srta. Ana Lívia Aparecida,1,False,PT
+3763,Ravi Lucca Silva,1,False,PT
+3764,Srta. Evelyn Guerra,1,False,PT
+3765,da Mata,2,False,PT
+3766,da Mata Siqueira Ltda.,2,False,PT
+3767,Olivia Teixeira,1,False,PT
+3768,Aparecida - EI,2,False,PT
+3769,Casa Grande,2,False,PT
+3770,Aragão e Filhos,2,False,PT
+3771,Diogo Pacheco,1,False,PT
+3772,Anthony Gabriel Novaes,1,False,PT
+3773,Arthur Miguel Moura,1,False,PT
+3774,Borges,2,False,PT
+3775,Luiz Fernando Sales,1,False,PT
+3776,Andrade Ribeiro e Filhos,2,False,PT
+3777,Vasconcelos - EI,2,False,PT
+3778,Aparecida e Filhos,2,False,PT
+3779,Leão Cavalcanti - EI,2,False,PT
+3780,Sra. Maria Vargas,1,False,PT
+3781,Sousa Vieira S/A,2,False,PT
+3782,Moraes S/A,2,False,PT
+3783,Dr. Noah Mendes,1,False,PT
+3784,Azevedo,2,False,PT
+3785,Montenegro,2,False,PT
+3786,Laís Barros,1,False,PT
+3787,Rodrigues,2,False,PT
+3788,Moura Pastor - ME,2,False,PT
+3789,Théo Brito,1,False,PT
+3790,Siqueira,2,False,PT
+3791,Anthony Gabriel Cardoso,1,False,PT
+3792,Maria Sophia Araújo,1,False,PT
+3793,Arthur Gabriel Marques,1,False,PT
+3794,Costa Marques Ltda.,2,False,PT
+3795,Matheus Costa,1,False,PT
+3796,Maria Fernanda Dias,1,False,PT
+3797,Gabriela da Cruz,1,False,PT
+3798,Costela - EI,2,False,PT
+3799,José Jesus,1,False,PT
+3800,Vitória Souza,1,False,PT
+3801,Costa Cunha e Filhos,2,False,PT
+3802,Léo da Conceição,1,False,PT
+3803,Júlia Silva,1,False,PT
+3804,Azevedo,2,False,PT
+3805,Mendes,2,False,PT
+3806,Pereira Moraes S/A,2,False,PT
+3807,Srta. Julia Sampaio,1,False,PT
+3808,Almeida,2,False,PT
+3809,Melo da Paz Ltda.,2,False,PT
+3810,Araújo - ME,2,False,PT
+3811,Davi Miguel Cassiano,1,False,PT
+3812,Macedo,2,False,PT
+3813,Vinícius Santos,1,False,PT
+3814,Sales e Filhos,2,False,PT
+3815,Machado Farias - ME,2,False,PT
+3816,Novaes,2,False,PT
+3817,Sabrina Abreu,1,False,PT
+3818,Luan Alves,1,False,PT
+3819,Nascimento,2,False,PT
+3820,Cavalcante,2,False,PT
+3821,Heloísa Teixeira,1,False,PT
+3822,Maria Isis Sales,1,False,PT
+3823,Ramos S/A,2,False,PT
+3824,Mendonça,2,False,PT
+3825,Otávio da Luz,1,False,PT
+3826,Campos S/A,2,False,PT
+3827,Bryan Nunes,1,False,PT
+3828,Yuri Cirino,1,False,PT
+3829,Novais Rios - EI,2,False,PT
+3830,Vasconcelos S.A.,2,False,PT
+3831,Sra. Isabel Albuquerque,1,False,PT
+3832,Vieira,2,False,PT
+3833,Novais,2,False,PT
+3834,Macedo,2,False,PT
+3835,Barbosa Ltda.,2,False,PT
+3836,Stephany da Cunha,1,False,PT
+3837,Maysa Andrade,1,False,PT
+3838,Isabela Lopes,1,False,PT
+3839,Caldeira - ME,2,False,PT
+3840,Costa S.A.,2,False,PT
+3841,Matheus Silva,1,False,PT
+3842,da Luz Aparecida - ME,2,False,PT
+3843,Sr. Felipe Barros,1,False,PT
+3844,Thiago Araújo,1,False,PT
+3845,Pietro Fernandes,1,False,PT
+3846,Dias,2,False,PT
+3847,Luiz Felipe Pinto,1,False,PT
+3848,Sr. Daniel Novais,1,False,PT
+3849,Vasconcelos - ME,2,False,PT
+3850,Thales Duarte,1,False,PT
+3851,Fonseca Andrade S.A.,2,False,PT
+3852,Souza,2,False,PT
+3853,Teixeira,2,False,PT
+3854,Pires,2,False,PT
+3855,João Gabriel Ferreira,1,False,PT
+3856,Casa Grande e Filhos,2,False,PT
+3857,da Conceição,2,False,PT
+3858,Aurora da Luz,1,False,PT
+3859,Ana Luiza Novaes,1,False,PT
+3860,Gomes Ramos S.A.,2,False,PT
+3861,Ana Liz Aragão,1,False,PT
+3862,Marina Pires,1,False,PT
+3863,Sousa Gomes S/A,2,False,PT
+3864,Maria Peixoto,1,False,PT
+3865,da Cunha Rodrigues - ME,2,False,PT
+3866,Matheus Almeida,1,False,PT
+3867,das Neves - EI,2,False,PT
+3868,Eduardo Pereira,1,False,PT
+3869,Brito,2,False,PT
+3870,Eloá Freitas,1,False,PT
+3871,Leão Moreira S.A.,2,False,PT
+3872,Teixeira Lopes S/A,2,False,PT
+3873,Machado,2,False,PT
+3874,Cavalcanti,2,False,PT
+3875,Garcia Montenegro S/A,2,False,PT
+3876,Campos S/A,2,False,PT
+3877,Isis Costa,1,False,PT
+3878,Arthur Miguel Barbosa,1,False,PT
+3879,Sr. Caleb Abreu,1,False,PT
+3880,Rocha Abreu S/A,2,False,PT
+3881,da Costa,2,False,PT
+3882,Pietra da Rosa,1,False,PT
+3883,Júlia Leão,1,False,PT
+3884,Jesus,2,False,PT
+3885,Pastor Dias - ME,2,False,PT
+3886,Casa Grande,2,False,PT
+3887,Borges - EI,2,False,PT
+3888,Leão,2,False,PT
+3889,Pereira Ribeiro Ltda.,2,False,PT
+3890,Matteo Aparecida,1,False,PT
+3891,Fogaça Fernandes - ME,2,False,PT
+3892,Pinto,2,False,PT
+3893,Allana Araújo,1,False,PT
+3894,Murilo Guerra,1,False,PT
+3895,Costa - ME,2,False,PT
+3896,Vargas,2,False,PT
+3897,Amanda Moura,1,False,PT
+3898,Sr. Theo da Conceição,1,False,PT
+3899,Farias Casa Grande Ltda.,2,False,PT
+3900,Stella Sampaio,1,False,PT
+3901,Pedro Lucas Moreira,1,False,PT
+3902,Casa Grande,2,False,PT
+3903,Sousa Aparecida - ME,2,False,PT
+3904,Sr. Gael da Luz,1,False,PT
+3905,Leonardo Pastor,1,False,PT
+3906,Silveira,2,False,PT
+3907,Martins,2,False,PT
+3908,Pastor,2,False,PT
+3909,Luna Aparecida,1,False,PT
+3910,da Costa - ME,2,False,PT
+3911,João Guilherme Barros,1,False,PT
+3912,Sara Pimenta,1,False,PT
+3913,Cassiano e Filhos,2,False,PT
+3914,Benício Santos,1,False,PT
+3915,Danilo Correia,1,False,PT
+3916,Lucas Vieira,1,False,PT
+3917,Casa Grande Barbosa e Filhos,2,False,PT
+3918,Borges da Mata S.A.,2,False,PT
+3919,Murilo Garcia,1,False,PT
+3920,Alves Ferreira S/A,2,False,PT
+3921,Yuri Fonseca,1,False,PT
+3922,das Neves Ltda.,2,False,PT
+3923,Ana Júlia da Rocha,1,False,PT
+3924,Siqueira Pinto e Filhos,2,False,PT
+3925,Pastor Cunha S.A.,2,False,PT
+3926,João Miguel Monteiro,1,False,PT
+3927,da Rocha Barbosa - ME,2,False,PT
+3928,Borges Siqueira - EI,2,False,PT
+3929,Mendes,2,False,PT
+3930,Josué Leão,1,False,PT
+3931,Fogaça S/A,2,False,PT
+3932,Dr. Pedro Lucas Lopes,1,False,PT
+3933,João Miguel Melo,1,False,PT
+3934,Laura Pimenta,1,False,PT
+3935,Pires,2,False,PT
+3936,Peixoto,2,False,PT
+3937,Barbosa,2,False,PT
+3938,da Luz - ME,2,False,PT
+3939,Moura,2,False,PT
+3940,Araújo Silva S.A.,2,False,PT
+3941,Ramos - EI,2,False,PT
+3942,Sr. Pedro Aparecida,1,False,PT
+3943,Castro,2,False,PT
+3944,Caio da Mata,1,False,PT
+3945,Dr. André Vieira,1,False,PT
+3946,Dra. Maria Ferreira,1,False,PT
+3947,Sales,2,False,PT
+3948,Sá Caldeira e Filhos,2,False,PT
+3949,Vargas - ME,2,False,PT
+3950,Ísis da Cunha,1,False,PT
+3951,Câmara,2,False,PT
+3952,Pinto,2,False,PT
+3953,Carvalho Viana - ME,2,False,PT
+3954,Maria Clara Duarte,1,False,PT
+3955,Maria Eduarda Costa,1,False,PT
+3956,Porto,2,False,PT
+3957,Anna Liz Cirino,1,False,PT
+3958,Silveira,2,False,PT
+3959,da Luz,2,False,PT
+3960,Pimenta,2,False,PT
+3961,Mariah da Mata,1,False,PT
+3962,Sr. Leandro Pimenta,1,False,PT
+3963,Ravi Lucca Castro,1,False,PT
+3964,Cirino,2,False,PT
+3965,Vasconcelos,2,False,PT
+3966,João Pedro Souza,1,False,PT
+3967,Moreira,2,False,PT
+3968,Montenegro,2,False,PT
+3969,Dr. Cauã Nogueira,1,False,PT
+3970,Bernardo Ramos,1,False,PT
+3971,Aragão,2,False,PT
+3972,Vitor Gabriel Nogueira,1,False,PT
+3973,Correia Pimenta Ltda.,2,False,PT
+3974,Camargo,2,False,PT
+3975,Costela Monteiro S.A.,2,False,PT
+3976,Ribeiro,2,False,PT
+3977,Lunna Pimenta,1,False,PT
+3978,Rodrigues,2,False,PT
+3979,Yago Rocha,1,False,PT
+3980,Mendonça Gomes S/A,2,False,PT
+3981,Srta. Ana Luiza Rios,1,False,PT
+3982,Sabrina Araújo,1,False,PT
+3983,da Luz - ME,2,False,PT
+3984,Sra. Olívia Câmara,1,False,PT
+3985,Yasmin Fogaça,1,False,PT
+3986,Monteiro Araújo S/A,2,False,PT
+3987,Silva Ltda.,2,False,PT
+3988,Duarte - ME,2,False,PT
+3989,Sales S.A.,2,False,PT
+3990,Pietra Silveira,1,False,PT
+3991,Mendonça,2,False,PT
+3992,Vasconcelos - EI,2,False,PT
+3993,Monteiro,2,False,PT
+3994,André Ribeiro,1,False,PT
+3995,Pereira Garcia - EI,2,False,PT
+3996,Lima S.A.,2,False,PT
+3997,Melo S/A,2,False,PT
+3998,Fernandes,2,False,PT
+3999,Farias Castro Ltda.,2,False,PT
+4000,Sra. Luísa Macedo,1,False,PT
+4001,Cavalcante,2,False,PT
+4002,Ana Júlia Costela,1,False,PT
+4003,Léo Marques,1,False,PT
+4004,Nogueira,2,False,PT
+4005,Rodrigues,2,False,PT
+4006,Novaes Ltda.,2,False,PT
+4007,Teixeira,2,False,PT
+4008,Théo Moura,1,False,PT
+4009,Alves,2,False,PT
+4010,Maria Luiza Carvalho,1,False,PT
+4011,Dr. Mathias Moura,1,False,PT
+4012,Andrade,2,False,PT
+4013,Dr. João Miguel Duarte,1,False,PT
+4014,Souza Moraes Ltda.,2,False,PT
+4015,Felipe Pires,1,False,PT
+4016,Almeida,2,False,PT
+4017,Mariah Silveira,1,False,PT
+4018,Juan Ramos,1,False,PT
+4019,João Lucas Andrade,1,False,PT
+4020,Rael Brito,1,False,PT
+4021,Maria Laura Barbosa,1,False,PT
+4022,Abreu,2,False,PT
+4023,Emanuelly Rios,1,False,PT
+4024,Vargas Andrade - ME,2,False,PT
+4025,das Neves,2,False,PT
+4026,Brenda Farias,1,False,PT
+4027,Levi da Costa,1,False,PT
+4028,Fogaça,2,False,PT
+4029,Luiz Fernando Santos,1,False,PT
+4030,Vargas,2,False,PT
+4031,Ian Silveira,1,False,PT
+4032,Cavalcanti,2,False,PT
+4033,Maria Luísa Cunha,1,False,PT
+4034,Sofia Camargo,1,False,PT
+4035,da Cruz,2,False,PT
+4036,Almeida Pastor - EI,2,False,PT
+4037,Maitê da Conceição,1,False,PT
+4038,Novaes e Filhos,2,False,PT
+4039,Vinicius Rodrigues,1,False,PT
+4040,Moraes,2,False,PT
+4041,João Alves,1,False,PT
+4042,Sousa - EI,2,False,PT
+4043,Freitas Rios - ME,2,False,PT
+4044,Otto Alves,1,False,PT
+4045,Porto,2,False,PT
+4046,Vicente da Cunha,1,False,PT
+4047,Carvalho,2,False,PT
+4048,Apollo Sales,1,False,PT
+4049,Maria Cecília Fernandes,1,False,PT
+4050,Isabel Borges,1,False,PT
+4051,da Cruz,2,False,PT
+4052,Davi Miguel Sampaio,1,False,PT
+4053,Guerra Silveira e Filhos,2,False,PT
+4054,Sampaio S/A,2,False,PT
+4055,Sr. Dom Almeida,1,False,PT
+4056,Juan da Cunha,1,False,PT
+4057,Ana Beatriz Jesus,1,False,PT
+4058,Srta. Aylla Almeida,1,False,PT
+4059,Théo da Paz,1,False,PT
+4060,Teixeira S/A,2,False,PT
+4061,Moreira,2,False,PT
+4062,Srta. Carolina Andrade,1,False,PT
+4063,Vieira,2,False,PT
+4064,Borges,2,False,PT
+4065,Davi Luiz Moraes,1,False,PT
+4066,Cauê Martins,1,False,PT
+4067,Rodrigues,2,False,PT
+4068,Eloá Ferreira,1,False,PT
+4069,Valentina Caldeira,1,False,PT
+4070,Araújo Andrade S.A.,2,False,PT
+4071,Camargo Martins - ME,2,False,PT
+4072,da Mata,2,False,PT
+4073,Benjamin Alves,1,False,PT
+4074,Moura Costela - EI,2,False,PT
+4075,Maria Helena Cavalcante,1,False,PT
+4076,Henry Gabriel Macedo,1,False,PT
+4077,da Mota,2,False,PT
+4078,Sales Moreira Ltda.,2,False,PT
+4079,Novaes,2,False,PT
+4080,Maitê Azevedo,1,False,PT
+4081,Beatriz Andrade,1,False,PT
+4082,Thomas Borges,1,False,PT
+4083,Garcia,2,False,PT
+4084,Sr. Ravi Lucca Araújo,1,False,PT
+4085,Vieira Ferreira - EI,2,False,PT
+4086,Dom Casa Grande,1,False,PT
+4087,Marina Aragão,1,False,PT
+4088,Alícia Vieira,1,False,PT
+4089,Mendes,2,False,PT
+4090,Nogueira,2,False,PT
+4091,Borges,2,False,PT
+4092,João Gabriel Rocha,1,False,PT
+4093,Vieira S.A.,2,False,PT
+4094,Caio Santos,1,False,PT
+4095,Dra. Elisa Rodrigues,1,False,PT
+4096,Leão,2,False,PT
+4097,Vasconcelos,2,False,PT
+4098,da Cunha Siqueira - EI,2,False,PT
+4099,Gonçalves,2,False,PT
+4100,Ravi Fernandes,1,False,PT
+4101,Correia,2,False,PT
+4102,Souza Pastor - EI,2,False,PT
+4103,Enzo da Paz,1,False,PT
+4104,Cavalcante,2,False,PT
+4105,Martins,2,False,PT
+4106,Noah Aparecida,1,False,PT
+4107,Leandro Sá,1,False,PT
+4108,Juan Albuquerque,1,False,PT
+4109,Rios Gomes e Filhos,2,False,PT
+4110,Rocha,2,False,PT
+4111,Theo Aragão,1,False,PT
+4112,Pietro Melo,1,False,PT
+4113,Kamilly das Neves,1,False,PT
+4114,Aragão,2,False,PT
+4115,Maria Fernanda Pinto,1,False,PT
+4116,Luigi Souza,1,False,PT
+4117,Vargas Ltda.,2,False,PT
+4118,Vieira e Filhos,2,False,PT
+4119,Antonella Costela,1,False,PT
+4120,Maria Laura Rodrigues,1,False,PT
+4121,Porto,2,False,PT
+4122,Olivia Novaes,1,False,PT
+4123,Costa,2,False,PT
+4124,Mendes Marques e Filhos,2,False,PT
+4125,Sra. Luana Vieira,1,False,PT
+4126,Guerra Ltda.,2,False,PT
+4127,Luiz Miguel Cardoso,1,False,PT
+4128,Castro,2,False,PT
+4129,Liam Freitas,1,False,PT
+4130,Sr. Pietro Fogaça,1,False,PT
+4131,Elisa Rios,1,False,PT
+4132,Cecilia Machado,1,False,PT
+4133,Carlos Eduardo Rocha,1,False,PT
+4134,da Mata,2,False,PT
+4135,Casa Grande Andrade e Filhos,2,False,PT
+4136,Moraes da Cunha - ME,2,False,PT
+4137,Lima S/A,2,False,PT
+4138,Thomas Vasconcelos,1,False,PT
+4139,Rafael Moraes,1,False,PT
+4140,Davi Miguel Gonçalves,1,False,PT
+4141,Novais Ltda.,2,False,PT
+4142,Dr. Isaac Casa Grande,1,False,PT
+4143,Viana e Filhos,2,False,PT
+4144,da Costa Ltda.,2,False,PT
+4145,Thiago Rios,1,False,PT
+4146,Sra. Daniela Camargo,1,False,PT
+4147,Caroline Pimenta,1,False,PT
+4148,Alice Moura,1,False,PT
+4149,Otávio Novais,1,False,PT
+4150,Fogaça,2,False,PT
+4151,Gomes,2,False,PT
+4152,Srta. Lorena Cavalcanti,1,False,PT
+4153,Luiz Otávio Montenegro,1,False,PT
+4154,Pacheco,2,False,PT
+4155,Aparecida,2,False,PT
+4156,Ana Luiza Leão,1,False,PT
+4157,Ana Júlia Souza,1,False,PT
+4158,Sr. Bruno Pinto,1,False,PT
+4159,Rocha e Filhos,2,False,PT
+4160,Catarina Araújo,1,False,PT
+4161,Bento Gomes,1,False,PT
+4162,Ribeiro,2,False,PT
+4163,Sr. Ravy Siqueira,1,False,PT
+4164,Albuquerque Martins - ME,2,False,PT
+4165,Maria Liz Duarte,1,False,PT
+4166,da Paz,2,False,PT
+4167,Cavalcanti,2,False,PT
+4168,Dra. Stella Nascimento,1,False,PT
+4169,Gael Henrique da Paz,1,False,PT
+4170,Freitas,2,False,PT
+4171,Luana Costela,1,False,PT
+4172,Felipe Freitas,1,False,PT
+4173,Giovanna Cassiano,1,False,PT
+4174,Gomes,2,False,PT
+4175,João Vitor Santos,1,False,PT
+4176,da Costa,2,False,PT
+4177,Laís Camargo,1,False,PT
+4178,Cardoso,2,False,PT
+4179,Peixoto Rios Ltda.,2,False,PT
+4180,Silveira,2,False,PT
+4181,Liam Garcia,1,False,PT
+4182,Stephany Barbosa,1,False,PT
+4183,Dr. Juan Marques,1,False,PT
+4184,Garcia,2,False,PT
+4185,da Cunha,2,False,PT
+4186,Felipe Cunha,1,False,PT
+4187,Viana S.A.,2,False,PT
+4188,Siqueira,2,False,PT
+4189,Moreira Pereira e Filhos,2,False,PT
+4190,Barbosa Oliveira - EI,2,False,PT
+4191,da Cunha,2,False,PT
+4192,Zoe Nunes,1,False,PT
+4193,Pastor Albuquerque e Filhos,2,False,PT
+4194,Gonçalves - EI,2,False,PT
+4195,Cavalcante,2,False,PT
+4196,Alves,2,False,PT
+4197,Allana Cardoso,1,False,PT
+4198,Pimenta Barbosa e Filhos,2,False,PT
+4199,Moraes e Filhos,2,False,PT
+4200,Hellena Novais,1,False,PT
+4201,Moura - EI,2,False,PT
+4202,Mathias Sousa,1,False,PT
+4203,da Rocha,2,False,PT
+4204,Gabriela da Conceição,1,False,PT
+4205,Pires Ltda.,2,False,PT
+4206,Juliana Casa Grande,1,False,PT
+4207,Dias - EI,2,False,PT
+4208,Srta. Maria Flor Duarte,1,False,PT
+4209,Freitas,2,False,PT
+4210,Vieira,2,False,PT
+4211,Sr. Augusto Rodrigues,1,False,PT
+4212,Melo e Filhos,2,False,PT
+4213,Barbosa,2,False,PT
+4214,Liam Mendes,1,False,PT
+4215,Raul Barbosa,1,False,PT
+4216,Machado,2,False,PT
+4217,Ágatha Vieira,1,False,PT
+4218,Sr. Caleb Monteiro,1,False,PT
+4219,Siqueira,2,False,PT
+4220,Valentina Casa Grande,1,False,PT
+4221,Casa Grande,2,False,PT
+4222,Ana Vitória Cavalcanti,1,False,PT
+4223,Araújo,2,False,PT
+4224,Machado,2,False,PT
+4225,Aurora Carvalho,1,False,PT
+4226,Kevin Novaes,1,False,PT
+4227,Rebeca Pereira,1,False,PT
+4228,Macedo da Paz - ME,2,False,PT
+4229,Pereira,2,False,PT
+4230,Correia S.A.,2,False,PT
+4231,Ferreira,2,False,PT
+4232,da Conceição,2,False,PT
+4233,Gustavo Peixoto,1,False,PT
+4234,Santos,2,False,PT
+4235,Costela S.A.,2,False,PT
+4236,Sra. Mariana Fernandes,1,False,PT
+4237,Freitas,2,False,PT
+4238,Novais,2,False,PT
+4239,Monteiro,2,False,PT
+4240,da Costa,2,False,PT
+4241,João Felipe Ferreira,1,False,PT
+4242,Lopes,2,False,PT
+4243,Castro,2,False,PT
+4244,Albuquerque - ME,2,False,PT
+4245,Enzo Melo,1,False,PT
+4246,Santos S.A.,2,False,PT
+4247,Moreira e Filhos,2,False,PT
+4248,Maria Eduarda Correia,1,False,PT
+4249,Borges - ME,2,False,PT
+4250,Vinícius Marques,1,False,PT
+4251,Leonardo Cavalcante,1,False,PT
+4252,Cardoso S/A,2,False,PT
+4253,Aparecida,2,False,PT
+4254,Lucas Fonseca,1,False,PT
+4255,Davi Luiz Cavalcante,1,False,PT
+4256,Vieira Barros - ME,2,False,PT
+4257,Ramos,2,False,PT
+4258,Henry Gabriel Machado,1,False,PT
+4259,Srta. Emanuella Garcia,1,False,PT
+4260,Eduarda Ribeiro,1,False,PT
+4261,Maria Alice Carvalho,1,False,PT
+4262,Oliver Vasconcelos,1,False,PT
+4263,Milena Silveira,1,False,PT
+4264,José Pedro Andrade,1,False,PT
+4265,Dias - EI,2,False,PT
+4266,Fogaça Peixoto Ltda.,2,False,PT
+4267,Hadassa Caldeira,1,False,PT
+4268,Sr. Enrico Carvalho,1,False,PT
+4269,Diego Campos,1,False,PT
+4270,Cecilia da Mota,1,False,PT
+4271,da Mata Fogaça S/A,2,False,PT
+4272,Novais,2,False,PT
+4273,Vasconcelos,2,False,PT
+4274,Alícia da Cunha,1,False,PT
+4275,Jesus Montenegro S.A.,2,False,PT
+4276,Rezende,2,False,PT
+4277,da Rosa,2,False,PT
+4278,Ana Lívia Costela,1,False,PT
+4279,Barros Novais - ME,2,False,PT
+4280,da Mata,2,False,PT
+4281,Ana Luiza Nogueira,1,False,PT
+4282,Liz Freitas,1,False,PT
+4283,Borges,2,False,PT
+4284,da Mata,2,False,PT
+4285,Elisa Ribeiro,1,False,PT
+4286,Daniel Mendonça,1,False,PT
+4287,Vargas Nunes - EI,2,False,PT
+4288,da Mata - ME,2,False,PT
+4289,Milena Porto,1,False,PT
+4290,Julia Vieira,1,False,PT
+4291,Pastor,2,False,PT
+4292,Juan Abreu,1,False,PT
+4293,Cauê Rocha,1,False,PT
+4294,Maria Eduarda Siqueira,1,False,PT
+4295,Cirino,2,False,PT
+4296,Carlos Eduardo Sousa,1,False,PT
+4297,Vitor Aragão,1,False,PT
+4298,Cavalcante,2,False,PT
+4299,Davi Lucas Abreu,1,False,PT
+4300,Gomes Ltda.,2,False,PT
+4301,Kevin da Cruz,1,False,PT
+4302,Ferreira,2,False,PT
+4303,Cavalcanti,2,False,PT
+4304,Sousa e Filhos,2,False,PT
+4305,da Mata e Filhos,2,False,PT
+4306,Maria Eduarda Alves,1,False,PT
+4307,da Rocha Ramos e Filhos,2,False,PT
+4308,Gomes Ltda.,2,False,PT
+4309,Sra. Bianca Monteiro,1,False,PT
+4310,Ester da Cruz,1,False,PT
+4311,Macedo das Neves Ltda.,2,False,PT
+4312,Pastor,2,False,PT
+4313,Felipe Jesus,1,False,PT
+4314,Luigi Melo,1,False,PT
+4315,Casa Grande Dias e Filhos,2,False,PT
+4316,Benicio Garcia,1,False,PT
+4317,Montenegro S.A.,2,False,PT
+4318,Ian Novaes,1,False,PT
+4319,Moreira Costela - ME,2,False,PT
+4320,Jesus Teixeira - EI,2,False,PT
+4321,Castro,2,False,PT
+4322,Davi Luiz da Costa,1,False,PT
+4323,Dr. Luiz Otávio Mendonça,1,False,PT
+4324,Sara Alves,1,False,PT
+4325,Duarte Cardoso Ltda.,2,False,PT
+4326,Sra. Maria Flor Andrade,1,False,PT
+4327,Agatha Duarte,1,False,PT
+4328,Barbosa,2,False,PT
+4329,Vasconcelos S/A,2,False,PT
+4330,Cassiano,2,False,PT
+4331,Barbosa S/A,2,False,PT
+4332,Ferreira da Cruz - ME,2,False,PT
+4333,Macedo Costa S.A.,2,False,PT
+4334,Novais S/A,2,False,PT
+4335,Carlos Eduardo Marques,1,False,PT
+4336,Fernando Cardoso,1,False,PT
+4337,Pedro Novais,1,False,PT
+4338,Giovanna Albuquerque,1,False,PT
+4339,Dr. Felipe da Costa,1,False,PT
+4340,Larissa da Luz,1,False,PT
+4341,Fernando Nogueira,1,False,PT
+4342,Gonçalves Pires - ME,2,False,PT
+4343,Teixeira S.A.,2,False,PT
+4344,Anna Liz Rodrigues,1,False,PT
+4345,Pimenta,2,False,PT
+4346,Gustavo Nogueira,1,False,PT
+4347,da Rocha Novaes S/A,2,False,PT
+4348,Srta. Emanuella Ramos,1,False,PT
+4349,Maria Luiza Sousa,1,False,PT
+4350,Davi Miguel Castro,1,False,PT
+4351,Antonella da Conceição,1,False,PT
+4352,Sarah Teixeira,1,False,PT
+4353,Alexia Moreira,1,False,PT
+4354,Giovanna Abreu,1,False,PT
+4355,Cardoso S/A,2,False,PT
+4356,Ravy Nogueira,1,False,PT
+4357,Thomas Azevedo,1,False,PT
+4358,Dr. Cauê da Rocha,1,False,PT
+4359,Freitas Freitas S/A,2,False,PT
+4360,Maria Helena Abreu,1,False,PT
+4361,Mendonça,2,False,PT
+4362,da Cunha Ltda.,2,False,PT
+4363,Murilo Ramos,1,False,PT
+4364,Cardoso,2,False,PT
+4365,Erick Sales,1,False,PT
+4366,Dr. Vicente Pacheco,1,False,PT
+4367,Cunha,2,False,PT
+4368,Castro Albuquerque - EI,2,False,PT
+4369,Mateus Caldeira,1,False,PT
+4370,Machado,2,False,PT
+4371,Anthony Pimenta,1,False,PT
+4372,Guilherme Pimenta,1,False,PT
+4373,Dr. Daniel da Mata,1,False,PT
+4374,Luan Câmara,1,False,PT
+4375,Eloah Cassiano,1,False,PT
+4376,Kaique Martins,1,False,PT
+4377,Freitas S.A.,2,False,PT
+4378,Fogaça Barros S.A.,2,False,PT
+4379,Maria Fernanda Lima,1,False,PT
+4380,Mendes,2,False,PT
+4381,Dra. Alexia Teixeira,1,False,PT
+4382,Nunes,2,False,PT
+4383,Vargas Casa Grande S.A.,2,False,PT
+4384,Vitor Gabriel Vargas,1,False,PT
+4385,Lívia Rocha,1,False,PT
+4386,Almeida e Filhos,2,False,PT
+4387,Mendonça Mendonça Ltda.,2,False,PT
+4388,Monteiro - EI,2,False,PT
+4389,Almeida,2,False,PT
+4390,Lopes Pimenta Ltda.,2,False,PT
+4391,Oliveira,2,False,PT
+4392,Danilo Albuquerque,1,False,PT
+4393,Machado,2,False,PT
+4394,Amanda Aparecida,1,False,PT
+4395,Maria Julia Nogueira,1,False,PT
+4396,Pacheco,2,False,PT
+4397,Zoe Camargo,1,False,PT
+4398,Barbosa,2,False,PT
+4399,Pires,2,False,PT
+4400,Ferreira e Filhos,2,False,PT
+4401,Dra. Aylla Moraes,1,False,PT
+4402,Cirino da Paz Ltda.,2,False,PT
+4403,Viana,2,False,PT
+4404,Luigi Barbosa,1,False,PT
+4405,Carvalho,2,False,PT
+4406,Cirino - ME,2,False,PT
+4407,Clarice Mendes,1,False,PT
+4408,Alexandre Pastor,1,False,PT
+4409,Leão,2,False,PT
+4410,Lara Montenegro,1,False,PT
+4411,Fonseca Novaes - EI,2,False,PT
+4412,Maria Isis Dias,1,False,PT
+4413,Casa Grande Barbosa - ME,2,False,PT
+4414,da Rocha,2,False,PT
+4415,Aparecida,2,False,PT
+4416,Gael Henrique Ramos,1,False,PT
+4417,Alves Farias - EI,2,False,PT
+4418,Costa S/A,2,False,PT
+4419,Camila Mendes,1,False,PT
+4420,Paulo Silveira,1,False,PT
+4421,Sra. Laís da Mata,1,False,PT
+4422,Moura,2,False,PT
+4423,Andrade - ME,2,False,PT
+4424,Maria Fernanda Oliveira,1,False,PT
+4425,Raul Porto,1,False,PT
+4426,Davi Gomes,1,False,PT
+4427,Silveira da Paz - EI,2,False,PT
+4428,Vitor Hugo da Mata,1,False,PT
+4429,Luan Montenegro,1,False,PT
+4430,Theodoro da Mota,1,False,PT
+4431,Anna Liz Pastor,1,False,PT
+4432,Rezende,2,False,PT
+4433,Leão,2,False,PT
+4434,Mendes,2,False,PT
+4435,Theodoro Monteiro,1,False,PT
+4436,Gonçalves - EI,2,False,PT
+4437,Vasconcelos,2,False,PT
+4438,Ana Sophia Vieira,1,False,PT
+4439,Juan Almeida,1,False,PT
+4440,da Costa,2,False,PT
+4441,Cunha Lima e Filhos,2,False,PT
+4442,Giovanna Carvalho,1,False,PT
+4443,da Cunha Novaes Ltda.,2,False,PT
+4444,Monteiro da Cruz S.A.,2,False,PT
+4445,Andrade,2,False,PT
+4446,Dr. Arthur Camargo,1,False,PT
+4447,da Costa,2,False,PT
+4448,Farias,2,False,PT
+4449,Garcia da Cruz - EI,2,False,PT
+4450,Júlia Aragão,1,False,PT
+4451,Emilly Vargas,1,False,PT
+4452,Vieira,2,False,PT
+4453,Castro,2,False,PT
+4454,Olívia Albuquerque,1,False,PT
+4455,Ana Oliveira,1,False,PT
+4456,Dr. Vinicius Ribeiro,1,False,PT
+4457,Ana Clara Machado,1,False,PT
+4458,da Mota,2,False,PT
+4459,Correia,2,False,PT
+4460,Montenegro S.A.,2,False,PT
+4461,Maria Sophia Lopes,1,False,PT
+4462,Maitê Alves,1,False,PT
+4463,Ferreira,2,False,PT
+4464,Martins,2,False,PT
+4465,Calebe Souza,1,False,PT
+4466,Natália da Costa,1,False,PT
+4467,Marcela Ramos,1,False,PT
+4468,Sra. Maria Sophia Souza,1,False,PT
+4469,Elisa Moura,1,False,PT
+4470,Viana,2,False,PT
+4471,Maria Laura Rocha,1,False,PT
+4472,Sampaio,2,False,PT
+4473,da Conceição,2,False,PT
+4474,Ísis Marques,1,False,PT
+4475,Melissa Casa Grande,1,False,PT
+4476,Aparecida,2,False,PT
+4477,Andrade Rezende - ME,2,False,PT
+4478,Melo e Filhos,2,False,PT
+4479,Sousa e Filhos,2,False,PT
+4480,Danilo Azevedo,1,False,PT
+4481,Brito,2,False,PT
+4482,Evelyn Garcia,1,False,PT
+4483,Marcos Vinicius Sousa,1,False,PT
+4484,Sá da Cunha - EI,2,False,PT
+4485,Davi Luiz Barros,1,False,PT
+4486,Murilo Nascimento,1,False,PT
+4487,João Felipe Alves,1,False,PT
+4488,Clara Gomes,1,False,PT
+4489,Guilherme Alves,1,False,PT
+4490,Albuquerque da Paz Ltda.,2,False,PT
+4491,Apollo Nascimento,1,False,PT
+4492,Maysa Moreira,1,False,PT
+4493,Heitor Ribeiro,1,False,PT
+4494,Matheus Jesus,1,False,PT
+4495,Viana,2,False,PT
+4496,Kevin Machado,1,False,PT
+4497,Ramos,2,False,PT
+4498,Pinto,2,False,PT
+4499,Pimenta Ltda.,2,False,PT
+4500,Pastor,2,False,PT
+4501,Machado,2,False,PT
+4502,das Neves,2,False,PT
+4503,Kevin Santos,1,False,PT
+4504,Castro Nunes e Filhos,2,False,PT
+4505,Pimenta,2,False,PT
+4506,Souza Ltda.,2,False,PT
+4507,Freitas Nascimento - ME,2,False,PT
+4508,Moreira,2,False,PT
+4509,Breno Vasconcelos,1,False,PT
+4510,Isabel Câmara,1,False,PT
+4511,Gonçalves S.A.,2,False,PT
+4512,Nunes Rodrigues e Filhos,2,False,PT
+4513,Sr. Fernando Fonseca,1,False,PT
+4514,Cassiano,2,False,PT
+4515,Castro,2,False,PT
+4516,Agatha Souza,1,False,PT
+4517,Dias,2,False,PT
+4518,Ravy Macedo,1,False,PT
+4519,Cauã Mendes,1,False,PT
+4520,Rocha,2,False,PT
+4521,Bianca Abreu,1,False,PT
+4522,Pimenta,2,False,PT
+4523,João Felipe Ribeiro,1,False,PT
+4524,Davi Miguel Pires,1,False,PT
+4525,Allana da Cunha,1,False,PT
+4526,Maysa Mendes,1,False,PT
+4527,Gabriel Barros,1,False,PT
+4528,Alexandre Cirino,1,False,PT
+4529,Albuquerque,2,False,PT
+4530,Alana Cardoso,1,False,PT
+4531,Gael da Rocha,1,False,PT
+4532,Marina Freitas,1,False,PT
+4533,Matheus Camargo,1,False,PT
+4534,Théo Mendonça,1,False,PT
+4535,Cavalcanti,2,False,PT
+4536,Freitas Pastor e Filhos,2,False,PT
+4537,Souza,2,False,PT
+4538,Jesus Câmara - EI,2,False,PT
+4539,Catarina Camargo,1,False,PT
+4540,Sr. Bryan Garcia,1,False,PT
+4541,Cardoso S.A.,2,False,PT
+4542,Casa Grande,2,False,PT
+4543,Clarice Sales,1,False,PT
+4544,da Paz,2,False,PT
+4545,Daniel Dias,1,False,PT
+4546,Ayla Melo,1,False,PT
+4547,Farias Borges - EI,2,False,PT
+4548,Srta. Bruna Rios,1,False,PT
+4549,Maria Liz da Mota,1,False,PT
+4550,Raul Pimenta,1,False,PT
+4551,Davi Aparecida,1,False,PT
+4552,Sr. Joaquim Araújo,1,False,PT
+4553,Dr. Henrique Marques,1,False,PT
+4554,Dr. Davi Lucca Fernandes,1,False,PT
+4555,Santos,2,False,PT
+4556,Camila Guerra,1,False,PT
+4557,Gomes,2,False,PT
+4558,Ana Sophia Araújo,1,False,PT
+4559,Dra. Fernanda Albuquerque,1,False,PT
+4560,Barros,2,False,PT
+4561,Luiza Barbosa,1,False,PT
+4562,Machado S.A.,2,False,PT
+4563,Maria Julia Novaes,1,False,PT
+4564,Sra. Fernanda Porto,1,False,PT
+4565,Câmara,2,False,PT
+4566,Ana Vitória Rezende,1,False,PT
+4567,Araújo,2,False,PT
+4568,Nicolas das Neves,1,False,PT
+4569,Vieira,2,False,PT
+4570,Peixoto Santos Ltda.,2,False,PT
+4571,Pedro Costela,1,False,PT
+4572,Miguel Oliveira,1,False,PT
+4573,José Pedro Gonçalves,1,False,PT
+4574,Teixeira Siqueira - ME,2,False,PT
+4575,Alves,2,False,PT
+4576,Cassiano S/A,2,False,PT
+4577,Aragão,2,False,PT
+4578,Pimenta Gonçalves e Filhos,2,False,PT
+4579,Brito Ltda.,2,False,PT
+4580,Peixoto,2,False,PT
+4581,Ferreira S.A.,2,False,PT
+4582,da Mata das Neves S.A.,2,False,PT
+4583,Souza Leão S/A,2,False,PT
+4584,Alexia da Mota,1,False,PT
+4585,Gael Pinto,1,False,PT
+4586,Pires,2,False,PT
+4587,Moraes Pinto e Filhos,2,False,PT
+4588,Vieira S/A,2,False,PT
+4589,Laura Campos,1,False,PT
+4590,Sarah Fernandes,1,False,PT
+4591,Silva,2,False,PT
+4592,Santos,2,False,PT
+4593,Maria Eduarda Garcia,1,False,PT
+4594,Sra. Sarah Sampaio,1,False,PT
+4595,Barbosa,2,False,PT
+4596,Andrade Sousa S/A,2,False,PT
+4597,Kamilly da Conceição,1,False,PT
+4598,Guilherme Cavalcanti,1,False,PT
+4599,Almeida,2,False,PT
+4600,Gustavo Moreira,1,False,PT
+4601,Nunes Correia e Filhos,2,False,PT
+4602,Antonella Viana,1,False,PT
+4603,Cardoso - EI,2,False,PT
+4604,Kevin Leão,1,False,PT
+4605,Aragão da Paz Ltda.,2,False,PT
+4606,Sra. Manuela Sales,1,False,PT
+4607,Ana Júlia Cunha,1,False,PT
+4608,Souza Cavalcante e Filhos,2,False,PT
+4609,Jesus,2,False,PT
+4610,Rios,2,False,PT
+4611,Guerra,2,False,PT
+4612,João Miguel Casa Grande,1,False,PT
+4613,Isis Campos,1,False,PT
+4614,da Luz,2,False,PT
+4615,Moreira,2,False,PT
+4616,Leandro Duarte,1,False,PT
+4617,Maysa Macedo,1,False,PT
+4618,Vieira Cunha - ME,2,False,PT
+4619,Lopes - EI,2,False,PT
+4620,Rafael da Mota,1,False,PT
+4621,Fogaça,2,False,PT
+4622,Joaquim Jesus,1,False,PT
+4623,Enrico Fogaça,1,False,PT
+4624,da Mata,2,False,PT
+4625,Sabrina Câmara,1,False,PT
+4626,Sampaio - EI,2,False,PT
+4627,Vinicius Cardoso,1,False,PT
+4628,Moreira da Paz Ltda.,2,False,PT
+4629,Erick da Mota,1,False,PT
+4630,Vitória Casa Grande,1,False,PT
+4631,Davi Lucas Carvalho,1,False,PT
+4632,Isaque Carvalho,1,False,PT
+4633,Duarte,2,False,PT
+4634,Vargas,2,False,PT
+4635,Theodoro Montenegro,1,False,PT
+4636,Sá Sampaio e Filhos,2,False,PT
+4637,Anthony Novaes,1,False,PT
+4638,Gomes S.A.,2,False,PT
+4639,Henrique Rodrigues,1,False,PT
+4640,Novais,2,False,PT
+4641,da Costa,2,False,PT
+4642,Sofia Gonçalves,1,False,PT
+4643,Cardoso da Mata S.A.,2,False,PT
+4644,Marques Barros e Filhos,2,False,PT
+4645,Dra. Alexia Vargas,1,False,PT
+4646,Lorena Borges,1,False,PT
+4647,João Vitor Gomes,1,False,PT
+4648,Dr. Arthur Gabriel Correia,1,False,PT
+4649,Valentim da Cruz,1,False,PT
+4650,João Lucas Viana,1,False,PT
+4651,Araújo,2,False,PT
+4652,Pedro Miguel Silva,1,False,PT
+4653,Albuquerque,2,False,PT
+4654,Dr. Felipe Pinto,1,False,PT
+4655,Vieira,2,False,PT
+4656,Mariah Vieira,1,False,PT
+4657,Dr. João Vitor Nunes,1,False,PT
+4658,Emilly Brito,1,False,PT
+4659,Câmara - EI,2,False,PT
+4660,Liam Ramos,1,False,PT
+4661,Renan Costa,1,False,PT
+4662,Ferreira,2,False,PT
+4663,Casa Grande - EI,2,False,PT
+4664,Emilly da Cunha,1,False,PT
+4665,Rezende,2,False,PT
+4666,Câmara Fogaça - ME,2,False,PT
+4667,Pereira,2,False,PT
+4668,Rocha,2,False,PT
+4669,Lopes S.A.,2,False,PT
+4670,Rezende - EI,2,False,PT
+4671,Vitória Abreu,1,False,PT
+4672,Ravy Cavalcante,1,False,PT
+4673,Sr. Bruno da Cunha,1,False,PT
+4674,Vasconcelos S.A.,2,False,PT
+4675,Sophie Mendes,1,False,PT
+4676,Moreira Martins S/A,2,False,PT
+4677,Cavalcanti Ltda.,2,False,PT
+4678,Srta. Catarina Novais,1,False,PT
+4679,Rael Araújo,1,False,PT
+4680,Sra. Catarina Caldeira,1,False,PT
+4681,Sousa,2,False,PT
+4682,Enzo Rios,1,False,PT
+4683,Castro Borges Ltda.,2,False,PT
+4684,Ribeiro Almeida S.A.,2,False,PT
+4685,Pires,2,False,PT
+4686,Silveira da Paz e Filhos,2,False,PT
+4687,Freitas Marques - EI,2,False,PT
+4688,Mathias Borges,1,False,PT
+4689,Carlos Eduardo Rios,1,False,PT
+4690,Brito,2,False,PT
+4691,Caio Nunes,1,False,PT
+4692,Sra. Marina da Rosa,1,False,PT
+4693,Mariana Almeida,1,False,PT
+4694,Mathias Rios,1,False,PT
+4695,Ágatha Cavalcante,1,False,PT
+4696,Araújo,2,False,PT
+4697,Ferreira Camargo S/A,2,False,PT
+4698,Lima,2,False,PT
+4699,Nascimento Vasconcelos S/A,2,False,PT
+4700,Juliana Garcia,1,False,PT
+4701,Caldeira,2,False,PT
+4702,Calebe Sampaio,1,False,PT
+4703,Machado,2,False,PT
+4704,Caldeira,2,False,PT
+4705,Cardoso - ME,2,False,PT
+4706,Sofia Nascimento,1,False,PT
+4707,Vasconcelos S.A.,2,False,PT
+4708,Teixeira Machado S.A.,2,False,PT
+4709,Yasmin Rodrigues,1,False,PT
+4710,Dr. André Lima,1,False,PT
+4711,Dra. Júlia Pastor,1,False,PT
+4712,Alves S/A,2,False,PT
+4713,Pastor - ME,2,False,PT
+4714,Nogueira,2,False,PT
+4715,Sra. Luiza Sales,1,False,PT
+4716,Enrico Rezende,1,False,PT
+4717,Monteiro,2,False,PT
+4718,Luiz Otávio Pastor,1,False,PT
+4719,Cecília Aragão,1,False,PT
+4720,Fernandes,2,False,PT
+4721,Lara Cavalcante,1,False,PT
+4722,Marques Silveira S/A,2,False,PT
+4723,Gomes,2,False,PT
+4724,Peixoto Pastor S/A,2,False,PT
+4725,Melo e Filhos,2,False,PT
+4726,Kamilly Pimenta,1,False,PT
+4727,Fonseca S/A,2,False,PT
+4728,Dias Ltda.,2,False,PT
+4729,Costela,2,False,PT
+4730,Castro,2,False,PT
+4731,Vitória Moreira,1,False,PT
+4732,Duarte S.A.,2,False,PT
+4733,Fernandes S/A,2,False,PT
+4734,Isadora Pastor,1,False,PT
+4735,Lorenzo Ramos,1,False,PT
+4736,Gabrielly Pires,1,False,PT
+4737,Porto - EI,2,False,PT
+4738,Viana,2,False,PT
+4739,Francisco Campos,1,False,PT
+4740,Sá,2,False,PT
+4741,Cunha,2,False,PT
+4742,Mariana Oliveira,1,False,PT
+4743,Natália Almeida,1,False,PT
+4744,Fernando Cardoso,1,False,PT
+4745,Guerra,2,False,PT
+4746,Câmara Alves e Filhos,2,False,PT
+4747,Nathan da Conceição,1,False,PT
+4748,Leonardo Duarte,1,False,PT
+4749,Bruna Lopes,1,False,PT
+4750,Cardoso Leão S.A.,2,False,PT
+4751,Cardoso,2,False,PT
+4752,Mendonça Moraes S.A.,2,False,PT
+4753,Nina Sousa,1,False,PT
+4754,Allana Moura,1,False,PT
+4755,Sra. Sofia da Cunha,1,False,PT
+4756,Ravy Souza,1,False,PT
+4757,Renan Carvalho,1,False,PT
+4758,Costela,2,False,PT
+4759,Mendonça Oliveira - ME,2,False,PT
+4760,Cunha,2,False,PT
+4761,Leão,2,False,PT
+4762,Natália Pacheco,1,False,PT
+4763,Barbosa,2,False,PT
+4764,Novaes S/A,2,False,PT
+4765,Maria Clara Fonseca,1,False,PT
+4766,Eloá da Rosa,1,False,PT
+4767,Davi Lima,1,False,PT
+4768,Castro Cunha - EI,2,False,PT
+4769,Oliveira,2,False,PT
+4770,Davi Lucas Vieira,1,False,PT
+4771,Novais Vieira - ME,2,False,PT
+4772,José Pedro Borges,1,False,PT
+4773,Ana Carolina Macedo,1,False,PT
+4774,Vargas,2,False,PT
+4775,Lopes Fogaça S/A,2,False,PT
+4776,Aragão,2,False,PT
+4777,Sampaio,2,False,PT
+4778,Sampaio,2,False,PT
+4779,Ferreira - EI,2,False,PT
+4780,Sousa,2,False,PT
+4781,Matheus Nogueira,1,False,PT
+4782,Rodrigues,2,False,PT
+4783,Casa Grande da Cunha - EI,2,False,PT
+4784,Rodrigues S/A,2,False,PT
+4785,Guilherme Ramos,1,False,PT
+4786,Gustavo Henrique Albuquerque,1,False,PT
+4787,Abreu Ltda.,2,False,PT
+4788,da Luz Leão e Filhos,2,False,PT
+4789,Sophie Jesus,1,False,PT
+4790,Santos,2,False,PT
+4791,Melo,2,False,PT
+4792,Barbosa Machado e Filhos,2,False,PT
+4793,da Rosa,2,False,PT
+4794,Pinto,2,False,PT
+4795,Cirino S/A,2,False,PT
+4796,Eduardo Freitas,1,False,PT
+4797,Campos S/A,2,False,PT
+4798,Pedro Lucas Nogueira,1,False,PT
+4799,Maria Flor Cavalcanti,1,False,PT
+4800,Pimenta,2,False,PT
+4801,Montenegro,2,False,PT
+4802,Costa,2,False,PT
+4803,Mendes Ltda.,2,False,PT
+4804,Alves Cassiano - ME,2,False,PT
+4805,Lopes,2,False,PT
+4806,Cavalcante,2,False,PT
+4807,Clara Sales,1,False,PT
+4808,Lopes,2,False,PT
+4809,Carlos Eduardo da Mata,1,False,PT
+4810,Gonçalves,2,False,PT
+4811,Dra. Hadassa da Cruz,1,False,PT
+4812,Farias,2,False,PT
+4813,Emanuel Alves,1,False,PT
+4814,Moura,2,False,PT
+4815,da Mota Fonseca S.A.,2,False,PT
+4816,da Luz Pimenta Ltda.,2,False,PT
+4817,Otávio da Conceição,1,False,PT
+4818,Daniela Fogaça,1,False,PT
+4819,Jesus Costa - EI,2,False,PT
+4820,Dra. Olívia Dias,1,False,PT
+4821,Ravy Mendonça,1,False,PT
+4822,Rios e Filhos,2,False,PT
+4823,Novaes,2,False,PT
+4824,Dra. Heloisa da Cunha,1,False,PT
+4825,Novais,2,False,PT
+4826,Matteo Cunha,1,False,PT
+4827,Dr. José Pedro Monteiro,1,False,PT
+4828,Eduarda Vasconcelos,1,False,PT
+4829,Costa Correia Ltda.,2,False,PT
+4830,Brito,2,False,PT
+4831,Silveira,2,False,PT
+4832,Dra. Mariana Cassiano,1,False,PT
+4833,Ravy Brito,1,False,PT
+4834,Vasconcelos,2,False,PT
+4835,Abreu Fogaça - EI,2,False,PT
+4836,Ana Julia Freitas,1,False,PT
+4837,Peixoto,2,False,PT
+4838,Ravy Teixeira,1,False,PT
+4839,Macedo e Filhos,2,False,PT
+4840,Gabrielly Jesus,1,False,PT
+4841,Marques,2,False,PT
+4842,Freitas,2,False,PT
+4843,Aparecida S.A.,2,False,PT
+4844,Rocha Melo - EI,2,False,PT
+4845,Vitor Siqueira,1,False,PT
+4846,Mateus da Rocha,1,False,PT
+4847,Vinícius Costa,1,False,PT
+4848,Pereira,2,False,PT
+4849,Sara Carvalho,1,False,PT
+4850,Pastor Ltda.,2,False,PT
+4851,Lopes,2,False,PT
+4852,Leandro Melo,1,False,PT
+4853,Rezende,2,False,PT
+4854,Noah Campos,1,False,PT
+4855,Carolina Sales,1,False,PT
+4856,Brito Sales - EI,2,False,PT
+4857,Julia Abreu,1,False,PT
+4858,Caldeira Nunes Ltda.,2,False,PT
+4859,Mendonça S/A,2,False,PT
+4860,Castro,2,False,PT
+4861,Daniela Teixeira,1,False,PT
+4862,Siqueira,2,False,PT
+4863,Yan Vieira,1,False,PT
+4864,da Mota e Filhos,2,False,PT
+4865,Ribeiro - ME,2,False,PT
+4866,Alves S.A.,2,False,PT
+4867,Ribeiro Rocha - EI,2,False,PT
+4868,Camargo,2,False,PT
+4869,da Conceição - EI,2,False,PT
+4870,Silva Albuquerque e Filhos,2,False,PT
+4871,Mendes,2,False,PT
+4872,Campos Gomes e Filhos,2,False,PT
+4873,Aurora Carvalho,1,False,PT
+4874,Sr. André Albuquerque,1,False,PT
+4875,Alves Ltda.,2,False,PT
+4876,Cauê Peixoto,1,False,PT
+4877,Vieira,2,False,PT
+4878,André Melo,1,False,PT
+4879,Ana Júlia Pimenta,1,False,PT
+4880,Brito e Filhos,2,False,PT
+4881,Anthony Castro,1,False,PT
+4882,Sra. Sophie Pastor,1,False,PT
+4883,Rhavi Abreu,1,False,PT
+4884,Luan Barros,1,False,PT
+4885,Moreira,2,False,PT
+4886,Isaque Siqueira,1,False,PT
+4887,Maria Isis Pimenta,1,False,PT
+4888,Vitor Gabriel Cassiano,1,False,PT
+4889,Alexia Correia,1,False,PT
+4890,Nunes,2,False,PT
+4891,Marcelo Monteiro,1,False,PT
+4892,Rhavi Sá,1,False,PT
+4893,Nina Câmara,1,False,PT
+4894,Moura S/A,2,False,PT
+4895,Rezende,2,False,PT
+4896,Nunes Correia S.A.,2,False,PT
+4897,Letícia Fonseca,1,False,PT
+4898,Souza,2,False,PT
+4899,Davi Luiz Mendes,1,False,PT
+4900,Duarte Ltda.,2,False,PT
+4901,Moura,2,False,PT
+4902,Vitória Farias,1,False,PT
+4903,Pedro Miguel Peixoto,1,False,PT
+4904,Silva,2,False,PT
+4905,Moraes,2,False,PT
+4906,Luísa Leão,1,False,PT
+4907,Melina Silveira,1,False,PT
+4908,da Cunha Ltda.,2,False,PT
+4909,Nogueira Nunes e Filhos,2,False,PT
+4910,Dra. Hadassa Duarte,1,False,PT
+4911,Eduarda da Luz,1,False,PT
+4912,Matheus Casa Grande,1,False,PT
+4913,Marcelo Carvalho,1,False,PT
+4914,Luiz Fernando Azevedo,1,False,PT
+4915,Andrade,2,False,PT
+4916,Pimenta Porto e Filhos,2,False,PT
+4917,Caio Costa,1,False,PT
+4918,da Rocha,2,False,PT
+4919,Pinto S/A,2,False,PT
+4920,da Cunha Azevedo S/A,2,False,PT
+4921,Marcos Vinicius Siqueira,1,False,PT
+4922,Pacheco Ltda.,2,False,PT
+4923,Novais Jesus Ltda.,2,False,PT
+4924,Melo,2,False,PT
+4925,Dra. Jade Montenegro,1,False,PT
+4926,Cecília Jesus,1,False,PT
+4927,Monteiro Azevedo S.A.,2,False,PT
+4928,da Luz - ME,2,False,PT
+4929,Dr. Francisco Farias,1,False,PT
+4930,Ravy Silveira,1,False,PT
+4931,Ísis Almeida,1,False,PT
+4932,Nicolas Viana,1,False,PT
+4933,Oliveira,2,False,PT
+4934,Anthony Gabriel Sá,1,False,PT
+4935,Gomes,2,False,PT
+4936,Silveira,2,False,PT
+4937,Jesus,2,False,PT
+4938,Srta. Gabriela Melo,1,False,PT
+4939,Fonseca Montenegro S.A.,2,False,PT
+4940,Andrade,2,False,PT
+4941,Melissa Camargo,1,False,PT
+4942,Nascimento Pimenta - ME,2,False,PT
+4943,Julia Montenegro,1,False,PT
+4944,Guerra,2,False,PT
+4945,da Conceição,2,False,PT
+4946,Sophia Rios,1,False,PT
+4947,Cassiano,2,False,PT
+4948,Costa Sales - ME,2,False,PT
+4949,Henry Gabriel Pereira,1,False,PT
+4950,Monteiro S.A.,2,False,PT
+4951,Cauã Oliveira,1,False,PT
+4952,Borges Pacheco Ltda.,2,False,PT
+4953,Fonseca Pires - EI,2,False,PT
+4954,Kevin Pinto,1,False,PT
+4955,Ryan Azevedo,1,False,PT
+4956,Zoe Correia,1,False,PT
+4957,Fernanda Gonçalves,1,False,PT
+4958,João Pedro Oliveira,1,False,PT
+4959,Manuela Nunes,1,False,PT
+4960,Marina Mendes,1,False,PT
+4961,Correia Pinto e Filhos,2,False,PT
+4962,Davi Lucas Araújo,1,False,PT
+4963,Diego Vasconcelos,1,False,PT
+4964,Guerra Rezende e Filhos,2,False,PT
+4965,Rios Vieira S.A.,2,False,PT
+4966,Davi Ramos,1,False,PT
+4967,Cavalcante,2,False,PT
+4968,Josué Viana,1,False,PT
+4969,Gabrielly Andrade,1,False,PT
+4970,Costa - EI,2,False,PT
+4971,Caldeira,2,False,PT
+4972,Rocha,2,False,PT
+4973,Oliveira S/A,2,False,PT
+4974,Dr. Luiz Fernando Souza,1,False,PT
+4975,Nogueira,2,False,PT
+4976,Henry Machado,1,False,PT
+4977,Guerra,2,False,PT
+4978,Nicole Freitas,1,False,PT
+4979,Correia,2,False,PT
+4980,Mariah Jesus,1,False,PT
+4981,Fernandes,2,False,PT
+4982,Caldeira,2,False,PT
+4983,da Mota,2,False,PT
+4984,Azevedo Jesus S/A,2,False,PT
+4985,Gustavo Costa,1,False,PT
+4986,Renan Pires,1,False,PT
+4987,Leão Nascimento Ltda.,2,False,PT
+4988,Sra. Júlia Pimenta,1,False,PT
+4989,Maria Rocha,1,False,PT
+4990,Davi Lucca Costela,1,False,PT
+4991,Bella Sales,1,False,PT
+4992,Freitas Teixeira S/A,2,False,PT
+4993,Oliveira,2,False,PT
+4994,Moreira,2,False,PT
+4995,Bianca Pacheco,1,False,PT
+4996,Rocha,2,False,PT
+4997,Duarte Silva - EI,2,False,PT
+4998,Caldeira Caldeira S/A,2,False,PT
+4999,Emanuella Viana,1,False,PT
+5000,Cirino S.A.,2,False,PT

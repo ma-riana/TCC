@@ -1,0 +1,5 @@
+id_unidade_gestora,id_ente,nome_unidade,sigla_unidade,cep,previdencia,fonte
+1,1,Secretaria de Saúde - PMF,SMS,35572-647,False,PT
+2,1,Secretaria de Obras - PMF,SMO,68259-127,False,PT
+3,2,Fundo de Saúde - PMJ,FMS,54908-402,True,PT
+4,2,Secretaria de Educação - PMJ,SME,79460-335,False,PT

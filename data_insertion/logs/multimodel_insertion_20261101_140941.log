@@ -1,0 +1,69 @@
+2026-11-01 14:09:41,817 [INFO] Início da inserção multimodelo
+2026-11-01 14:09:56,510 [INFO] Collections e índices criados
+2026-11-01 14:09:56,578 [INFO] 5 documento(s) em modalidade_licitacao a partir de modalidade_licitacao.csv
+2026-11-01 14:09:56,639 [INFO] 5 documento(s) em municipio a partir de municipio.csv
+2026-11-01 14:09:56,692 [INFO] 3 documento(s) em situacao_cadastral a partir de situacao_cadastral.csv
+2026-11-01 14:09:58,969 [INFO] 50000 documento(s) em pessoa a partir de pessoa.csv
+2026-11-01 14:10:01,336 [INFO] 43513 documento(s) em pessoa a partir de pessoa_cgu.csv
+2026-11-01 14:10:02,851 [INFO] 38465 documento(s) em pessoa a partir de pessoa_pncp.csv
+2026-11-01 14:10:04,767 [INFO] 40263 documento(s) em pessoa a partir de pessoa_tce.csv
+2026-11-01 14:10:06,452 [INFO] 27700 documento(s) em pessoa a partir de pessoa_tcu.csv
+2026-11-01 14:10:06,456 [INFO] 2 documento(s) em ente a partir de ente.csv
+2026-11-01 14:10:06,502 [INFO] 4 documento(s) em unidade_gestora a partir de unidade_gestora.csv
+2026-11-01 14:10:10,305 [INFO] 100000 documento(s) em processo_licitatorio a partir de processo_licitatorio.csv
+2026-11-01 14:10:11,920 [INFO] 28625 documento(s) em processo_licitatorio a partir de processo_licitatorio_cgu.csv
+2026-11-01 14:10:13,212 [INFO] 32621 documento(s) em processo_licitatorio a partir de processo_licitatorio_pncp.csv
+2026-11-01 14:10:15,155 [INFO] 40663 documento(s) em processo_licitatorio a partir de processo_licitatorio_tce.csv
+2026-11-01 14:10:19,210 [INFO] 65934 documento(s) em processo_licitatorio a partir de processo_licitatorio_tcu.csv
+2026-11-01 14:10:24,824 [INFO] 200035 documento(s) em documento a partir de documento.csv
+2026-11-01 14:10:32,020 [INFO] 250371 documento(s) em item_licitacao a partir de item_licitacao.csv
+2026-11-01 14:10:33,316 [INFO] 44724 documento(s) em item_licitacao a partir de item_licitacao_cgu.csv
+2026-11-01 14:10:34,183 [INFO] 20811 documento(s) em item_licitacao a partir de item_licitacao_pncp.csv
+2026-11-01 14:10:35,519 [INFO] 40990 documento(s) em item_licitacao a partir de item_licitacao_tce.csv
+2026-11-01 14:10:36,308 [INFO] 27287 documento(s) em item_licitacao a partir de item_licitacao_tcu.csv
+2026-11-01 14:10:39,250 [INFO] 80058 documento(s) em contrato a partir de contrato.csv
+2026-11-01 14:10:40,197 [INFO] 27267 documento(s) em contrato a partir de contrato_cgu.csv
+2026-11-01 14:10:42,201 [INFO] 52232 documento(s) em contrato a partir de contrato_pncp.csv
+2026-11-01 14:10:43,008 [INFO] 22213 documento(s) em contrato a partir de contrato_tce.csv
+2026-11-01 14:10:43,816 [INFO] 23208 documento(s) em contrato a partir de contrato_tcu.csv
+2026-11-01 14:11:27,094 [INFO] 876852 documento(s) em cotacao a partir de cotacao.csv
+2026-11-01 14:11:27,645 [INFO] 25066 documento(s) em pessoa_fisica a partir de pessoa_fisica.csv
+2026-11-01 14:11:28,248 [INFO] 24934 documento(s) em pessoa_juridica a partir de pessoa_juridica.csv
+2026-11-01 14:11:29,116 [INFO] 24934 documento(s) em estabelecimento a partir de estabelecimento.csv
+2026-11-01 14:11:29,230 [INFO] 2 aresta(s) em ENTE_MUNICIPIO
+2026-11-01 14:11:30,021 [INFO] 24934 aresta(s) em ESTABELECIMENTO_MUNICIPIO
+2026-11-01 14:11:30,071 [INFO] 4 aresta(s) em UNIDADE_GESTORA_ENTE
+2026-11-01 14:11:48,664 [INFO] 264937 aresta(s) em PROCESSO_LICITATORIO_MODALIDADE_LICITACAO
+2026-11-01 14:12:06,200 [INFO] 267843 aresta(s) em PROCESSO_LICITATORIO_UNIDADE_GESTORA
+2026-11-01 14:12:37,219 [INFO] 535984 aresta(s) em DOCUMENTO_PROCESSO_LICITATORIO
+2026-11-01 14:18:12,499 [ERROR] Falha durante a inserção multimodelo
+Traceback (most recent call last):
+  File "C:\Users\maria\OneDrive\Documents\TCC\data_insertion\multimodel_insertion.py", line 246, in main
+    load_direct_edges(db)
+    ~~~~~~~~~~~~~~~~~^^^^
+  File "C:\Users\maria\OneDrive\Documents\TCC\data_insertion\multimodel_insertion.py", line 200, in load_direct_edges
+    db.aql.execute(DIRECT_EDGE_QUERY, bind_vars={
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        '@origin': origin,
+        ^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+        'pk': NODE_TABLES[target],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    })
+    ^^
+  File "C:\Users\maria\OneDrive\Documents\TCC\venv\Lib\site-packages\arango\aql.py", line 493, in execute
+    return self._execute(request, response_handler)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maria\OneDrive\Documents\TCC\venv\Lib\site-packages\arango\api.py", line 74, in _execute
+    return self._executor.execute(request, response_handler)
+           ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maria\OneDrive\Documents\TCC\venv\Lib\site-packages\arango\executor.py", line 66, in execute
+    resp = self._conn.send_request(request)
+  File "C:\Users\maria\OneDrive\Documents\TCC\venv\Lib\site-packages\arango\connection.py", line 322, in send_request
+    return self.process_request(host_index, request, auth=self._auth)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maria\OneDrive\Documents\TCC\venv\Lib\site-packages\arango\connection.py", line 189, in process_request
+    raise ConnectionAbortedError(
+        f"Can't connect to host(s) within limit ({self._host_resolver.max_tries})"
+    )
+ConnectionAbortedError: Can't connect to host(s) within limit (3)

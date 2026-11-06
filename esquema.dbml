@@ -1,0 +1,156 @@
+Table modalidade_licitacao {
+  id_modalidade_licitacao int4 [pk]
+  descricao text
+}
+
+Table municipio {
+  id_municipio int4 [pk]
+  nome_municipio text
+  sigla_uf char(2)
+  nome_uf text
+}
+
+Table situacao_cadastral {
+  id_situacao_cadastral int4 [pk]
+  descricao text
+}
+
+Table pessoa {
+  id_pessoa int4 [pk]
+  nome text [not null]
+  tipo_pessoa int4 [not null]
+  estrangeiro bool
+}
+
+Table ente {
+  id_ente int8 [pk]
+  id_municipio int4 [ref: > municipio.id_municipio]
+  nome_ente text
+  id_tipo_esfera int8
+}
+
+Table unidade_gestora {
+  id_unidade_gestora int4 [pk]
+  id_ente int8 [ref: > ente.id_ente]
+  nome_unidade text
+  sigla_unidade text
+  cep text
+  previdencia bool
+}
+
+Table processo_licitatorio {
+  id_processo_licitatorio int8 [pk]
+  id_modalidade_licitacao int4 [ref: > modalidade_licitacao.id_modalidade_licitacao]
+  id_unidade_gestora int4 [ref: > unidade_gestora.id_unidade_gestora]
+  numero_processo_licitatorio text
+  numero_edital text
+  data_limite_propostas date
+  data_aprovacao_acessoria_juridica date
+  descricao_objeto text
+  valor_previsto float8
+  data_abertura date
+  data_planilha_custos date
+  data_homologacao date
+  valor_garantia float8
+  competencia date
+  internacional bool
+}
+
+Table documento {
+  id_documento int4 [pk]
+  id_processo_licitatorio int8 [ref: > processo_licitatorio.id_processo_licitatorio]
+  codigo_documento text
+  tipo_documento text
+  descricao text
+  nome text
+  data_emissao timestamp
+  tamanho text
+  acesso_arquivo text
+}
+
+Table item_licitacao {
+  id_item int4 [pk]
+  id_processo_licitatorio int8 [ref: > processo_licitatorio.id_processo_licitatorio]
+  numero_item int4
+  descricao text
+  quantidade float8
+  valor_unitario_estimado float8
+  unidade_medida text
+}
+
+Table contrato {
+  id_contrato int4 [pk]
+  id_processo_licitatorio int8 [ref: > processo_licitatorio.id_processo_licitatorio]
+  id_contrato_superior int4
+  descricao_objetivo text
+  numero_contrato text
+  data_assinatura date
+  data_vencimento date
+  valor_contrato float8
+  valor_garantia float8
+  competencia date
+  num_autorizacao_estadual text
+  data_autorizacao_estadual date
+}
+
+Table cotacao {
+  id_cotacao int4 [pk]
+  id_pessoa int4 [ref: > pessoa.id_pessoa]
+  numero_item int4 [not null]
+  qt_item_cotado float8
+  valor_cotado float8
+  vencedor bool
+  classificacao int2
+}
+
+Table pessoa_fisica {
+  id_pessoa int4 [pk, ref: - pessoa.id_pessoa]
+  id_situacao_cadastral int4 [ref: > situacao_cadastral.id_situacao_cadastral]
+  cpf text [not null]
+  pais_residencia int4
+  faixa_etaria char(5)
+  data_nascimento date
+}
+
+Table pessoa_juridica {
+  id_pessoa int4 [pk, ref: - pessoa.id_pessoa]
+  cnpj text [not null]
+  razao_social text
+  data_abertura date
+  capital_social float8
+  pais_residencia int4
+  porte_empresa text
+}
+
+Table estabelecimento {
+  id_estabelecimento int4 [pk]
+  id_pessoa_juridica int4 [ref: > pessoa_juridica.id_pessoa]
+  id_situacao_cadastral int4 [ref: > situacao_cadastral.id_situacao_cadastral]
+  id_municipio int4 [ref: > municipio.id_municipio]
+  matriz bool
+  nome_fantasia text
+  data_inicio_atividade date
+  cnae_principal int4
+  endereco text
+  cep text
+  telefones json
+  email text
+  situacao_especial text
+  data_situacao_especial date
+}
+
+// Tabelas Associativas (N:N)
+Table processo_licitatorio_pessoa {
+  id_processo_licitatorio int8 [ref: > processo_licitatorio.id_processo_licitatorio]
+  id_pessoa int4 [ref: > pessoa.id_pessoa]
+}
+
+Table item_cotacao {
+  id_item int4 [ref: > item_licitacao.id_item]
+  id_cotacao int4 [ref: > cotacao.id_cotacao]
+}
+
+Table contrato_cotacao {
+  id_contrato int4 [ref: > contrato.id_contrato]
+  id_cotacao int4 [ref: > cotacao.id_cotacao]
+}

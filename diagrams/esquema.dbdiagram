@@ -1,0 +1,342 @@
+{
+  "version": "3.0.0",
+  "darkMode": true,
+  "gridEnabling": false,
+  "currentViewName": null,
+  "defaultView": {
+    "detailLevel": "All",
+    "relationshipMode": "All",
+    "tablePositions": [],
+    "tableGroupCollapseStates": [],
+    "stickyNoteLayouts": [],
+    "referencePaths": [
+      {
+        "firstFieldNames": [
+          "id_municipio"
+        ],
+        "firstTableName": "municipio",
+        "firstSchemaName": "public",
+        "firstRelation": "1",
+        "secondFieldNames": [
+          "id_municipio"
+        ],
+        "secondTableName": "ente",
+        "secondSchemaName": "public",
+        "secondRelation": "*",
+        "checkPoints": []
+      },
+      {
+        "firstFieldNames": [
+          "id_ente"
+        ],
+        "firstTableName": "ente",
+        "firstSchemaName": "public",
+        "firstRelation": "1",
+        "secondFieldNames": [
+          "id_ente"
+        ],
+        "secondTableName": "unidade_gestora",
+        "secondSchemaName": "public",
+        "secondRelation": "*",
+        "checkPoints": []
+      },
+      {
+        "firstFieldNames": [
+          "id_modalidade_licitacao"
+        ],
+        "firstTableName": "modalidade_licitacao",
+        "firstSchemaName": "public",
+        "firstRelation": "1",
+        "secondFieldNames": [
+          "id_modalidade_licitacao"
+        ],
+        "secondTableName": "processo_licitatorio",
+        "secondSchemaName": "public",
+        "secondRelation": "*",
+        "checkPoints": []
+      },
+      {
+        "firstFieldNames": [
+          "id_unidade_gestora"
+        ],
+        "firstTableName": "unidade_gestora",
+        "firstSchemaName": "public",
+        "firstRelation": "1",
+        "secondFieldNames": [
+          "id_unidade_gestora"
+        ],
+        "secondTableName": "processo_licitatorio",
+        "secondSchemaName": "public",
+        "secondRelation": "*",
+        "checkPoints": []
+      },
+      {
+        "firstFieldNames": [
+          "id_processo_licitatorio"
+        ],
+        "firstTableName": "processo_licitatorio",
+        "firstSchemaName": "public",
+        "firstRelation": "1",
+        "secondFieldNames": [
+          "id_processo_licitatorio"
+        ],
+        "secondTableName": "documento",
+        "secondSchemaName": "public",
+        "secondRelation": "*",
+        "checkPoints": []
+      },
+      {
+        "firstFieldNames": [
+          "id_processo_licitatorio"
+        ],
+        "firstTableName": "processo_licitatorio",
+        "firstSchemaName": "public",
+        "firstRelation": "1",
+        "secondFieldNames": [
+          "id_processo_licitatorio"
+        ],
+        "secondTableName": "item_licitacao",
+        "secondSchemaName": "public",
+        "secondRelation": "*",
+        "checkPoints": []
+      },
+      {
+        "firstFieldNames": [
+          "id_processo_licitatorio"
+        ],
+        "firstTableName": "processo_licitatorio",
+        "firstSchemaName": "public",
+        "firstRelation": "1",
+        "secondFieldNames": [
+          "id_processo_licitatorio"
+        ],
+        "secondTableName": "contrato",
+        "secondSchemaName": "public",
+        "secondRelation": "*",
+        "checkPoints": []
+      },
+      {
+        "firstFieldNames": [
+          "id_pessoa"
+        ],
+        "firstTableName": "pessoa",
+        "firstSchemaName": "public",
+        "firstRelation": "1",
+        "secondFieldNames": [
+          "id_pessoa"
+        ],
+        "secondTableName": "cotacao",
+        "secondSchemaName": "public",
+        "secondRelation": "*",
+        "checkPoints": [
+          {
+            "x": 234.55224609375,
+            "y": 637.7999573590466
+          },
+          {
+            "x": 380.002197265625,
+            "y": 637.7999573590466
+          },
+          {
+            "x": 380.002197265625,
+            "y": 934
+          }
+        ]
+      },
+      {
+        "firstFieldNames": [
+          "id_pessoa"
+        ],
+        "firstTableName": "pessoa",
+        "firstSchemaName": "public",
+        "firstRelation": "1",
+        "secondFieldNames": [
+          "id_pessoa"
+        ],
+        "secondTableName": "pessoa_fisica",
+        "secondSchemaName": "public",
+        "secondRelation": "1",
+        "checkPoints": [
+          {
+            "x": 234.55224609375,
+            "y": 501.22224591164075
+          },
+          {
+            "x": 380.002197265625,
+            "y": 501.22224591164075
+          },
+          {
+            "x": 380.002197265625,
+            "y": 329
+          }
+        ]
+      },
+      {
+        "firstFieldNames": [
+          "id_situacao_cadastral"
+        ],
+        "firstTableName": "situacao_cadastral",
+        "firstSchemaName": "public",
+        "firstRelation": "1",
+        "secondFieldNames": [
+          "id_situacao_cadastral"
+        ],
+        "secondTableName": "pessoa_fisica",
+        "secondSchemaName": "public",
+        "secondRelation": "*",
+        "checkPoints": []
+      },
+      {
+        "firstFieldNames": [
+          "id_pessoa"
+        ],
+        "firstTableName": "pessoa",
+        "firstSchemaName": "public",
+        "firstRelation": "1",
+        "secondFieldNames": [
+          "id_pessoa"
+        ],
+        "secondTableName": "pessoa_juridica",
+        "secondSchemaName": "public",
+        "secondRelation": "1",
+        "checkPoints": []
+      },
+      {
+        "firstFieldNames": [
+          "id_pessoa"
+        ],
+        "firstTableName": "pessoa_juridica",
+        "firstSchemaName": "public",
+        "firstRelation": "1",
+        "secondFieldNames": [
+          "id_pessoa_juridica"
+        ],
+        "secondTableName": "estabelecimento",
+        "secondSchemaName": "public",
+        "secondRelation": "*",
+        "checkPoints": []
+      },
+      {
+        "firstFieldNames": [
+          "id_situacao_cadastral"
+        ],
+        "firstTableName": "situacao_cadastral",
+        "firstSchemaName": "public",
+        "firstRelation": "1",
+        "secondFieldNames": [
+          "id_situacao_cadastral"
+        ],
+        "secondTableName": "estabelecimento",
+        "secondSchemaName": "public",
+        "secondRelation": "*",
+        "checkPoints": []
+      },
+      {
+        "firstFieldNames": [
+          "id_municipio"
+        ],
+        "firstTableName": "municipio",
+        "firstSchemaName": "public",
+        "firstRelation": "1",
+        "secondFieldNames": [
+          "id_municipio"
+        ],
+        "secondTableName": "estabelecimento",
+        "secondSchemaName": "public",
+        "secondRelation": "*",
+        "checkPoints": []
+      },
+      {
+        "firstFieldNames": [
+          "id_processo_licitatorio"
+        ],
+        "firstTableName": "processo_licitatorio",
+        "firstSchemaName": "public",
+        "firstRelation": "1",
+        "secondFieldNames": [
+          "id_processo_licitatorio"
+        ],
+        "secondTableName": "processo_licitatorio_pessoa",
+        "secondSchemaName": "public",
+        "secondRelation": "*",
+        "checkPoints": []
+      },
+      {
+        "firstFieldNames": [
+          "id_pessoa"
+        ],
+        "firstTableName": "pessoa",
+        "firstSchemaName": "public",
+        "firstRelation": "1",
+        "secondFieldNames": [
+          "id_pessoa"
+        ],
+        "secondTableName": "processo_licitatorio_pessoa",
+        "secondSchemaName": "public",
+        "secondRelation": "*",
+        "checkPoints": []
+      },
+      {
+        "firstFieldNames": [
+          "id_item"
+        ],
+        "firstTableName": "item_licitacao",
+        "firstSchemaName": "public",
+        "firstRelation": "1",
+        "secondFieldNames": [
+          "id_item"
+        ],
+        "secondTableName": "item_cotacao",
+        "secondSchemaName": "public",
+        "secondRelation": "*",
+        "checkPoints": []
+      },
+      {
+        "firstFieldNames": [
+          "id_cotacao"
+        ],
+        "firstTableName": "cotacao",
+        "firstSchemaName": "public",
+        "firstRelation": "1",
+        "secondFieldNames": [
+          "id_cotacao"
+        ],
+        "secondTableName": "item_cotacao",
+        "secondSchemaName": "public",
+        "secondRelation": "*",
+        "checkPoints": []
+      },
+      {
+        "firstFieldNames": [
+          "id_contrato"
+        ],
+        "firstTableName": "contrato",
+        "firstSchemaName": "public",
+        "firstRelation": "1",
+        "secondFieldNames": [
+          "id_contrato"
+        ],
+        "secondTableName": "contrato_cotacao",
+        "secondSchemaName": "public",
+        "secondRelation": "*",
+        "checkPoints": []
+      },
+      {
+        "firstFieldNames": [
+          "id_cotacao"
+        ],
+        "firstTableName": "cotacao",
+        "firstSchemaName": "public",
+        "firstRelation": "1",
+        "secondFieldNames": [
+          "id_cotacao"
+        ],
+        "secondTableName": "contrato_cotacao",
+        "secondSchemaName": "public",
+        "secondRelation": "*",
+        "checkPoints": []
+      }
+    ]
+  },
+  "views": {}
+}

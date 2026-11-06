@@ -1,0 +1,38 @@
+2026-11-02 12:19:12,831 [INFO] Início da inserção poliglota
+2026-11-02 12:19:13,057 [INFO] 5 linha(s) inserida(s) em modalidade_licitacao
+2026-11-02 12:19:13,081 [INFO] 5 linha(s) inserida(s) em municipio
+2026-11-02 12:19:13,108 [INFO] 3 linha(s) inserida(s) em situacao_cadastral
+2026-11-02 12:19:13,764 [INFO] 25000 linha(s) inserida(s) em pessoa
+2026-11-02 12:19:13,791 [INFO] 2 linha(s) inserida(s) em ente
+2026-11-02 12:19:13,813 [INFO] 4 linha(s) inserida(s) em unidade_gestora
+2026-11-02 12:19:15,020 [INFO] 50000 linha(s) inserida(s) em processo_licitatorio
+2026-11-02 12:19:17,550 [INFO] 100007 linha(s) inserida(s) em documento
+2026-11-02 12:19:18,818 [INFO] 125303 linha(s) inserida(s) em item_licitacao
+2026-11-02 12:19:19,279 [INFO] 39987 linha(s) inserida(s) em contrato
+2026-11-02 12:19:23,615 [INFO] 438354 linha(s) inserida(s) em cotacao
+2026-11-02 12:19:23,815 [INFO] 12449 linha(s) inserida(s) em pessoa_fisica
+2026-11-02 12:19:23,950 [INFO] 12551 linha(s) inserida(s) em pessoa_juridica
+2026-11-02 12:19:24,196 [INFO] 12551 linha(s) inserida(s) em estabelecimento
+2026-11-02 12:19:26,490 [INFO] 174893 linha(s) inserida(s) em processo_licitatorio_pessoa
+2026-11-02 12:19:32,708 [INFO] 438354 linha(s) inserida(s) em item_cotacao
+2026-11-02 12:19:33,646 [INFO] 100361 linha(s) inserida(s) em contrato_cotacao
+2026-11-02 12:19:34,102 [INFO] Constraints e índices do grafo criados
+2026-11-02 12:19:45,464 [INFO] 21288 nó(s) Contrato criados a partir de contrato_cgu.csv
+2026-11-02 12:19:49,877 [INFO] 24255 nó(s) Contrato criados a partir de contrato_pncp.csv
+2026-11-02 12:19:51,437 [INFO] 9909 nó(s) Contrato criados a partir de contrato_tce.csv
+2026-11-02 12:19:54,765 [INFO] 21346 nó(s) Contrato criados a partir de contrato_tcu.csv
+2026-11-02 12:19:56,750 [INFO] 20444 nó(s) ItemLicitacao criados a partir de item_licitacao_cgu.csv
+2026-11-02 12:19:58,659 [INFO] 23896 nó(s) ItemLicitacao criados a partir de item_licitacao_pncp.csv
+2026-11-02 12:20:00,174 [INFO] 19245 nó(s) ItemLicitacao criados a partir de item_licitacao_tce.csv
+2026-11-02 12:20:01,316 [INFO] 12847 nó(s) ItemLicitacao criados a partir de item_licitacao_tcu.csv
+2026-11-02 12:20:02,584 [INFO] 18193 nó(s) Pessoa criados a partir de pessoa_cgu.csv
+2026-11-02 12:20:03,144 [INFO] 6532 nó(s) Pessoa criados a partir de pessoa_pncp.csv
+2026-11-02 12:20:04,122 [INFO] 14663 nó(s) Pessoa criados a partir de pessoa_tce.csv
+2026-11-02 12:20:05,771 [INFO] 23659 nó(s) Pessoa criados a partir de pessoa_tcu.csv
+2026-11-02 12:20:08,147 [INFO] 12162 nó(s) ProcessoLicitatorio criados a partir de processo_licitatorio_cgu.csv
+2026-11-02 12:20:11,002 [INFO] 17404 nó(s) ProcessoLicitatorio criados a partir de processo_licitatorio_pncp.csv
+2026-11-02 12:20:15,411 [INFO] 28270 nó(s) ProcessoLicitatorio criados a partir de processo_licitatorio_tce.csv
+2026-11-02 12:20:17,522 [INFO] 14235 nó(s) ProcessoLicitatorio criados a partir de processo_licitatorio_tcu.csv
+2026-11-02 12:20:20,006 [INFO] Relacionamentos CONTRATO_PROCESSO_LICITATORIO criados
+2026-11-02 12:20:21,207 [INFO] Relacionamentos ITEM_LICITACAO_PROCESSO_LICITATORIO criados
+2026-11-02 12:20:21,207 [INFO] Inserção poliglota concluída com sucesso

@@ -1,0 +1,15 @@
+2026-11-01 14:02:47,796 [INFO] Início da inserção poliglota
+2026-11-01 14:02:48,190 [ERROR] Falha durante a inserção poliglota
+Traceback (most recent call last):
+  File "C:\Users\maria\OneDrive\Documents\TCC\data_insertion\polyglot_insertion.py", line 223, in main
+    load_relational()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\maria\OneDrive\Documents\TCC\data_insertion\polyglot_insertion.py", line 112, in load_relational
+    cursor.copy_expert(
+    ~~~~~~~~~~~~~~~~~~^
+        f"COPY {table} ({', '.join(columns)}) FROM STDIN WITH (FORMAT csv, HEADER true)", handle)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+psycopg2.errors.UniqueViolation: duplicate key value violates unique constraint "modalidade_licitacao_pkey"
+DETAIL:  Key (id_modalidade_licitacao)=(1) already exists.
+CONTEXT:  COPY modalidade_licitacao, line 2
+

@@ -1,0 +1,42 @@
+services:
+  postgres:
+    image: postgres:15
+    container_name: db_postgres
+    environment:
+      POSTGRES_USER: admin
+      POSTGRES_PASSWORD: password123
+      POSTGRES_DB: benchmark_db
+    ports:
+      - "5433:5432"
+
+  neo4j:
+    image: neo4j:5
+    container_name: db_neo4j
+    environment:
+      NEO4J_AUTH: neo4j/password123
+      NEO4J_server_memory_heap_initial__size: 1G
+      NEO4J_server_memory_heap_max__size: 2G
+      NEO4J_server_memory_pagecache_size: 1G
+    ports:
+      - "7474:7474"
+      - "7687:7687"
+
+  neo4j_polyglot:
+    image: neo4j:5
+    container_name: db_neo4j2
+    environment:
+      NEO4J_AUTH: neo4j/password123
+      NEO4J_server_memory_heap_initial__size: 1G
+      NEO4J_server_memory_heap_max__size: 2G
+      NEO4J_server_memory_pagecache_size: 1G
+    ports:
+      - "7475:7474" 
+      - "7688:7687"
+
+  arangodb:
+    image: arangodb:3.11
+    container_name: db_arango
+    environment:
+      ARANGO_ROOT_PASSWORD: password123
+    ports:
+      - "8529:8529"

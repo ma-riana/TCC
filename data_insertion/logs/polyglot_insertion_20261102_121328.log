@@ -1,0 +1,22 @@
+2026-11-02 12:13:28,336 [INFO] Início da inserção poliglota
+2026-11-02 12:13:28,415 [WARNING] Arquivo não encontrado, pulando: C:\Users\maria\OneDrive\Documents\TCC\fake_data\csvs\main\modalidade_licitacao.csv
+2026-11-02 12:13:28,416 [WARNING] Arquivo não encontrado, pulando: C:\Users\maria\OneDrive\Documents\TCC\fake_data\csvs\main\municipio.csv
+2026-11-02 12:13:28,416 [WARNING] Arquivo não encontrado, pulando: C:\Users\maria\OneDrive\Documents\TCC\fake_data\csvs\main\situacao_cadastral.csv
+2026-11-02 12:13:28,416 [WARNING] Arquivo não encontrado, pulando: C:\Users\maria\OneDrive\Documents\TCC\fake_data\csvs\main\pessoa.csv
+2026-11-02 12:13:28,416 [WARNING] Arquivo não encontrado, pulando: C:\Users\maria\OneDrive\Documents\TCC\fake_data\csvs\main\ente.csv
+2026-11-02 12:13:28,417 [WARNING] Arquivo não encontrado, pulando: C:\Users\maria\OneDrive\Documents\TCC\fake_data\csvs\main\unidade_gestora.csv
+2026-11-02 12:13:28,417 [WARNING] Arquivo não encontrado, pulando: C:\Users\maria\OneDrive\Documents\TCC\fake_data\csvs\main\processo_licitatorio.csv
+2026-11-02 12:13:28,417 [WARNING] Arquivo não encontrado, pulando: C:\Users\maria\OneDrive\Documents\TCC\fake_data\csvs\main\documento.csv
+2026-11-02 12:13:28,417 [WARNING] Arquivo não encontrado, pulando: C:\Users\maria\OneDrive\Documents\TCC\fake_data\csvs\main\item_licitacao.csv
+2026-11-02 12:13:28,417 [WARNING] Arquivo não encontrado, pulando: C:\Users\maria\OneDrive\Documents\TCC\fake_data\csvs\main\contrato.csv
+2026-11-02 12:13:28,417 [WARNING] Arquivo não encontrado, pulando: C:\Users\maria\OneDrive\Documents\TCC\fake_data\csvs\main\cotacao.csv
+2026-11-02 12:13:28,417 [WARNING] Arquivo não encontrado, pulando: C:\Users\maria\OneDrive\Documents\TCC\fake_data\csvs\main\pessoa_fisica.csv
+2026-11-02 12:13:28,417 [WARNING] Arquivo não encontrado, pulando: C:\Users\maria\OneDrive\Documents\TCC\fake_data\csvs\main\pessoa_juridica.csv
+2026-11-02 12:13:28,417 [WARNING] Arquivo não encontrado, pulando: C:\Users\maria\OneDrive\Documents\TCC\fake_data\csvs\main\estabelecimento.csv
+2026-11-02 12:13:28,417 [WARNING] Arquivo não encontrado, pulando: C:\Users\maria\OneDrive\Documents\TCC\fake_data\csvs\main\processo_licitatorio_pessoa.csv
+2026-11-02 12:13:28,417 [WARNING] Arquivo não encontrado, pulando: C:\Users\maria\OneDrive\Documents\TCC\fake_data\csvs\main\item_cotacao.csv
+2026-11-02 12:13:28,417 [WARNING] Arquivo não encontrado, pulando: C:\Users\maria\OneDrive\Documents\TCC\fake_data\csvs\main\contrato_cotacao.csv
+2026-11-02 12:13:31,931 [INFO] Constraints e índices do grafo criados
+2026-11-02 12:13:32,779 [INFO] Relacionamentos CONTRATO_PROCESSO_LICITATORIO criados
+2026-11-02 12:13:33,011 [INFO] Relacionamentos ITEM_LICITACAO_PROCESSO_LICITATORIO criados
+2026-11-02 12:13:33,012 [INFO] Inserção poliglota concluída com sucesso

@@ -1,0 +1,101 @@
+2026-11-01 13:50:28,977 [INFO] Início da inserção no grafo
+2026-11-01 13:51:28,986 [ERROR] Falha durante a inserção no grafo
+Traceback (most recent call last):
+  File "C:\Users\maria\OneDrive\Documents\TCC\venv\Lib\site-packages\neo4j\_sync\io\_bolt_socket.py", line 166, in _handshake_read
+    response = self.recv(n)
+  File "C:\Users\maria\OneDrive\Documents\TCC\venv\Lib\site-packages\neo4j\_async_compat\network\_bolt_socket.py", line 501, in recv
+    return self._wait_for_read(self._socket.recv, n)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maria\OneDrive\Documents\TCC\venv\Lib\site-packages\neo4j\_async_compat\network\_bolt_socket.py", line 429, in _wait_for_read
+    return self._wait_for_io(
+           ~~~~~~~~~~~~~~~~~^
+        "read",
+        ^^^^^^^
+    ...<5 lines>...
+        **kwargs,
+        ^^^^^^^^^
+    )
+    ^
+  File "C:\Users\maria\OneDrive\Documents\TCC\venv\Lib\site-packages\neo4j\_async_compat\network\_bolt_socket.py", line 470, in _wait_for_io
+    return func(*args, **kwargs)
+TimeoutError: timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\maria\OneDrive\Documents\TCC\venv\Lib\site-packages\neo4j\_sync\io\_bolt_socket.py", line 336, in connect
+    agreed_version = s._handshake(resolved_address, deadline)
+  File "C:\Users\maria\OneDrive\Documents\TCC\venv\Lib\site-packages\neo4j\_sync\io\_bolt_socket.py", line 263, in _handshake
+    response = self._handshake_read(ctx, 4)
+  File "C:\Users\maria\OneDrive\Documents\TCC\venv\Lib\site-packages\neo4j\_sync\io\_bolt_socket.py", line 169, in _handshake_read
+    raise ServiceUnavailable(
+    ...<2 lines>...
+    ) from exc
+neo4j.exceptions.ServiceUnavailable: Failed to read four byte Bolt handshake response from server ResolvedIPv6Address(('::1', 7687, 0, 0)) (deadline Deadline(timeout=60.0))
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\maria\OneDrive\Documents\TCC\data_insertion\graph_insertion.py", line 256, in main
+    prepare_schema(session)
+    ~~~~~~~~~~~~~~^^^^^^^^^
+  File "C:\Users\maria\OneDrive\Documents\TCC\data_insertion\graph_insertion.py", line 182, in prepare_schema
+    session.run(
+    ~~~~~~~~~~~^
+        f'CREATE CONSTRAINT uniq_{label.lower()} IF NOT EXISTS '
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        f'FOR (n:{label}) REQUIRE (n.{key}, n.codigo_fonte) IS UNIQUE').consume()
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maria\OneDrive\Documents\TCC\venv\Lib\site-packages\neo4j\_sync\work\session.py", line 318, in run
+    self._connect(self._config.default_access_mode)
+    ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maria\OneDrive\Documents\TCC\venv\Lib\site-packages\neo4j\_sync\work\session.py", line 128, in _connect
+    super()._connect(
+    ~~~~~~~~~~~~~~~~^
+        access_mode, auth=self._config.auth, **acquire_kwargs
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\maria\OneDrive\Documents\TCC\venv\Lib\site-packages\neo4j\_sync\work\workspace.py", line 181, in _connect
+    self._connection = self._pool.acquire(**acquire_kwargs_)
+                       ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maria\OneDrive\Documents\TCC\venv\Lib\site-packages\neo4j\_sync\io\_pool.py", line 678, in acquire
+    return self._acquire(
+           ~~~~~~~~~~~~~^
+        self.address, auth, deadline, liveness_check_timeout, unprepared
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\maria\OneDrive\Documents\TCC\venv\Lib\site-packages\neo4j\_sync\io\_pool.py", line 418, in _acquire
+    return connection_creator()
+  File "C:\Users\maria\OneDrive\Documents\TCC\venv\Lib\site-packages\neo4j\_sync\io\_pool.py", line 231, in connection_creator
+    connection = self.opener(
+        address, auth or self.pool_config.auth, deadline
+    )
+  File "C:\Users\maria\OneDrive\Documents\TCC\venv\Lib\site-packages\neo4j\_sync\io\_pool.py", line 638, in opener
+    return Bolt.open(
+           ~~~~~~~~~^
+        addr,
+        ^^^^^
+    ...<3 lines>...
+        pool_config=pool_config,
+        ^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\maria\OneDrive\Documents\TCC\venv\Lib\site-packages\neo4j\_sync\io\_bolt.py", line 366, in open
+    s, protocol_version = BoltSocket.connect(
+                          ~~~~~~~~~~~~~~~~~~^
+        address,
+        ^^^^^^^^
+    ...<4 lines>...
+        keep_alive=pool_config.keep_alive,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\maria\OneDrive\Documents\TCC\venv\Lib\site-packages\neo4j\_sync\io\_bolt_socket.py", line 379, in connect
+    raise ServiceUnavailable(
+    ...<2 lines>...
+    ) from errors[0]
+neo4j.exceptions.ServiceUnavailable: Couldn't connect to localhost:7687 (resolved to ('[::1]:7687', '127.0.0.1:7687')):
+Failed to read four byte Bolt handshake response from server ResolvedIPv6Address(('::1', 7687, 0, 0)) (deadline Deadline(timeout=60.0))
+Failed to read four byte Bolt handshake response from server ResolvedIPv4Address(('127.0.0.1', 7687)) (deadline Deadline(timeout=60.0))
