@@ -1,4 +1,4 @@
-# Benchmark de Bancos de Dados: Licitações Públicas
+# Avaliação de arquiteturas de bancos de dados no contexto de Licitações Públicas
 
 Este repositório contém o código para o Trabalho de Conclusão de Curso (TCC) focado na análise comparativa de desempenho entre persistência poliglota, bancos multimodelo e bancos de dados em grafo no contexto de licitações públicas brasileiras.
 
