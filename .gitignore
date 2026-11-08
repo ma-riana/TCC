@@ -1,0 +1,28 @@
+# Virtual Environments
+.venv/
+env/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# IDEs
+.vscode/
+.idea/
+
+# Logs
+logs/
+*.log
+
+# Data (Ignorar os diretórios de dados gerados)
+fake_data/csvs/
+fake_data/csvs_medium/
+fake_data/csvs_small/
+
+# Graficos (Ignorar pastas com os resultados gráficos gerados)
+utils/graficos_grande/
+utils/graficos_grande1/
+utils/graficos_medium/
+utils/graficos_small/
